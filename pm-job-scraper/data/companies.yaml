@@ -1,0 +1,46 @@
+# רשימת חברות לסריקה.
+#
+# חשוב:
+#  * חברות סייבר *לא* נכללות כאן במכוון — זו ההחרגה הנדרשת.
+#  * זו רשימת *בסיס* לדוגמה כדי להריץ end-to-end. הרשימה המלאה (חברות
+#    ישראליות + בינלאומיות עם נוכחות בישראל) נבנית כמשימת מחקר נפרדת.
+#  * ה-`token` של כל חברה צריך אימות מול הפלטפורמה — אם token שגוי,
+#    הסקרייפר פשוט ידלג על אותה חברה וירשום שגיאה (לא יקרוס).
+#
+# שדות:
+#   name      - שם תצוגה
+#   ats       - comeet | greenhouse | lever
+#   token     - מזהה החברה בפלטפורמה
+#   uid       - (ל-Comeet בלבד) מזהה החברה הנוסף
+#   homepage  - קישור לעמוד הקריירה (לתיעוד)
+#   category  - תיוג חופשי (אל תשתמשו ב-cyber)
+
+- name: "Monday.com"
+  ats: "greenhouse"
+  token: "monday"
+  homepage: "https://monday.com/careers"
+  category: "saas"
+
+- name: "Lemonade"
+  ats: "greenhouse"
+  token: "lemonade"
+  homepage: "https://www.lemonade.com/careers"
+  category: "insurtech"
+
+- name: "Riskified"
+  ats: "greenhouse"
+  token: "riskified"
+  homepage: "https://www.riskified.com/careers"
+  category: "fintech"
+
+- name: "Fiverr"
+  ats: "greenhouse"
+  token: "fiverr"
+  homepage: "https://www.fiverr.com/jobs"
+  category: "marketplace"
+
+- name: "Taboola"
+  ats: "greenhouse"
+  token: "taboola"
+  homepage: "https://www.taboola.com/careers"
+  category: "adtech"
