@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# Generated copy used only for the Pages deploy; source of truth is data/jobs.json
+docs/jobs.json

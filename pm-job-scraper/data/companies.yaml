@@ -1,0 +1,740 @@
+# רשימת חברות לסריקת משרות Product Manager.
+#
+# חשוב:
+#  * חברות סייבר *ותחומים סמוכים* (appsec, identity, fraud-prevention,
+#    data-security) לא נכללות כאן במכוון — זו ההחרגה הנדרשת.
+#  * זיהוי פלטפורמת הגיוס (ATS) והטוקן נעשים *אוטומטית* מתוך careers_url
+#    (ראו scraper/discovery.py). אין צורך למלא token ידנית.
+#  * אפשר לקבע ידנית ע"י הוספת `ats:` ו-`token:` (יעקוף את הגילוי).
+#  * רב-לאומיות רבות משתמשות ב-Workday/מערכת עצמית — הן ברשימה אך לא
+#    ייסרקו עד שיתווסף adapter מתאים (יסומנו unknown בדו"ח).
+#
+# שדות:
+#   name        - שם תצוגה
+#   description - תיאור קצר של החברה
+#   category    - תחום (לא cyber/security)
+#   hq          - israel | multinational
+#   careers_url - כתובת עמוד הקריירה (בסיס לגילוי האוטומטי)
+
+# ============================== SaaS / Productivity ==============================
+
+- name: "Monday.com"
+  description: "פלטפורמת Work OS לניהול עבודה, פרויקטים וצוותים"
+  category: "saas"
+  hq: "israel"
+  careers_url: "https://monday.com/careers/"
+
+- name: "Wix"
+  description: "פלטפורמה לבניית אתרים ונוכחות דיגיטלית לעסקים"
+  category: "saas"
+  hq: "israel"
+  careers_url: "https://www.wix.com/jobs/locations/israel"
+
+- name: "WalkMe"
+  description: "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה"
+  category: "saas"
+  hq: "israel"
+  careers_url: "https://www.walkme.com/careers/"
+
+- name: "Kaltura"
+  description: "פלטפורמת וידאו ענן לארגונים, חינוך ומדיה"
+  category: "saas"
+  hq: "israel"
+  careers_url: "https://corp.kaltura.com/company/careers/"
+
+- name: "Bizzabo"
+  description: "פלטפורמה לניהול אירועים וכנסים"
+  category: "saas"
+  hq: "israel"
+  careers_url: "https://www.bizzabo.com/careers"
+
+- name: "HiBob"
+  description: "פלטפורמת HR מודרנית (Bob) לניהול עובדים"
+  category: "hrtech"
+  hq: "israel"
+  careers_url: "https://www.hibob.com/careers/"
+
+- name: "Papaya Global"
+  description: "פלטפורמת תשלומים ו-payroll גלובלי לעובדים"
+  category: "hrtech"
+  hq: "israel"
+  careers_url: "https://www.papayaglobal.com/careers/"
+
+- name: "Lightricks"
+  description: "אפליקציות יצירה ועריכת תמונה/וידאו (Facetune, Photoleap)"
+  category: "consumer"
+  hq: "israel"
+  careers_url: "https://www.lightricks.com/careers"
+
+- name: "Verbit"
+  description: "תמלול וכתוביות מבוססי AI"
+  category: "saas"
+  hq: "israel"
+  careers_url: "https://verbit.ai/careers/"
+
+# ============================== Fintech / Payments ==============================
+
+- name: "Payoneer"
+  description: "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://www.payoneer.com/careers/"
+
+- name: "Melio"
+  description: "תשלומים B2B לעסקים קטנים ובינוניים"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://www.melio.com/careers"
+
+- name: "Tipalti"
+  description: "אוטומציה של תשלומים לספקים וניהול פיננסי"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://tipalti.com/careers/"
+
+- name: "Rapyd"
+  description: "Fintech-as-a-Service ותשתית תשלומים גלובלית"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://www.rapyd.net/careers/"
+
+- name: "eToro"
+  description: "פלטפורמת מסחר והשקעות חברתית"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://www.etoro.com/careers/"
+
+- name: "Pagaya"
+  description: "טכנולוגיית AI לאשראי ושוקי הון"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://pagaya.com/careers/"
+
+- name: "BlueVine"
+  description: "בנקאות ואשראי דיגיטלי לעסקים קטנים"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://www.bluevine.com/careers"
+
+- name: "Unit"
+  description: "Banking-as-a-Service להטמעת שירותים פיננסיים"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://www.unit.co/careers"
+
+- name: "Sunbit"
+  description: "מימון בנקודת המכירה (BNPL) לעסקים"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://sunbit.com/careers/"
+
+- name: "Lemonade"
+  description: "חברת ביטוח דיגיטלית מבוססת AI"
+  category: "insurtech"
+  hq: "israel"
+  careers_url: "https://www.lemonade.com/careers"
+
+- name: "Next Insurance"
+  description: "ביטוח דיגיטלי לעסקים קטנים"
+  category: "insurtech"
+  hq: "israel"
+  careers_url: "https://www.nextinsurance.com/careers/"
+
+- name: "Fundbox"
+  description: "אשראי ותזרים מזומנים לעסקים קטנים"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://fundbox.com/careers/"
+
+- name: "Trullion"
+  description: "אוטומציה חשבונאית מבוססת AI"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://trullion.com/careers/"
+
+# ============================== AdTech / Marketing ==============================
+
+- name: "Taboola"
+  description: "פלטפורמת המלצות תוכן ופרסום (discovery)"
+  category: "adtech"
+  hq: "israel"
+  careers_url: "https://www.taboola.com/careers"
+
+- name: "Outbrain"
+  description: "פרסום נייטיב והמלצות תוכן ברשת"
+  category: "adtech"
+  hq: "israel"
+  careers_url: "https://www.outbrain.com/careers/"
+
+- name: "AppsFlyer"
+  description: "מדידת ביצועים ואטריביושן לאפליקציות מובייל"
+  category: "martech"
+  hq: "israel"
+  careers_url: "https://www.appsflyer.com/careers/"
+
+- name: "Similarweb"
+  description: "אינטליגנציה דיגיטלית וניתוח תנועת אתרים"
+  category: "martech"
+  hq: "israel"
+  careers_url: "https://www.similarweb.com/careers/"
+
+- name: "Yotpo"
+  description: "פלטפורמת שיווק לחנויות eCommerce"
+  category: "martech"
+  hq: "israel"
+  careers_url: "https://www.yotpo.com/careers/"
+
+- name: "Bigabid"
+  description: "פלטפורמת צמיחה ו-DSP מבוססת AI למובייל"
+  category: "adtech"
+  hq: "israel"
+  careers_url: "https://www.bigabid.com/careers/"
+
+- name: "Pecan AI"
+  description: "אנליטיקה חיזויית מבוססת AI"
+  category: "data"
+  hq: "israel"
+  careers_url: "https://www.pecan.ai/careers/"
+
+- name: "Innovid"
+  description: "פלטפורמת פרסום ומדידה לטלוויזיה מחוברת (CTV)"
+  category: "adtech"
+  hq: "israel"
+  careers_url: "https://www.innovid.com/careers/"
+
+- name: "EX.CO"
+  description: "פלטפורמת וידאו והכנסות למפרסמי תוכן"
+  category: "adtech"
+  hq: "israel"
+  careers_url: "https://ex.co/careers/"
+
+# ============================== Commerce / Marketplace ==============================
+
+- name: "Fiverr"
+  description: "שוק מקוון לשירותי פרילנס"
+  category: "marketplace"
+  hq: "israel"
+  careers_url: "https://www.fiverr.com/jobs"
+
+- name: "Global-e"
+  description: "מסחר חוצה-גבולות לחנויות eCommerce"
+  category: "ecommerce"
+  hq: "israel"
+  careers_url: "https://www.global-e.com/careers/"
+
+- name: "Bringg"
+  description: "פלטפורמת ניהול וארגון משלוחים ולוגיסטיקה"
+  category: "logistics"
+  hq: "israel"
+  careers_url: "https://www.bringg.com/careers/"
+
+- name: "Trax Retail"
+  description: "ראייה ממוחשבת וניתוח מדפים לקמעונאות"
+  category: "retailtech"
+  hq: "israel"
+  careers_url: "https://traxretail.com/careers/"
+
+- name: "Trigo"
+  description: "חנויות אוטונומיות מבוססות ראייה ממוחשבת"
+  category: "retailtech"
+  hq: "israel"
+  careers_url: "https://www.trigoretail.com/careers/"
+
+- name: "Nayax"
+  description: "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://www.nayax.com/careers/"
+
+# ============================== AI / Data / DevTools ==============================
+
+- name: "AI21 Labs"
+  description: "מודלי שפה גדולים ובינה מלאכותית גנרטיבית"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.ai21.com/careers"
+
+- name: "Run:ai"
+  description: "תזמור והאצת חישובי AI על GPU (חלק מ-Nvidia)"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.run.ai/careers"
+
+- name: "D-ID"
+  description: "וידאו ואווטארים גנרטיביים מבוססי AI"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.d-id.com/careers/"
+
+- name: "Aporia"
+  description: "ניטור ובקרה על מודלי ML ו-AI"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.aporia.com/careers/"
+
+- name: "Explorium"
+  description: "פלטפורמת דאטה חיצונית להעשרה ו-ML"
+  category: "data"
+  hq: "israel"
+  careers_url: "https://www.explorium.ai/careers/"
+
+- name: "Firebolt"
+  description: "מחסן נתונים ענן מהיר לאנליטיקה"
+  category: "data"
+  hq: "israel"
+  careers_url: "https://www.firebolt.io/careers"
+
+- name: "Redis"
+  description: "בסיס נתונים in-memory ופלטפורמת דאטה בזמן אמת"
+  category: "data"
+  hq: "israel"
+  careers_url: "https://redis.io/careers/"
+
+- name: "SQream"
+  description: "אנליטיקת דאטה בקנה מידה גדול מבוססת GPU"
+  category: "data"
+  hq: "israel"
+  careers_url: "https://sqream.com/careers/"
+
+- name: "JFrog"
+  description: "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)"
+  category: "devops"
+  hq: "israel"
+  careers_url: "https://jfrog.com/careers/"
+
+- name: "Lightrun"
+  description: "תצפיתיות ודיבוג בזמן אמת למפתחים"
+  category: "devtools"
+  hq: "israel"
+  careers_url: "https://lightrun.com/careers/"
+
+- name: "Spot by NetApp"
+  description: "אופטימיזציה ועלויות תשתית ענן"
+  category: "devops"
+  hq: "israel"
+  careers_url: "https://spot.io/careers/"
+
+- name: "Coralogix"
+  description: "פלטפורמת תצפיתיות, לוגים ומוניטורינג"
+  category: "observability"
+  hq: "israel"
+  careers_url: "https://coralogix.com/careers/"
+
+- name: "Logz.io"
+  description: "תצפיתיות מבוססת קוד פתוח (לוגים, מטריקות, traces)"
+  category: "observability"
+  hq: "israel"
+  careers_url: "https://logz.io/about-us/careers/"
+
+- name: "Komodor"
+  description: "ניהול ופתרון תקלות ב-Kubernetes"
+  category: "devtools"
+  hq: "israel"
+  careers_url: "https://komodor.com/careers/"
+
+- name: "Port"
+  description: "פורטל מפתחים פנים-ארגוני (Internal Developer Portal)"
+  category: "devtools"
+  hq: "israel"
+  careers_url: "https://www.getport.io/careers"
+
+- name: "Iguazio"
+  description: "פלטפורמת MLOps לפריסת מודלים בפרודקשן"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.iguazio.com/careers/"
+
+- name: "ClearML"
+  description: "פלטפורמת MLOps ותזמור ניסויים בקוד פתוח"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://clear.ml/careers"
+
+- name: "Qwak / JFrog ML"
+  description: "פלטפורמה לבניית והרצת מודלי ML"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.qwak.com/careers"
+
+- name: "Tabnine"
+  description: "השלמת קוד ועוזר פיתוח מבוסס AI"
+  category: "devtools"
+  hq: "israel"
+  careers_url: "https://www.tabnine.com/careers"
+
+- name: "VAST Data"
+  description: "תשתית אחסון ודאטה לעומסי AI"
+  category: "data"
+  hq: "israel"
+  careers_url: "https://vastdata.com/careers"
+
+- name: "WEKA"
+  description: "פלטפורמת דאטה מהירה ל-AI ו-HPC"
+  category: "data"
+  hq: "israel"
+  careers_url: "https://www.weka.io/careers/"
+
+- name: "Pinecone"
+  description: "בסיס נתונים וקטורי לאפליקציות AI"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.pinecone.io/careers/"
+
+- name: "Deepchecks"
+  description: "בדיקות ואימות למודלי ML ו-LLM"
+  category: "ai"
+  hq: "israel"
+  careers_url: "https://www.deepchecks.com/careers/"
+
+# ============================== HealthTech / BioTech ==============================
+
+- name: "Aidoc"
+  description: "ניתוח דימות רפואי (רדיולוגיה) מבוסס AI"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://www.aidoc.com/careers/"
+
+- name: "K Health"
+  description: "רפואה ראשונית דיגיטלית מבוססת AI"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://www.khealth.com/careers/"
+
+- name: "TytoCare"
+  description: "מכשור לבדיקות רפואיות מרחוק (טל-רפואה)"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://www.tytocare.com/careers/"
+
+- name: "Healthy.io"
+  description: "בדיקות שתן ובריאות באמצעות מצלמת הסמארטפון"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://www.healthy.io/careers/"
+
+- name: "Immunai"
+  description: "מיפוי מערכת החיסון באמצעות AI לפיתוח תרופות"
+  category: "biotech"
+  hq: "israel"
+  careers_url: "https://www.immunai.com/careers"
+
+- name: "CytoReason"
+  description: "מודלים חישוביים של מחלות לתעשיית הפארמה"
+  category: "biotech"
+  hq: "israel"
+  careers_url: "https://www.cytoreason.com/careers/"
+
+- name: "Sight Diagnostics"
+  description: "אבחון דם מבוסס ראייה ממוחשבת"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://www.sightdx.com/careers"
+
+- name: "Ibex Medical Analytics"
+  description: "אבחון פתולוגיה (סרטן) מבוסס AI"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://ibex-ai.com/careers/"
+
+- name: "Nucleai"
+  description: "פתולוגיה מרחבית ו-AI לאונקולוגיה"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://www.nucleai.com/careers"
+
+- name: "DayTwo"
+  description: "תזונה מותאמת אישית מבוססת מיקרוביום"
+  category: "healthtech"
+  hq: "israel"
+  careers_url: "https://www.daytwo.com/careers"
+
+# ============================== Gaming / Media ==============================
+
+- name: "Playtika"
+  description: "פיתוח והפעלה של משחקי מובייל חברתיים"
+  category: "gaming"
+  hq: "israel"
+  careers_url: "https://www.playtika.com/careers/"
+
+- name: "Moon Active"
+  description: "מפתחת משחקי מובייל (Coin Master)"
+  category: "gaming"
+  hq: "israel"
+  careers_url: "https://moonactive.com/careers/"
+
+- name: "Plarium"
+  description: "סטודיו למשחקי מובייל ו-PC"
+  category: "gaming"
+  hq: "israel"
+  careers_url: "https://plarium.com/en/careers/"
+
+- name: "SciPlay"
+  description: "משחקי קזינו חברתיים למובייל"
+  category: "gaming"
+  hq: "israel"
+  careers_url: "https://www.sciplay.com/careers/"
+
+- name: "Unity (ironSource)"
+  description: "מוניטיזציה וצמיחה לאפליקציות ומשחקים"
+  category: "adtech"
+  hq: "israel"
+  careers_url: "https://www.is.com/careers/"
+
+- name: "WSC Sports"
+  description: "יצירת תקצירי ספורט אוטומטיים מבוססי AI"
+  category: "media"
+  hq: "israel"
+  careers_url: "https://wsc-sports.com/careers/"
+
+- name: "Minute Media"
+  description: "פלטפורמת מדיה דיגיטלית ותוכן ספורט"
+  category: "media"
+  hq: "israel"
+  careers_url: "https://www.minutemedia.com/careers"
+
+- name: "Overwolf"
+  description: "פלטפורמה ליוצרי תוכן ותוספים למשחקים"
+  category: "gaming"
+  hq: "israel"
+  careers_url: "https://www.overwolf.com/careers/"
+
+# ============================== Mobility / Hardware / Climate ==============================
+
+- name: "Mobileye"
+  description: "מערכות סיוע לנהיגה ונהיגה אוטונומית (ADAS/AV)"
+  category: "mobility"
+  hq: "israel"
+  careers_url: "https://www.mobileye.com/careers/"
+
+- name: "Innoviz Technologies"
+  description: "חיישני LiDAR לרכב אוטונומי"
+  category: "mobility"
+  hq: "israel"
+  careers_url: "https://innoviz.tech/careers"
+
+- name: "REE Automotive"
+  description: "פלטפורמות חשמליות מודולריות לרכבים"
+  category: "mobility"
+  hq: "israel"
+  careers_url: "https://www.ree.auto/careers/"
+
+- name: "Hailo"
+  description: "מעבדי AI לקצה (edge) ולמכשירים חכמים"
+  category: "semiconductors"
+  hq: "israel"
+  careers_url: "https://hailo.ai/careers/"
+
+- name: "Wiliot"
+  description: "מחשוב סביבתי ו-IoT באמצעות תגיות חכמות"
+  category: "iot"
+  hq: "israel"
+  careers_url: "https://www.wiliot.com/careers"
+
+- name: "SolarEdge"
+  description: "ממירים ופתרונות אנרגיה סולארית"
+  category: "climate"
+  hq: "israel"
+  careers_url: "https://www.solaredge.com/careers"
+
+- name: "Augury"
+  description: "ניטור בריאות מכונות תעשייתי מבוסס AI"
+  category: "industrial"
+  hq: "israel"
+  careers_url: "https://www.augury.com/careers/"
+
+- name: "DriveNets"
+  description: "תוכנת רשת cloud-native לספקי תקשורת"
+  category: "networking"
+  hq: "israel"
+  careers_url: "https://drivenets.com/careers/"
+
+- name: "StoreDot"
+  description: "סוללות בטעינה מהירה לרכבים חשמליים"
+  category: "climate"
+  hq: "israel"
+  careers_url: "https://www.store-dot.com/careers"
+
+- name: "Electreon"
+  description: "טעינה אלחוטית לרכבים חשמליים בכביש"
+  category: "climate"
+  hq: "israel"
+  careers_url: "https://electreon.com/careers"
+
+- name: "NeuReality"
+  description: "ארכיטקטורת חומרה ל-inference של AI"
+  category: "semiconductors"
+  hq: "israel"
+  careers_url: "https://www.neureality.ai/careers"
+
+- name: "Tactile Mobility"
+  description: "נתוני רכב ומשטח כביש לתעשיית הרכב"
+  category: "mobility"
+  hq: "israel"
+  careers_url: "https://tactilemobility.com/careers/"
+
+# ============================== Enterprise / Other Israeli ==============================
+
+- name: "NICE"
+  description: "תוכנת ארגון לחוויית לקוח ומרכזי שירות"
+  category: "enterprise"
+  hq: "israel"
+  careers_url: "https://www.nice.com/careers"
+
+- name: "Gong"
+  description: "אינטליגנציית הכנסות וניתוח שיחות מכירה מבוסס AI"
+  category: "saas"
+  hq: "israel"
+  careers_url: "https://www.gong.io/careers/"
+
+- name: "Riverside"
+  description: "הקלטת פודקאסטים ווידאו באיכות סטודיו"
+  category: "media"
+  hq: "israel"
+  careers_url: "https://riverside.fm/careers"
+
+- name: "Deel"
+  description: "פלטפורמת העסקה ו-payroll גלובלי (מרכז פיתוח בישראל)"
+  category: "hrtech"
+  hq: "israel"
+  careers_url: "https://www.deel.com/careers/"
+
+- name: "Navan"
+  description: "ניהול נסיעות והוצאות עסקיות (מרכז פיתוח בישראל)"
+  category: "fintech"
+  hq: "israel"
+  careers_url: "https://navan.com/careers"
+
+# ============================== Multinationals (Israel R&D centers) ==============================
+# הערה: רובן משתמשות ב-Workday/מערכת עצמית ויסומנו unknown עד שיתווסף adapter.
+
+- name: "Google"
+  description: "מרכזי פיתוח בתל אביב ובחיפה"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.google.com/about/careers/applications/locations/tel-aviv"
+
+- name: "Microsoft Israel"
+  description: "מרכז פיתוח (הרצליה, חיפה, נצרת)"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://jobs.careers.microsoft.com/global/en/search?lc=Israel"
+
+- name: "Meta"
+  description: "מרכז פיתוח בתל אביב"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.metacareers.com/jobs"
+
+- name: "Amazon / AWS Israel"
+  description: "מרכזי פיתוח בתל אביב ובחיפה"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.amazon.jobs/en/locations/israel"
+
+- name: "Apple Israel"
+  description: "מרכזי פיתוח בהרצליה ובחיפה"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.apple.com/careers/il/"
+
+- name: "Nvidia Israel"
+  description: "מרכזי פיתוח (יקנעם, תל אביב) — לשעבר Mellanox"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.nvidia.com/en-il/about-nvidia/careers/"
+
+- name: "Intel Israel"
+  description: "פיתוח ושבבים (חיפה, פתח תקווה, ירושלים)"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://jobs.intel.com/en/search-jobs/Israel"
+
+- name: "IBM Israel"
+  description: "מעבדות מחקר ופיתוח בישראל"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.ibm.com/careers/search"
+
+- name: "Salesforce Israel"
+  description: "מרכז פיתוח בתל אביב"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://careers.salesforce.com/en/jobs/"
+
+- name: "PayPal Israel"
+  description: "מרכז פיתוח בתל אביב ובבאר שבע"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://careers.pypl.com/home/"
+
+- name: "eBay Israel"
+  description: "מרכז פיתוח בנתניה ובתל אביב"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://careers.ebayinc.com/us/en/l/israel-jobs"
+
+- name: "Booking.com"
+  description: "מרכז פיתוח בתל אביב"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://careers.booking.com/"
+
+- name: "Uber Israel"
+  description: "מרכז פיתוח בתל אביב"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.uber.com/us/en/careers/list/"
+
+- name: "SAP Israel"
+  description: "מרכז פיתוח ברעננה"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://jobs.sap.com/search/?locationtext=Israel"
+
+- name: "Red Hat Israel"
+  description: "מרכז פיתוח (רעננה) — קוד פתוח וענן"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.redhat.com/en/jobs"
+
+- name: "Autodesk Israel"
+  description: "מרכז פיתוח בתל אביב"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.autodesk.com/careers/overview"
+
+- name: "Qualcomm Israel"
+  description: "מרכזי פיתוח שבבים בישראל"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.qualcomm.com/company/careers"
+
+- name: "Dell Technologies Israel"
+  description: "מרכזי פיתוח (לשעבר EMC) בישראל"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://jobs.dell.com/"
+
+- name: "Broadcom / VMware Israel"
+  description: "מרכז פיתוח בהרצליה"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.broadcom.com/company/careers"
+
+- name: "Snap Israel"
+  description: "מרכז פיתוח (AR) בישראל"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://careers.snap.com/jobs"
+
+- name: "General Motors Israel"
+  description: "מרכז טכנולוגי בהרצליה (רכב חכם)"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://search-careers.gm.com/en/jobs/"
+
+- name: "Philips Israel"
+  description: "מרכז פיתוח לטכנולוגיה רפואית"
+  category: "multinational"
+  hq: "multinational"
+  careers_url: "https://www.careers.philips.com/global/en/search-results"

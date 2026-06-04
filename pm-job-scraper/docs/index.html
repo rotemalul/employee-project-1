@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>משרות Product Manager — הייטק בישראל</title>
+  <style>
+    :root {
+      --bg: #0f172a; --card: #1e293b; --line: #334155;
+      --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; --new: #22c55e;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; font-family: "Segoe UI", "Assistant", Arial, sans-serif;
+      background: var(--bg); color: var(--text); line-height: 1.5;
+    }
+    header { padding: 24px 20px 8px; max-width: 1100px; margin: 0 auto; }
+    h1 { margin: 0 0 4px; font-size: 1.6rem; }
+    .sub { color: var(--muted); font-size: .9rem; }
+    .stats { display: flex; gap: 12px; margin-top: 14px; flex-wrap: wrap; }
+    .stat {
+      background: var(--card); border: 1px solid var(--line);
+      border-radius: 10px; padding: 10px 16px; min-width: 110px;
+    }
+    .stat .num { font-size: 1.5rem; font-weight: 700; }
+    .stat .lbl { color: var(--muted); font-size: .8rem; }
+    .stat.new .num { color: var(--new); }
+    .controls {
+      max-width: 1100px; margin: 18px auto 0; padding: 0 20px;
+      display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
+    }
+    input, select {
+      background: var(--card); color: var(--text);
+      border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px;
+      font-size: .95rem;
+    }
+    input[type="search"] { flex: 1; min-width: 200px; }
+    label.toggle { display: flex; align-items: center; gap: 6px; color: var(--muted); cursor: pointer; }
+    main { max-width: 1100px; margin: 16px auto 60px; padding: 0 20px; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { text-align: right; padding: 12px 10px; border-bottom: 1px solid var(--line); }
+    th { color: var(--muted); font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
+    tr.new td { background: rgba(34,197,94,.06); }
+    .badge {
+      background: var(--new); color: #052e16; font-size: .7rem; font-weight: 700;
+      padding: 2px 8px; border-radius: 999px; white-space: nowrap;
+    }
+    .company { font-weight: 600; }
+    a.apply { color: var(--accent); text-decoration: none; font-weight: 600; }
+    a.apply:hover { text-decoration: underline; }
+    .empty { text-align: center; color: var(--muted); padding: 50px 0; }
+    footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>משרות Product Manager — הייטק בישראל</h1>
+    <div class="sub">סריקה יומית של אתרי קריירה (ללא חברות סייבר) · מיקום: ישראל בלבד</div>
+    <div class="stats">
+      <div class="stat"><div class="num" id="stat-total">–</div><div class="lbl">משרות</div></div>
+      <div class="stat new"><div class="num" id="stat-new">–</div><div class="lbl">חדשות היום</div></div>
+      <div class="stat"><div class="num" id="stat-companies">–</div><div class="lbl">חברות</div></div>
+      <div class="stat"><div class="num" id="stat-updated" style="font-size:1rem">–</div><div class="lbl">עודכן</div></div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="חיפוש לפי תפקיד, חברה או מיקום…" />
+    <select id="company-filter"><option value="">כל החברות</option></select>
+    <label class="toggle"><input type="checkbox" id="only-new" /> רק חדשות</label>
+  </div>
+
+  <main>
+    <table id="table">
+      <thead>
+        <tr>
+          <th></th><th>חברה</th><th>תפקיד</th><th>מיקום</th><th>פורסם</th><th></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>לא נמצאו משרות תואמות.</div>
+  </main>
+
+  <footer>נבנה אוטומטית · הנתונים מתעדכנים מדי בוקר דרך GitHub Actions</footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
