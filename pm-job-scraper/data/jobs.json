@@ -1,6 +1,6 @@
 {
   "count": 30,
-  "generated_at": "2026-06-04T10:15:31+00:00",
+  "generated_at": "2026-06-04T10:29:53+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -71,7 +71,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7385202",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-06-04",
@@ -181,7 +181,7 @@
     {
       "company": "Port",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
       "posted_at": "2026-06-03",
@@ -269,7 +269,7 @@
     {
       "company": "VAST Data",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:34110453411D4968234168209C31D49:10.430",
       "location": "Israel - Tel Aviv",
       "posted_at": "2026-03-17",
@@ -333,5 +333,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 3
+  "new_count": 0
 }
