@@ -23,6 +23,7 @@
   category: "saas"
   hq: "israel"
   careers_url: "https://monday.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/monday/41.00B"
 
 - name: "Wix"
   description: "פלטפורמה לבניית אתרים ונוכחות דיגיטלית לעסקים"
@@ -43,12 +44,14 @@
   category: "saas"
   hq: "israel"
   careers_url: "https://corp.kaltura.com/company/careers/"
+  comeet_url: "https://www.comeet.com/jobs/kaltura/E2.00D"
 
 - name: "Bizzabo"
   description: "פלטפורמה לניהול אירועים וכנסים"
   category: "saas"
   hq: "israel"
   careers_url: "https://www.bizzabo.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/bizzabo/A5.000"
 
 - name: "HiBob"
   description: "פלטפורמת HR מודרנית (Bob) לניהול עובדים"
@@ -77,6 +80,7 @@
   category: "saas"
   hq: "israel"
   careers_url: "https://verbit.ai/careers/"
+  comeet_url: "https://www.comeet.com/jobs/verbit/C2.000"
 
 # ============================== Fintech / Payments ==============================
 
@@ -109,12 +113,14 @@
   category: "fintech"
   hq: "israel"
   careers_url: "https://www.rapyd.net/careers/"
+  comeet_url: "https://www.comeet.com/jobs/rapyd/73.00E"
 
 - name: "eToro"
   description: "פלטפורמת מסחר והשקעות חברתית"
   category: "fintech"
   hq: "israel"
   careers_url: "https://www.etoro.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/etoro/41.009"
 
 - name: "Pagaya"
   description: "טכנולוגיית AI לאשראי ושוקי הון"
@@ -167,6 +173,7 @@
   category: "fintech"
   hq: "israel"
   careers_url: "https://trullion.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/trullion/07.000"
 
 # ============================== AdTech / Marketing ==============================
 
@@ -215,6 +222,7 @@
   category: "adtech"
   hq: "israel"
   careers_url: "https://www.bigabid.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/bigabid/A4.003"
 
 - name: "Pecan AI"
   description: "אנליטיקה חיזויית מבוססת AI"
@@ -235,6 +243,7 @@
   category: "adtech"
   hq: "israel"
   careers_url: "https://ex.co/careers/"
+  comeet_url: "https://www.comeet.com/jobs/exco/F0.005"
 
 # ============================== Commerce / Marketplace ==============================
 
@@ -249,6 +258,7 @@
   category: "ecommerce"
   hq: "israel"
   careers_url: "https://www.global-e.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/global-e/62.002"
 
 - name: "Bringg"
   description: "פלטפורמת ניהול וארגון משלוחים ולוגיסטיקה"
@@ -263,18 +273,21 @@
   category: "retailtech"
   hq: "israel"
   careers_url: "https://traxretail.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/traxretail/22.007"
 
 - name: "Trigo"
   description: "חנויות אוטונומיות מבוססות ראייה ממוחשבת"
   category: "retailtech"
   hq: "israel"
   careers_url: "https://www.trigoretail.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/trigo/A6.005"
 
 - name: "Nayax"
   description: "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות"
   category: "fintech"
   hq: "israel"
   careers_url: "https://www.nayax.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/nayax/13.009"
 
 # ============================== AI / Data / DevTools ==============================
 
@@ -283,6 +296,7 @@
   category: "ai"
   hq: "israel"
   careers_url: "https://www.ai21.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/ai21/E6.001"
 
 - name: "Run:ai"
   description: "תזמור והאצת חישובי AI על GPU (חלק מ-Nvidia)"
@@ -307,6 +321,7 @@
   category: "data"
   hq: "israel"
   careers_url: "https://www.explorium.ai/careers/"
+  comeet_url: "https://www.comeet.com/jobs/explorium/B4.00E"
 
 - name: "Firebolt"
   description: "מחסן נתונים ענן מהיר לאנליטיקה"
@@ -327,6 +342,7 @@
   category: "data"
   hq: "israel"
   careers_url: "https://sqream.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/sqream/45.00B"
 
 - name: "JFrog"
   description: "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)"
@@ -355,6 +371,7 @@
   category: "observability"
   hq: "israel"
   careers_url: "https://coralogix.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/coralogix/06.004"
 
 - name: "Logz.io"
   description: "תצפיתיות מבוססת קוד פתוח (לוגים, מטריקות, traces)"
@@ -367,12 +384,14 @@
   category: "devtools"
   hq: "israel"
   careers_url: "https://komodor.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/komodor/96.005"
 
 - name: "Port"
   description: "פורטל מפתחים פנים-ארגוני (Internal Developer Portal)"
   category: "devtools"
   hq: "israel"
   careers_url: "https://www.getport.io/careers"
+  comeet_url: "https://www.comeet.com/jobs/port/59.004"
 
 - name: "Iguazio"
   description: "פלטפורמת MLOps לפריסת מודלים בפרודקשן"
@@ -391,18 +410,21 @@
   category: "ai"
   hq: "israel"
   careers_url: "https://www.qwak.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/qwak/99.005"
 
 - name: "Tabnine"
   description: "השלמת קוד ועוזר פיתוח מבוסס AI"
   category: "devtools"
   hq: "israel"
   careers_url: "https://www.tabnine.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/tabnine/39.006"
 
 - name: "VAST Data"
   description: "תשתית אחסון ודאטה לעומסי AI"
   category: "data"
   hq: "israel"
   careers_url: "https://vastdata.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/vastdata/43.001"
 
 - name: "WEKA"
   description: "פלטפורמת דאטה מהירה ל-AI ו-HPC"
@@ -441,12 +463,14 @@
   category: "healthtech"
   hq: "israel"
   careers_url: "https://www.tytocare.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/tytocare/E5.003"
 
 - name: "Healthy.io"
   description: "בדיקות שתן ובריאות באמצעות מצלמת הסמארטפון"
   category: "healthtech"
   hq: "israel"
   careers_url: "https://www.healthy.io/careers/"
+  comeet_url: "https://www.comeet.com/jobs/healthy/B4.004"
 
 - name: "Immunai"
   description: "מיפוי מערכת החיסון באמצעות AI לפיתוח תרופות"
@@ -459,12 +483,14 @@
   category: "biotech"
   hq: "israel"
   careers_url: "https://www.cytoreason.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/cytoreason/16.002"
 
 - name: "Sight Diagnostics"
   description: "אבחון דם מבוסס ראייה ממוחשבת"
   category: "healthtech"
   hq: "israel"
   careers_url: "https://www.sightdx.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/sight/45.006"
 
 - name: "Ibex Medical Analytics"
   description: "אבחון פתולוגיה (סרטן) מבוסס AI"
@@ -477,6 +503,7 @@
   category: "healthtech"
   hq: "israel"
   careers_url: "https://www.nucleai.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/nucleai/37.00E"
 
 - name: "DayTwo"
   description: "תזונה מותאמת אישית מבוססת מיקרוביום"
@@ -499,6 +526,7 @@
   category: "gaming"
   hq: "israel"
   careers_url: "https://moonactive.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/moonactive/A2.00C"
 
 - name: "Plarium"
   description: "סטודיו למשחקי מובייל ו-PC"
@@ -511,6 +539,7 @@
   category: "gaming"
   hq: "israel"
   careers_url: "https://www.sciplay.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/sciplay/D5.00A"
 
 - name: "Unity (ironSource)"
   description: "מוניטיזציה וצמיחה לאפליקציות ומשחקים"
@@ -525,18 +554,21 @@
   category: "media"
   hq: "israel"
   careers_url: "https://wsc-sports.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/wsc-sports/93.007"
 
 - name: "Minute Media"
   description: "פלטפורמת מדיה דיגיטלית ותוכן ספורט"
   category: "media"
   hq: "israel"
   careers_url: "https://www.minutemedia.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/minutemedia/45.00A"
 
 - name: "Overwolf"
   description: "פלטפורמה ליוצרי תוכן ותוספים למשחקים"
   category: "gaming"
   hq: "israel"
   careers_url: "https://www.overwolf.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/overwolf/B1.001"
 
 # ============================== Mobility / Hardware / Climate ==============================
 
@@ -551,6 +583,7 @@
   category: "mobility"
   hq: "israel"
   careers_url: "https://innoviz.tech/careers"
+  comeet_url: "https://www.comeet.com/jobs/innoviz/52.004"
 
 - name: "REE Automotive"
   description: "פלטפורמות חשמליות מודולריות לרכבים"
@@ -563,18 +596,21 @@
   category: "semiconductors"
   hq: "israel"
   careers_url: "https://hailo.ai/careers/"
+  comeet_url: "https://www.comeet.com/jobs/hailo/D5.007"
 
 - name: "Wiliot"
   description: "מחשוב סביבתי ו-IoT באמצעות תגיות חכמות"
   category: "iot"
   hq: "israel"
   careers_url: "https://www.wiliot.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/wiliot/F6.003"
 
 - name: "SolarEdge"
   description: "ממירים ופתרונות אנרגיה סולארית"
   category: "climate"
   hq: "israel"
   careers_url: "https://www.solaredge.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/solaredge/71.00A"
 
 - name: "Augury"
   description: "ניטור בריאות מכונות תעשייתי מבוסס AI"
@@ -589,6 +625,7 @@
   category: "networking"
   hq: "israel"
   careers_url: "https://drivenets.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/drivenets/72.006"
 
 - name: "StoreDot"
   description: "סוללות בטעינה מהירה לרכבים חשמליים"
@@ -607,6 +644,7 @@
   category: "semiconductors"
   hq: "israel"
   careers_url: "https://www.neureality.ai/careers"
+  comeet_url: "https://www.comeet.com/jobs/neurealityai/89.002"
 
 - name: "Tactile Mobility"
   description: "נתוני רכב ומשטח כביש לתעשיית הרכב"
@@ -637,6 +675,7 @@
   category: "media"
   hq: "israel"
   careers_url: "https://riverside.fm/careers"
+  comeet_url: "https://www.comeet.com/jobs/riverside-fm/66.009"
 
 - name: "Deel"
   description: "פלטפורמת העסקה ו-payroll גלובלי (מרכז פיתוח בישראל)"

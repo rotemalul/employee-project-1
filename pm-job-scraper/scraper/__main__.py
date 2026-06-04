@@ -28,6 +28,27 @@ def run() -> int:
         session = None
     cache = load_cache(config.ATS_CACHE_FILE)
 
+    # Pre-pass: harvest Comeet uid+token for companies whose token only loads
+    # via JS. We render each company's `comeet_url` with a headless browser and
+    # sniff the Comeet API call. Results are cached (by name) so later runs skip
+    # the browser entirely. Companies already in the cache are not re-harvested.
+    from .browser import harvest_comeet
+
+    to_harvest = [
+        c for c in companies
+        if c.get("comeet_url") and c.get("name") not in cache
+    ]
+    if to_harvest:
+        print(f"Harvesting Comeet tokens for {len(to_harvest)} companies...")
+        for c in to_harvest:
+            detected = harvest_comeet(c["comeet_url"])
+            if detected:
+                cache[c["name"]] = detected
+                print(f"  + {c['name']}: comeet uid={detected['uid']}")
+            else:
+                print(f"  ! {c['name']}: comeet token not harvested", file=sys.stderr)
+        save_cache(config.ATS_CACHE_FILE, cache)
+
     all_jobs = []
     errors = 0
     platforms = Counter()  # how many companies resolved to each ATS
