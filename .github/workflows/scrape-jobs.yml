@@ -3,8 +3,9 @@ name: Scrape PM jobs
 on:
   schedule:
     # פעמיים ביום. השעות ב-UTC; ישראל קיץ = UTC+3, חורף = UTC+2.
-    - cron: "0 5 * * *"    # 08:00 שעון ישראל (קיץ) / 07:00 (חורף)
-    - cron: "0 13 * * *"   # 16:00 שעון ישראל (קיץ) / 15:00 (חורף)
+    # ריצת הבוקר כוללת מעבר Comeet עם דפדפן (גילוי/רענון tokens) ולכן איטית יותר.
+    - cron: "0 5 * * *"    # 08:00 שעון ישראל — סריקה + harvest יומי
+    - cron: "0 13 * * *"   # 16:00 שעון ישראל — סריקה מהירה בלבד
     # הערה: טריגר schedule רץ רק כשהקובץ נמצא ב-default branch של ה-repo.
   workflow_dispatch:
     inputs:
@@ -46,13 +47,15 @@ jobs:
 
       # Browser only needed for the (manual) Comeet harvest — skip it on the
       # fast scheduled runs.
+      # Browser needed for the Comeet harvest: the manual run, or the daily
+      # morning schedule (08:00 IL). The afternoon run stays fast.
       - name: Install Playwright Chromium
-        if: ${{ inputs.harvest_comeet }}
+        if: ${{ inputs.harvest_comeet || github.event.schedule == '0 5 * * *' }}
         run: python -m playwright install --with-deps chromium
 
       - name: Run scraper
         env:
-          HARVEST_COMEET: ${{ inputs.harvest_comeet }}
+          HARVEST_COMEET: ${{ inputs.harvest_comeet || github.event.schedule == '0 5 * * *' }}
         run: python -m scraper
 
       - name: Commit updated data
