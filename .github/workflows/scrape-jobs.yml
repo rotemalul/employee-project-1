@@ -46,7 +46,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain data/)" ]; then
-            git add data/jobs.json data/history.json data/ats_cache.json
+            git add data/jobs.json data/companies.json data/history.json data/ats_cache.json
             git commit -m "chore: update job listings ($(date -u +%Y-%m-%d))"
             git push
           else
@@ -54,7 +54,9 @@ jobs:
           fi
 
       - name: Stage data for Pages
-        run: cp data/jobs.json docs/jobs.json
+        run: |
+          cp data/jobs.json docs/jobs.json
+          cp data/companies.json docs/companies.json
 
       - uses: actions/configure-pages@v5
         with:

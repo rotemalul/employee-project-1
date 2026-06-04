@@ -31,13 +31,25 @@ def run() -> int:
     all_jobs = []
     errors = 0
     platforms = Counter()  # how many companies resolved to each ATS
+    company_rows = []  # roster for the dashboard's company view
     for company in companies:
         name = company.get("name", "<unnamed>")
         resolved = resolve_ats(company, session=session, cache=cache)
         ats = resolved.get("ats") if resolved else None
         adapter_cls = ADAPTERS.get(ats)
+        row = {
+            "name": name,
+            "description": company.get("description", ""),
+            "category": company.get("category", ""),
+            "hq": company.get("hq", ""),
+            "careers_url": company.get("careers_url", ""),
+            "ats": ats or "unknown",
+            "jobs_count": 0,
+            "error": False,
+        }
         if adapter_cls is None:
             platforms["unknown"] += 1
+            company_rows.append(row)
             continue
         platforms[ats] += 1
         try:
@@ -45,11 +57,14 @@ def run() -> int:
             jobs = adapter.fetch_jobs(resolved)
             relevant = [j for j in jobs if is_relevant(j)]
             all_jobs.extend(relevant)
+            row["jobs_count"] = len(relevant)
             if relevant:
                 print(f"  - {name} ({ats}): {len(jobs)} total, {len(relevant)} PM/IL")
         except Exception as exc:  # one bad company must not fail the whole run
             errors += 1
+            row["error"] = True
             print(f"  ! {name} ({ats}): {type(exc).__name__}: {exc}", file=sys.stderr)
+        company_rows.append(row)
 
     save_cache(config.ATS_CACHE_FILE, cache)
 
@@ -61,6 +76,7 @@ def run() -> int:
     updated_history = store.reconcile(jobs, history, today)
     store.write_jobs(config.JOBS_FILE, jobs)
     store.write_history(config.HISTORY_FILE, updated_history)
+    store.write_companies(config.COMPANIES_JSON_FILE, company_rows)
 
     new_count = sum(1 for j in jobs if j.is_new)
     breakdown = ", ".join(f"{k}={v}" for k, v in sorted(platforms.items()))

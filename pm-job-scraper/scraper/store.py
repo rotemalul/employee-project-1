@@ -44,6 +44,18 @@ def write_jobs(path: str, jobs: list) -> None:
     _write_json(path, payload)
 
 
+def write_companies(path: str, companies: list[dict]) -> None:
+    """The full scanned-company roster (for the dashboard's company view)."""
+    scanned = sum(1 for c in companies if c.get("ats") and c["ats"] != "unknown")
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "count": len(companies),
+        "scanned_count": scanned,
+        "companies": companies,
+    }
+    _write_json(path, payload)
+
+
 def write_history(path: str, history: dict) -> None:
     _write_json(path, history)
 
