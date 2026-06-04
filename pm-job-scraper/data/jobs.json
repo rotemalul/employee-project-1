@@ -1,7 +1,172 @@
 {
-  "count": 5,
-  "generated_at": "2026-06-04T08:42:10+00:00",
+  "count": 27,
+  "generated_at": "2026-06-04T09:02:12+00:00",
   "jobs": [
+    {
+      "company": "AppsFlyer",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:appsflyer:8544986002",
+      "location": "Herzliya",
+      "posted_at": "2026-05-12",
+      "source": "greenhouse",
+      "title": "Product Manager, Data Export",
+      "url": "https://careers.appsflyer.com/jobs/position/8544986002?gh_jid=8544986002"
+    },
+    {
+      "company": "AppsFlyer",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:appsflyer:8458281002",
+      "location": "Herzliya",
+      "posted_at": "2026-03-11",
+      "source": "greenhouse",
+      "title": "Senior Product Manager - Analytics",
+      "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
+    },
+    {
+      "company": "Gong",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:gongio:4668011006",
+      "location": "Tel Aviv",
+      "posted_at": "2026-04-14",
+      "source": "greenhouse",
+      "title": "Senior Product Manager - Enterprise & User Management",
+      "url": "https://job-boards.greenhouse.io/gongio/jobs/4668011006"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:7547485",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-05-20",
+      "source": "greenhouse",
+      "title": " Director of Product, AI",
+      "url": "https://join.jfrog.com/job/?job=7547485&gh_jid=7547485"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:7001974",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-05-20",
+      "source": "greenhouse",
+      "title": "Director of Product Management",
+      "url": "https://join.jfrog.com/job/?job=7001974&gh_jid=7001974"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:7461910",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-05-20",
+      "source": "greenhouse",
+      "title": "Principal Product Manager",
+      "url": "https://join.jfrog.com/job/?job=7461910&gh_jid=7461910"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:7050083",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-05-20",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "url": "https://join.jfrog.com/job/?job=7050083&gh_jid=7050083"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:7657193",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-05-20",
+      "source": "greenhouse",
+      "title": "Senior Product Manager - JFrog Security ",
+      "url": "https://join.jfrog.com/job/?job=7657193&gh_jid=7657193"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:7821360",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-05-20",
+      "source": "greenhouse",
+      "title": "Senior Product Manager – Growth",
+      "url": "https://join.jfrog.com/job/?job=7821360&gh_jid=7821360"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:7827996",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-05-20",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, AI-Native Security",
+      "url": "https://join.jfrog.com/job/?job=7827996&gh_jid=7827996"
+    },
+    {
+      "company": "Melio",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:melio:7741403003",
+      "location": "Tel Aviv",
+      "posted_at": "2026-06-03",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "url": "https://job-boards.greenhouse.io/melio/jobs/7741403003"
+    },
+    {
+      "company": "Navan",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:tripactions:7522825",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-05-21",
+      "source": "greenhouse",
+      "title": " Senior Product Manager",
+      "url": "https://navan.com/careers/openings?gh_jid=7522825"
+    },
+    {
+      "company": "Navan",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:tripactions:7724851",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-05-25",
+      "source": "greenhouse",
+      "title": "Staff Product Manager - AVA AI",
+      "url": "https://navan.com/careers/openings?gh_jid=7724851"
+    },
+    {
+      "company": "NICE",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:nice:4863716101",
+      "location": "Israel - Raanana",
+      "posted_at": "2026-05-26",
+      "source": "greenhouse",
+      "title": "Director, Product Manager, AI",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4863716101?gh_jid=4863716101"
+    },
+    {
+      "company": "NICE",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:nice:4832200101",
+      "location": "Israel - Raanana",
+      "posted_at": "2026-05-26",
+      "source": "greenhouse",
+      "title": "Senior AI Product Manager",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4832200101?gh_jid=4832200101"
+    },
     {
       "company": "Similarweb",
       "first_seen": "2026-06-04",
@@ -27,7 +192,7 @@
     {
       "company": "Taboola",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:taboola:7695161",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-05-18",
@@ -38,7 +203,7 @@
     {
       "company": "Taboola",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:taboola:7609918",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-05-18",
@@ -49,14 +214,91 @@
     {
       "company": "Taboola",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:taboola:7704034",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-05-18",
       "source": "greenhouse",
       "title": "Senior Product Manager- Attribution & Incrementality",
       "url": "https://www.taboola.com/careers/job/7704034?gh_jid=7704034"
+    },
+    {
+      "company": "Tipalti",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:tipaltisolutions:5992996004",
+      "location": "Tel Aviv District, Israel",
+      "posted_at": "2026-05-22",
+      "source": "greenhouse",
+      "title": "Director of Product Management   ",
+      "url": "https://tipalti.com/jobs/?gh_jid=5992996004"
+    },
+    {
+      "company": "Tipalti",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:tipaltisolutions:5989092004",
+      "location": "Tel Aviv District, Israel",
+      "posted_at": "2026-05-22",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "url": "https://tipalti.com/jobs/?gh_jid=5989092004"
+    },
+    {
+      "company": "WalkMe",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "lever:walkme:3f89ed0b-d3a8-49c1-9a2a-68662497f16e",
+      "location": "Tel Aviv",
+      "posted_at": "2025-11-05",
+      "source": "lever",
+      "title": "Product Manager  - Product-Led Growth (PLG) | WalkMe Learning Arc",
+      "url": "https://jobs.lever.co/walkme/3f89ed0b-d3a8-49c1-9a2a-68662497f16e"
+    },
+    {
+      "company": "WalkMe",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "lever:walkme:7f554a9a-4a43-45cb-af51-f7d4192ff817",
+      "location": "Tel Aviv",
+      "posted_at": "2026-03-08",
+      "source": "lever",
+      "title": "Senior Product Manager",
+      "url": "https://jobs.lever.co/walkme/7f554a9a-4a43-45cb-af51-f7d4192ff817"
+    },
+    {
+      "company": "WalkMe",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "lever:walkme:01195a47-88c5-4091-a1dd-193ada2c6592",
+      "location": "Tel Aviv",
+      "posted_at": "2026-05-20",
+      "source": "lever",
+      "title": "Technical Product Manager",
+      "url": "https://jobs.lever.co/walkme/01195a47-88c5-4091-a1dd-193ada2c6592"
+    },
+    {
+      "company": "Yotpo",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:yotpo:7633905",
+      "location": "Tel Aviv",
+      "posted_at": "2026-04-15",
+      "source": "greenhouse",
+      "title": "Senior Product Manager ",
+      "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
+    },
+    {
+      "company": "Yotpo",
+      "first_seen": "2026-06-04",
+      "is_new": true,
+      "job_id": "greenhouse:yotpo:7880930",
+      "location": "Tel Aviv",
+      "posted_at": "2026-05-04",
+      "source": "greenhouse",
+      "title": "VP of Product ",
+      "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 3
+  "new_count": 22
 }
