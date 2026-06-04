@@ -334,8 +334,9 @@
   category: "data"
   hq: "israel"
   careers_url: "https://redis.io/careers/"
-  ats: greenhouse
-  token: redislabs
+  # Greenhouse board exists at job-boards.greenhouse.io/redis but its public
+  # boards-API is disabled (both 'redis' and 'redislabs' return 404), so it
+  # can't be scraped via the API — left undetected.
 
 - name: "SQream"
   description: "אנליטיקת דאטה בקנה מידה גדול מבוססת GPU"

@@ -41,7 +41,10 @@ def run() -> int:
     if to_harvest:
         print(f"Harvesting Comeet tokens for {len(to_harvest)} companies...")
         for c in to_harvest:
-            detected = harvest_comeet(c["comeet_url"])
+            # The company's own careers page embeds the standard Comeet widget
+            # (fires the public careers-api call); the hosted comeet_url is a
+            # fallback.
+            detected = harvest_comeet([c.get("careers_url"), c.get("comeet_url")])
             if detected:
                 cache[c["name"]] = detected
                 print(f"  + {c['name']}: comeet uid={detected['uid']}")

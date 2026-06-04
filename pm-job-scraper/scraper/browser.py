@@ -6,6 +6,9 @@ but the uid+token only appear *after* the page's JavaScript runs, so static
 HTML scraping (discovery.py) can't see them. Here we render the page with a
 headless browser and sniff that network request to recover uid+token.
 
+We try the company's own careers page first (its embedded widget fires the
+public careers-api call we need), falling back to any extra URLs provided.
+
 Playwright is optional: if it isn't installed (e.g. local dev without the
 browser), harvesting is skipped and the caller leaves the company undetected.
 """
@@ -14,18 +17,25 @@ from __future__ import annotations
 import re
 import sys
 
-# Same marker discovery.py looks for, but matched against live network traffic.
-_COMEET_API = re.compile(
-    r"comeet\.co/careers-api/2\.0/company/([0-9A-Za-z._-]+)/positions\?token=([0-9A-Za-z]+)",
+# Match the Comeet positions API in live network traffic. Kept loose on host
+# (.co/.com) and version so widget variations still resolve to uid + token.
+_CAREERS_API = re.compile(
+    r"comeet\.com?/careers-api/[\d.]+/company/([0-9A-Za-z._-]+)/positions",
     re.IGNORECASE,
 )
+_TOKEN = re.compile(r"[?&]token=([0-9A-Za-z]+)", re.IGNORECASE)
 
 
-def harvest_comeet(url: str, timeout_ms: int = 45000) -> dict | None:
-    """Render ``url`` and return ``{'ats','uid','token'}`` from the Comeet API
-    call the page makes, or ``None`` if Playwright is unavailable / nothing found.
+def harvest_comeet(urls, timeout_ms: int = 30000) -> dict | None:
+    """Render each URL until a Comeet positions request is seen.
+
+    ``urls`` may be a single URL or a list (tried in order). Returns
+    ``{'ats','uid','token'}`` or ``None`` (Playwright missing / nothing found).
     """
-    if not url:
+    if isinstance(urls, str):
+        urls = [urls]
+    urls = [u for u in urls if u]
+    if not urls:
         return None
     try:
         from playwright.sync_api import sync_playwright
@@ -37,22 +47,29 @@ def harvest_comeet(url: str, timeout_ms: int = 45000) -> dict | None:
     def _scan(request) -> None:
         if found:
             return
-        m = _COMEET_API.search(request.url)
-        if m:
-            found["uid"], found["token"] = m.group(1), m.group(2)
+        u = request.url
+        m = _CAREERS_API.search(u)
+        if not m:
+            return
+        t = _TOKEN.search(u)
+        if t:
+            found["uid"], found["token"] = m.group(1), t.group(1)
 
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(args=["--no-sandbox"])
             page = browser.new_page()
             page.on("request", _scan)
-            try:
-                page.goto(url, wait_until="networkidle", timeout=timeout_ms)
-            except Exception:
-                pass  # partial loads are fine — we only need the API request
+            for url in urls:
+                try:
+                    page.goto(url, wait_until="networkidle", timeout=timeout_ms)
+                except Exception:
+                    pass  # a timeout is fine — the request may already be caught
+                if found:
+                    break
             browser.close()
     except Exception as exc:  # a browser crash must not fail the whole scrape
-        print(f"    (browser harvest failed for {url}: {exc})", file=sys.stderr)
+        print(f"    (browser harvest failed for {urls[0]}: {exc})", file=sys.stderr)
         return None
 
     if "uid" in found and "token" in found:
