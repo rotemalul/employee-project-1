@@ -10,6 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
 COMPANIES_FILE = os.path.join(DATA_DIR, "companies.yaml")
 JOBS_FILE = os.path.join(DATA_DIR, "jobs.json")
+COMPANIES_JSON_FILE = os.path.join(DATA_DIR, "companies.json")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 ATS_CACHE_FILE = os.path.join(DATA_DIR, "ats_cache.json")
 
