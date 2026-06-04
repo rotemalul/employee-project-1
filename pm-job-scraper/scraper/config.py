@@ -11,6 +11,7 @@ DATA_DIR = os.path.join(ROOT, "data")
 COMPANIES_FILE = os.path.join(DATA_DIR, "companies.yaml")
 JOBS_FILE = os.path.join(DATA_DIR, "jobs.json")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
+ATS_CACHE_FILE = os.path.join(DATA_DIR, "ats_cache.json")
 
 
 def load_companies(path: str = COMPANIES_FILE) -> list[dict]:
