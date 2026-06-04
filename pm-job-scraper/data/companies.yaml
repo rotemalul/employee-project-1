@@ -35,6 +35,8 @@
   category: "saas"
   hq: "israel"
   careers_url: "https://www.walkme.com/careers/"
+  ats: lever
+  token: walkme
 
 - name: "Kaltura"
   description: "פלטפורמת וידאו ענן לארגונים, חינוך ומדיה"
@@ -59,12 +61,16 @@
   category: "hrtech"
   hq: "israel"
   careers_url: "https://www.papayaglobal.com/careers/"
+  ats: greenhouse
+  token: papaya
 
 - name: "Lightricks"
   description: "אפליקציות יצירה ועריכת תמונה/וידאו (Facetune, Photoleap)"
   category: "consumer"
   hq: "israel"
   careers_url: "https://www.lightricks.com/careers"
+  ats: greenhouse
+  token: lightricks
 
 - name: "Verbit"
   description: "תמלול וכתוביות מבוססי AI"
@@ -79,18 +85,24 @@
   category: "fintech"
   hq: "israel"
   careers_url: "https://www.payoneer.com/careers/"
+  ats: greenhouse
+  token: payoneer
 
 - name: "Melio"
   description: "תשלומים B2B לעסקים קטנים ובינוניים"
   category: "fintech"
   hq: "israel"
   careers_url: "https://www.melio.com/careers"
+  ats: greenhouse
+  token: melio
 
 - name: "Tipalti"
   description: "אוטומציה של תשלומים לספקים וניהול פיננסי"
   category: "fintech"
   hq: "israel"
   careers_url: "https://tipalti.com/careers/"
+  ats: greenhouse
+  token: tipaltisolutions
 
 - name: "Rapyd"
   description: "Fintech-as-a-Service ותשתית תשלומים גלובלית"
@@ -115,6 +127,8 @@
   category: "fintech"
   hq: "israel"
   careers_url: "https://www.bluevine.com/careers"
+  ats: greenhouse
+  token: bluevineisrael
 
 - name: "Unit"
   description: "Banking-as-a-Service להטמעת שירותים פיננסיים"
@@ -139,6 +153,8 @@
   category: "insurtech"
   hq: "israel"
   careers_url: "https://www.nextinsurance.com/careers/"
+  ats: greenhouse
+  token: nextinsurance66
 
 - name: "Fundbox"
   description: "אשראי ותזרים מזומנים לעסקים קטנים"
@@ -169,12 +185,16 @@
   category: "adtech"
   hq: "israel"
   careers_url: "https://www.outbrain.com/careers/"
+  ats: greenhouse
+  token: outbraininc
 
 - name: "AppsFlyer"
   description: "מדידת ביצועים ואטריביושן לאפליקציות מובייל"
   category: "martech"
   hq: "israel"
   careers_url: "https://www.appsflyer.com/careers/"
+  ats: greenhouse
+  token: appsflyer
 
 - name: "Similarweb"
   description: "אינטליגנציה דיגיטלית וניתוח תנועת אתרים"
@@ -187,6 +207,8 @@
   category: "martech"
   hq: "israel"
   careers_url: "https://www.yotpo.com/careers/"
+  ats: greenhouse
+  token: yotpo
 
 - name: "Bigabid"
   description: "פלטפורמת צמיחה ו-DSP מבוססת AI למובייל"
@@ -205,6 +227,8 @@
   category: "adtech"
   hq: "israel"
   careers_url: "https://www.innovid.com/careers/"
+  ats: greenhouse
+  token: innovid
 
 - name: "EX.CO"
   description: "פלטפורמת וידאו והכנסות למפרסמי תוכן"
@@ -224,13 +248,15 @@
   description: "מסחר חוצה-גבולות לחנויות eCommerce"
   category: "ecommerce"
   hq: "israel"
-  careers_url: "https://www.global-e.com/careers/"
+  careers_url: "https://www.comeet.com/jobs/global-e/62.002"   # בדיקה: עמוד Comeet מתארח לזיהוי token אוטומטי
 
 - name: "Bringg"
   description: "פלטפורמת ניהול וארגון משלוחים ולוגיסטיקה"
   category: "logistics"
   hq: "israel"
   careers_url: "https://www.bringg.com/careers/"
+  ats: greenhouse
+  token: bringg
 
 - name: "Trax Retail"
   description: "ראייה ממוחשבת וניתוח מדפים לקמעונאות"
@@ -248,7 +274,7 @@
   description: "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות"
   category: "fintech"
   hq: "israel"
-  careers_url: "https://www.nayax.com/careers/"
+  careers_url: "https://www.comeet.com/jobs/nayax/13.009"   # בדיקה: עמוד Comeet מתארח לזיהוי token אוטומטי
 
 # ============================== AI / Data / DevTools ==============================
 
@@ -293,6 +319,8 @@
   category: "data"
   hq: "israel"
   careers_url: "https://redis.io/careers/"
+  ats: greenhouse
+  token: redis
 
 - name: "SQream"
   description: "אנליטיקת דאטה בקנה מידה גדול מבוססת GPU"
@@ -305,12 +333,16 @@
   category: "devops"
   hq: "israel"
   careers_url: "https://jfrog.com/careers/"
+  ats: greenhouse
+  token: jfrog
 
 - name: "Lightrun"
   description: "תצפיתיות ודיבוג בזמן אמת למפתחים"
   category: "devtools"
   hq: "israel"
   careers_url: "https://lightrun.com/careers/"
+  ats: greenhouse
+  token: lightrun
 
 - name: "Spot by NetApp"
   description: "אופטימיזציה ועלויות תשתית ענן"
@@ -322,7 +354,7 @@
   description: "פלטפורמת תצפיתיות, לוגים ומוניטורינג"
   category: "observability"
   hq: "israel"
-  careers_url: "https://coralogix.com/careers/"
+  careers_url: "https://www.comeet.com/jobs/coralogix/06.004"   # בדיקה: עמוד Comeet מתארח לזיהוי token אוטומטי
 
 - name: "Logz.io"
   description: "תצפיתיות מבוססת קוד פתוח (לוגים, מטריקות, traces)"
@@ -451,6 +483,8 @@
   category: "healthtech"
   hq: "israel"
   careers_url: "https://www.daytwo.com/careers"
+  ats: lever
+  token: daytwo
 
 # ============================== Gaming / Media ==============================
 
@@ -459,6 +493,8 @@
   category: "gaming"
   hq: "israel"
   careers_url: "https://www.playtika.com/careers/"
+  ats: greenhouse
+  token: playtikaltd
 
 - name: "Moon Active"
   description: "מפתחת משחקי מובייל (Coin Master)"
@@ -483,6 +519,8 @@
   category: "adtech"
   hq: "israel"
   careers_url: "https://www.is.com/careers/"
+  ats: greenhouse
+  token: unity3d
 
 - name: "WSC Sports"
   description: "יצירת תקצירי ספורט אוטומטיים מבוססי AI"
@@ -545,6 +583,8 @@
   category: "industrial"
   hq: "israel"
   careers_url: "https://www.augury.com/careers/"
+  ats: greenhouse
+  token: augury
 
 - name: "DriveNets"
   description: "תוכנת רשת cloud-native לספקי תקשורת"
@@ -583,12 +623,16 @@
   category: "enterprise"
   hq: "israel"
   careers_url: "https://www.nice.com/careers"
+  ats: greenhouse
+  token: nice
 
 - name: "Gong"
   description: "אינטליגנציית הכנסות וניתוח שיחות מכירה מבוסס AI"
   category: "saas"
   hq: "israel"
   careers_url: "https://www.gong.io/careers/"
+  ats: greenhouse
+  token: gongio
 
 - name: "Riverside"
   description: "הקלטת פודקאסטים ווידאו באיכות סטודיו"
@@ -607,6 +651,8 @@
   category: "fintech"
   hq: "israel"
   careers_url: "https://navan.com/careers"
+  ats: greenhouse
+  token: tripactions
 
 # ============================== Multinationals (Israel R&D centers) ==============================
 # הערה: רובן משתמשות ב-Workday/מערכת עצמית ויסומנו unknown עד שיתווסף adapter.
