@@ -159,6 +159,10 @@
   category: "adtech"
   hq: "israel"
   careers_url: "https://www.taboola.com/careers"
+  # עמוד הקריירה טוען את לוח ה-Greenhouse דרך JS, לכן הגילוי האוטומטי מפספס —
+  # מקבעים ידנית (boards.greenhouse.io/taboola).
+  ats: greenhouse
+  token: taboola
 
 - name: "Outbrain"
   description: "פרסום נייטיב והמלצות תוכן ברשת"
