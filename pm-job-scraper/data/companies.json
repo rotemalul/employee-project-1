@@ -431,11 +431,11 @@
       "name": "Firebolt"
     },
     {
-      "ats": "greenhouse",
+      "ats": "unknown",
       "careers_url": "https://redis.io/careers/",
       "category": "data",
       "description": "בסיס נתונים in-memory ופלטפורמת דאטה בזמן אמת",
-      "error": true,
+      "error": false,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Redis"
@@ -457,7 +457,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 7,
+      "jobs_count": 8,
       "name": "JFrog"
     },
     {
@@ -511,13 +511,13 @@
       "name": "Komodor"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.getport.io/careers",
       "category": "devtools",
       "description": "פורטל מפתחים פנים-ארגוני (Internal Developer Portal)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Port"
     },
     {
@@ -561,13 +561,13 @@
       "name": "Tabnine"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://vastdata.com/careers",
       "category": "data",
       "description": "תשתית אחסון ודאטה לעומסי AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "VAST Data"
     },
     {
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-04T09:56:01+00:00",
-  "scanned_count": 29
+  "generated_at": "2026-06-04T10:15:31+00:00",
+  "scanned_count": 30
 }
