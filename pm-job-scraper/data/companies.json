@@ -1,0 +1,1177 @@
+{
+  "companies": [
+    {
+      "ats": "unknown",
+      "careers_url": "https://monday.com/careers/",
+      "category": "saas",
+      "description": "פלטפורמת Work OS לניהול עבודה, פרויקטים וצוותים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Monday.com"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.wix.com/jobs/locations/israel",
+      "category": "saas",
+      "description": "פלטפורמה לבניית אתרים ונוכחות דיגיטלית לעסקים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Wix"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.walkme.com/careers/",
+      "category": "saas",
+      "description": "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "WalkMe"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://corp.kaltura.com/company/careers/",
+      "category": "saas",
+      "description": "פלטפורמת וידאו ענן לארגונים, חינוך ומדיה",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Kaltura"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.bizzabo.com/careers",
+      "category": "saas",
+      "description": "פלטפורמה לניהול אירועים וכנסים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Bizzabo"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.hibob.com/careers/",
+      "category": "hrtech",
+      "description": "פלטפורמת HR מודרנית (Bob) לניהול עובדים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "HiBob"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.papayaglobal.com/careers/",
+      "category": "hrtech",
+      "description": "פלטפורמת תשלומים ו-payroll גלובלי לעובדים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Papaya Global"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.lightricks.com/careers",
+      "category": "consumer",
+      "description": "אפליקציות יצירה ועריכת תמונה/וידאו (Facetune, Photoleap)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Lightricks"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://verbit.ai/careers/",
+      "category": "saas",
+      "description": "תמלול וכתוביות מבוססי AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Verbit"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.payoneer.com/careers/",
+      "category": "fintech",
+      "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Payoneer"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.melio.com/careers",
+      "category": "fintech",
+      "description": "תשלומים B2B לעסקים קטנים ובינוניים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Melio"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://tipalti.com/careers/",
+      "category": "fintech",
+      "description": "אוטומציה של תשלומים לספקים וניהול פיננסי",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Tipalti"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.rapyd.net/careers/",
+      "category": "fintech",
+      "description": "Fintech-as-a-Service ותשתית תשלומים גלובלית",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Rapyd"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.etoro.com/careers/",
+      "category": "fintech",
+      "description": "פלטפורמת מסחר והשקעות חברתית",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "eToro"
+    },
+    {
+      "ats": "greenhouse",
+      "careers_url": "https://pagaya.com/careers/",
+      "category": "fintech",
+      "description": "טכנולוגיית AI לאשראי ושוקי הון",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Pagaya"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.bluevine.com/careers",
+      "category": "fintech",
+      "description": "בנקאות ואשראי דיגיטלי לעסקים קטנים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "BlueVine"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.unit.co/careers",
+      "category": "fintech",
+      "description": "Banking-as-a-Service להטמעת שירותים פיננסיים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Unit"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://sunbit.com/careers/",
+      "category": "fintech",
+      "description": "מימון בנקודת המכירה (BNPL) לעסקים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Sunbit"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.lemonade.com/careers",
+      "category": "insurtech",
+      "description": "חברת ביטוח דיגיטלית מבוססת AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Lemonade"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.nextinsurance.com/careers/",
+      "category": "insurtech",
+      "description": "ביטוח דיגיטלי לעסקים קטנים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Next Insurance"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://fundbox.com/careers/",
+      "category": "fintech",
+      "description": "אשראי ותזרים מזומנים לעסקים קטנים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Fundbox"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://trullion.com/careers/",
+      "category": "fintech",
+      "description": "אוטומציה חשבונאית מבוססת AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Trullion"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.taboola.com/careers",
+      "category": "adtech",
+      "description": "פלטפורמת המלצות תוכן ופרסום (discovery)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Taboola"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.outbrain.com/careers/",
+      "category": "adtech",
+      "description": "פרסום נייטיב והמלצות תוכן ברשת",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Outbrain"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.appsflyer.com/careers/",
+      "category": "martech",
+      "description": "מדידת ביצועים ואטריביושן לאפליקציות מובייל",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "AppsFlyer"
+    },
+    {
+      "ats": "greenhouse",
+      "careers_url": "https://www.similarweb.com/careers/",
+      "category": "martech",
+      "description": "אינטליגנציה דיגיטלית וניתוח תנועת אתרים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 2,
+      "name": "Similarweb"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.yotpo.com/careers/",
+      "category": "martech",
+      "description": "פלטפורמת שיווק לחנויות eCommerce",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Yotpo"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.bigabid.com/careers/",
+      "category": "adtech",
+      "description": "פלטפורמת צמיחה ו-DSP מבוססת AI למובייל",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Bigabid"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.pecan.ai/careers/",
+      "category": "data",
+      "description": "אנליטיקה חיזויית מבוססת AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Pecan AI"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.innovid.com/careers/",
+      "category": "adtech",
+      "description": "פלטפורמת פרסום ומדידה לטלוויזיה מחוברת (CTV)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Innovid"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://ex.co/careers/",
+      "category": "adtech",
+      "description": "פלטפורמת וידאו והכנסות למפרסמי תוכן",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "EX.CO"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.fiverr.com/jobs",
+      "category": "marketplace",
+      "description": "שוק מקוון לשירותי פרילנס",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Fiverr"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.global-e.com/careers/",
+      "category": "ecommerce",
+      "description": "מסחר חוצה-גבולות לחנויות eCommerce",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Global-e"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.bringg.com/careers/",
+      "category": "logistics",
+      "description": "פלטפורמת ניהול וארגון משלוחים ולוגיסטיקה",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Bringg"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://traxretail.com/careers/",
+      "category": "retailtech",
+      "description": "ראייה ממוחשבת וניתוח מדפים לקמעונאות",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Trax Retail"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.trigoretail.com/careers/",
+      "category": "retailtech",
+      "description": "חנויות אוטונומיות מבוססות ראייה ממוחשבת",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Trigo"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.nayax.com/careers/",
+      "category": "fintech",
+      "description": "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Nayax"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.ai21.com/careers",
+      "category": "ai",
+      "description": "מודלי שפה גדולים ובינה מלאכותית גנרטיבית",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "AI21 Labs"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.run.ai/careers",
+      "category": "ai",
+      "description": "תזמור והאצת חישובי AI על GPU (חלק מ-Nvidia)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Run:ai"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.d-id.com/careers/",
+      "category": "ai",
+      "description": "וידאו ואווטארים גנרטיביים מבוססי AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "D-ID"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.aporia.com/careers/",
+      "category": "ai",
+      "description": "ניטור ובקרה על מודלי ML ו-AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Aporia"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.explorium.ai/careers/",
+      "category": "data",
+      "description": "פלטפורמת דאטה חיצונית להעשרה ו-ML",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Explorium"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.firebolt.io/careers",
+      "category": "data",
+      "description": "מחסן נתונים ענן מהיר לאנליטיקה",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Firebolt"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://redis.io/careers/",
+      "category": "data",
+      "description": "בסיס נתונים in-memory ופלטפורמת דאטה בזמן אמת",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Redis"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://sqream.com/careers/",
+      "category": "data",
+      "description": "אנליטיקת דאטה בקנה מידה גדול מבוססת GPU",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "SQream"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://jfrog.com/careers/",
+      "category": "devops",
+      "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "JFrog"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://lightrun.com/careers/",
+      "category": "devtools",
+      "description": "תצפיתיות ודיבוג בזמן אמת למפתחים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Lightrun"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://spot.io/careers/",
+      "category": "devops",
+      "description": "אופטימיזציה ועלויות תשתית ענן",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Spot by NetApp"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://coralogix.com/careers/",
+      "category": "observability",
+      "description": "פלטפורמת תצפיתיות, לוגים ומוניטורינג",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Coralogix"
+    },
+    {
+      "ats": "lever",
+      "careers_url": "https://logz.io/about-us/careers/",
+      "category": "observability",
+      "description": "תצפיתיות מבוססת קוד פתוח (לוגים, מטריקות, traces)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Logz.io"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://komodor.com/careers/",
+      "category": "devtools",
+      "description": "ניהול ופתרון תקלות ב-Kubernetes",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Komodor"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.getport.io/careers",
+      "category": "devtools",
+      "description": "פורטל מפתחים פנים-ארגוני (Internal Developer Portal)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Port"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.iguazio.com/careers/",
+      "category": "ai",
+      "description": "פלטפורמת MLOps לפריסת מודלים בפרודקשן",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Iguazio"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://clear.ml/careers",
+      "category": "ai",
+      "description": "פלטפורמת MLOps ותזמור ניסויים בקוד פתוח",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "ClearML"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.qwak.com/careers",
+      "category": "ai",
+      "description": "פלטפורמה לבניית והרצת מודלי ML",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Qwak / JFrog ML"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.tabnine.com/careers",
+      "category": "devtools",
+      "description": "השלמת קוד ועוזר פיתוח מבוסס AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Tabnine"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://vastdata.com/careers",
+      "category": "data",
+      "description": "תשתית אחסון ודאטה לעומסי AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "VAST Data"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.weka.io/careers/",
+      "category": "data",
+      "description": "פלטפורמת דאטה מהירה ל-AI ו-HPC",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "WEKA"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.pinecone.io/careers/",
+      "category": "ai",
+      "description": "בסיס נתונים וקטורי לאפליקציות AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Pinecone"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.deepchecks.com/careers/",
+      "category": "ai",
+      "description": "בדיקות ואימות למודלי ML ו-LLM",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Deepchecks"
+    },
+    {
+      "ats": "greenhouse",
+      "careers_url": "https://www.aidoc.com/careers/",
+      "category": "healthtech",
+      "description": "ניתוח דימות רפואי (רדיולוגיה) מבוסס AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Aidoc"
+    },
+    {
+      "ats": "greenhouse",
+      "careers_url": "https://www.khealth.com/careers/",
+      "category": "healthtech",
+      "description": "רפואה ראשונית דיגיטלית מבוססת AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "K Health"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.tytocare.com/careers/",
+      "category": "healthtech",
+      "description": "מכשור לבדיקות רפואיות מרחוק (טל-רפואה)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "TytoCare"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.healthy.io/careers/",
+      "category": "healthtech",
+      "description": "בדיקות שתן ובריאות באמצעות מצלמת הסמארטפון",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Healthy.io"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.immunai.com/careers",
+      "category": "biotech",
+      "description": "מיפוי מערכת החיסון באמצעות AI לפיתוח תרופות",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Immunai"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.cytoreason.com/careers/",
+      "category": "biotech",
+      "description": "מודלים חישוביים של מחלות לתעשיית הפארמה",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "CytoReason"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.sightdx.com/careers",
+      "category": "healthtech",
+      "description": "אבחון דם מבוסס ראייה ממוחשבת",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Sight Diagnostics"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://ibex-ai.com/careers/",
+      "category": "healthtech",
+      "description": "אבחון פתולוגיה (סרטן) מבוסס AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Ibex Medical Analytics"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.nucleai.com/careers",
+      "category": "healthtech",
+      "description": "פתולוגיה מרחבית ו-AI לאונקולוגיה",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Nucleai"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.daytwo.com/careers",
+      "category": "healthtech",
+      "description": "תזונה מותאמת אישית מבוססת מיקרוביום",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "DayTwo"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.playtika.com/careers/",
+      "category": "gaming",
+      "description": "פיתוח והפעלה של משחקי מובייל חברתיים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Playtika"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://moonactive.com/careers/",
+      "category": "gaming",
+      "description": "מפתחת משחקי מובייל (Coin Master)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Moon Active"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://plarium.com/en/careers/",
+      "category": "gaming",
+      "description": "סטודיו למשחקי מובייל ו-PC",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Plarium"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.sciplay.com/careers/",
+      "category": "gaming",
+      "description": "משחקי קזינו חברתיים למובייל",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "SciPlay"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.is.com/careers/",
+      "category": "adtech",
+      "description": "מוניטיזציה וצמיחה לאפליקציות ומשחקים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Unity (ironSource)"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://wsc-sports.com/careers/",
+      "category": "media",
+      "description": "יצירת תקצירי ספורט אוטומטיים מבוססי AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "WSC Sports"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.minutemedia.com/careers",
+      "category": "media",
+      "description": "פלטפורמת מדיה דיגיטלית ותוכן ספורט",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Minute Media"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.overwolf.com/careers/",
+      "category": "gaming",
+      "description": "פלטפורמה ליוצרי תוכן ותוספים למשחקים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Overwolf"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.mobileye.com/careers/",
+      "category": "mobility",
+      "description": "מערכות סיוע לנהיגה ונהיגה אוטונומית (ADAS/AV)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Mobileye"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://innoviz.tech/careers",
+      "category": "mobility",
+      "description": "חיישני LiDAR לרכב אוטונומי",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Innoviz Technologies"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.ree.auto/careers/",
+      "category": "mobility",
+      "description": "פלטפורמות חשמליות מודולריות לרכבים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "REE Automotive"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://hailo.ai/careers/",
+      "category": "semiconductors",
+      "description": "מעבדי AI לקצה (edge) ולמכשירים חכמים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Hailo"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.wiliot.com/careers",
+      "category": "iot",
+      "description": "מחשוב סביבתי ו-IoT באמצעות תגיות חכמות",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Wiliot"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.solaredge.com/careers",
+      "category": "climate",
+      "description": "ממירים ופתרונות אנרגיה סולארית",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "SolarEdge"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.augury.com/careers/",
+      "category": "industrial",
+      "description": "ניטור בריאות מכונות תעשייתי מבוסס AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Augury"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://drivenets.com/careers/",
+      "category": "networking",
+      "description": "תוכנת רשת cloud-native לספקי תקשורת",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "DriveNets"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.store-dot.com/careers",
+      "category": "climate",
+      "description": "סוללות בטעינה מהירה לרכבים חשמליים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "StoreDot"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://electreon.com/careers",
+      "category": "climate",
+      "description": "טעינה אלחוטית לרכבים חשמליים בכביש",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Electreon"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.neureality.ai/careers",
+      "category": "semiconductors",
+      "description": "ארכיטקטורת חומרה ל-inference של AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "NeuReality"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://tactilemobility.com/careers/",
+      "category": "mobility",
+      "description": "נתוני רכב ומשטח כביש לתעשיית הרכב",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Tactile Mobility"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.nice.com/careers",
+      "category": "enterprise",
+      "description": "תוכנת ארגון לחוויית לקוח ומרכזי שירות",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "NICE"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.gong.io/careers/",
+      "category": "saas",
+      "description": "אינטליגנציית הכנסות וניתוח שיחות מכירה מבוסס AI",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Gong"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://riverside.fm/careers",
+      "category": "media",
+      "description": "הקלטת פודקאסטים ווידאו באיכות סטודיו",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Riverside"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.deel.com/careers/",
+      "category": "hrtech",
+      "description": "פלטפורמת העסקה ו-payroll גלובלי (מרכז פיתוח בישראל)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Deel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://navan.com/careers",
+      "category": "fintech",
+      "description": "ניהול נסיעות והוצאות עסקיות (מרכז פיתוח בישראל)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "Navan"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.google.com/about/careers/applications/locations/tel-aviv",
+      "category": "multinational",
+      "description": "מרכזי פיתוח בתל אביב ובחיפה",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Google"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://jobs.careers.microsoft.com/global/en/search?lc=Israel",
+      "category": "multinational",
+      "description": "מרכז פיתוח (הרצליה, חיפה, נצרת)",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Microsoft Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.metacareers.com/jobs",
+      "category": "multinational",
+      "description": "מרכז פיתוח בתל אביב",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Meta"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.amazon.jobs/en/locations/israel",
+      "category": "multinational",
+      "description": "מרכזי פיתוח בתל אביב ובחיפה",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Amazon / AWS Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.apple.com/careers/il/",
+      "category": "multinational",
+      "description": "מרכזי פיתוח בהרצליה ובחיפה",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Apple Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.nvidia.com/en-il/about-nvidia/careers/",
+      "category": "multinational",
+      "description": "מרכזי פיתוח (יקנעם, תל אביב) — לשעבר Mellanox",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Nvidia Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://jobs.intel.com/en/search-jobs/Israel",
+      "category": "multinational",
+      "description": "פיתוח ושבבים (חיפה, פתח תקווה, ירושלים)",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Intel Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.ibm.com/careers/search",
+      "category": "multinational",
+      "description": "מעבדות מחקר ופיתוח בישראל",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "IBM Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://careers.salesforce.com/en/jobs/",
+      "category": "multinational",
+      "description": "מרכז פיתוח בתל אביב",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Salesforce Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://careers.pypl.com/home/",
+      "category": "multinational",
+      "description": "מרכז פיתוח בתל אביב ובבאר שבע",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "PayPal Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://careers.ebayinc.com/us/en/l/israel-jobs",
+      "category": "multinational",
+      "description": "מרכז פיתוח בנתניה ובתל אביב",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "eBay Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://careers.booking.com/",
+      "category": "multinational",
+      "description": "מרכז פיתוח בתל אביב",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Booking.com"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.uber.com/us/en/careers/list/",
+      "category": "multinational",
+      "description": "מרכז פיתוח בתל אביב",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Uber Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://jobs.sap.com/search/?locationtext=Israel",
+      "category": "multinational",
+      "description": "מרכז פיתוח ברעננה",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "SAP Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.redhat.com/en/jobs",
+      "category": "multinational",
+      "description": "מרכז פיתוח (רעננה) — קוד פתוח וענן",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Red Hat Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.autodesk.com/careers/overview",
+      "category": "multinational",
+      "description": "מרכז פיתוח בתל אביב",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Autodesk Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.qualcomm.com/company/careers",
+      "category": "multinational",
+      "description": "מרכזי פיתוח שבבים בישראל",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Qualcomm Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://jobs.dell.com/",
+      "category": "multinational",
+      "description": "מרכזי פיתוח (לשעבר EMC) בישראל",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Dell Technologies Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.broadcom.com/company/careers",
+      "category": "multinational",
+      "description": "מרכז פיתוח בהרצליה",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Broadcom / VMware Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://careers.snap.com/jobs",
+      "category": "multinational",
+      "description": "מרכז פיתוח (AR) בישראל",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Snap Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://search-careers.gm.com/en/jobs/",
+      "category": "multinational",
+      "description": "מרכז טכנולוגי בהרצליה (רכב חכם)",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "General Motors Israel"
+    },
+    {
+      "ats": "unknown",
+      "careers_url": "https://www.careers.philips.com/global/en/search-results",
+      "category": "multinational",
+      "description": "מרכז פיתוח לטכנולוגיה רפואית",
+      "error": false,
+      "hq": "multinational",
+      "jobs_count": 0,
+      "name": "Philips Israel"
+    }
+  ],
+  "count": 117,
+  "generated_at": "2026-06-04T08:22:20+00:00",
+  "scanned_count": 6
+}
