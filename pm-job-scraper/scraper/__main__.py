@@ -4,6 +4,7 @@
 """
 from __future__ import annotations
 
+import os
 import sys
 from collections import Counter
 from datetime import datetime, timezone
@@ -15,8 +16,9 @@ from .filters import is_relevant
 
 
 def run() -> int:
+    started = datetime.now(timezone.utc)
     companies = config.load_companies()
-    today = datetime.now(timezone.utc).date().isoformat()
+    today = started.date().isoformat()
 
     # One shared HTTP session + ATS-detection cache for the whole run.
     try:
@@ -28,17 +30,18 @@ def run() -> int:
         session = None
     cache = load_cache(config.ATS_CACHE_FILE)
 
-    # Pre-pass: harvest Comeet uid+token for companies whose token only loads
-    # via JS. We render each company's `comeet_url` with a headless browser and
-    # sniff the Comeet API call. Results are cached (by name) so later runs skip
-    # the browser entirely. Companies already in the cache are not re-harvested.
+    # Optional pre-pass: harvest Comeet uid+token for companies whose token only
+    # loads via JS, by rendering each company's careers page with a headless
+    # browser and sniffing the Comeet API call. This is slow, so it runs only
+    # when HARVEST_COMEET=true (manual workflow_dispatch). Results are cached
+    # (committed) so the fast scheduled runs reuse them without a browser.
     from .browser import harvest_comeet
 
     to_harvest = [
         c for c in companies
         if c.get("comeet_url") and c.get("name") not in cache
     ]
-    if to_harvest:
+    if to_harvest and os.environ.get("HARVEST_COMEET", "").lower() == "true":
         print(f"Harvesting Comeet tokens for {len(to_harvest)} companies...")
         for c in to_harvest:
             # The company's own careers page embeds the standard Comeet widget
@@ -103,6 +106,22 @@ def run() -> int:
     store.write_companies(config.COMPANIES_JSON_FILE, company_rows)
 
     new_count = sum(1 for j in jobs if j.is_new)
+    scanned = sum(v for k, v in platforms.items() if k != "unknown")
+    error_companies = sorted(r["name"] for r in company_rows if r["error"])
+    finished = datetime.now(timezone.utc)
+    store.append_run(config.RUNS_FILE, {
+        "finished_at": finished.isoformat(timespec="seconds"),
+        "duration_sec": round((finished - started).total_seconds()),
+        "status": "ok" if errors == 0 else "partial",
+        "jobs": len(jobs),
+        "new": new_count,
+        "companies": len(companies),
+        "scanned": scanned,
+        "errors": errors,
+        "error_companies": error_companies,
+        "ats": dict(sorted(platforms.items())),
+    })
+
     breakdown = ", ".join(f"{k}={v}" for k, v in sorted(platforms.items()))
     print(
         f"Done: {len(jobs)} relevant jobs ({new_count} new) from {len(companies)} "

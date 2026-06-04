@@ -13,6 +13,7 @@ JOBS_FILE = os.path.join(DATA_DIR, "jobs.json")
 COMPANIES_JSON_FILE = os.path.join(DATA_DIR, "companies.json")
 HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 ATS_CACHE_FILE = os.path.join(DATA_DIR, "ats_cache.json")
+RUNS_FILE = os.path.join(DATA_DIR, "runs.json")
 
 
 def load_companies(path: str = COMPANIES_FILE) -> list[dict]:

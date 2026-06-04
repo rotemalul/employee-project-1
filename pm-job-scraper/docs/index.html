@@ -3,123 +3,140 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0f172a" />
   <title>משרות Product Manager — הייטק בישראל</title>
   <style>
     :root {
       --bg: #0f172a; --card: #1e293b; --line: #334155;
-      --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8; --new: #22c55e;
+      --text: #e2e8f0; --muted: #94a3b8; --accent: #38bdf8;
+      --new: #22c55e; --warn: #f59e0b; --err: #f87171;
     }
-    * { box-sizing: border-box; }
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
     body {
       margin: 0; font-family: "Segoe UI", "Assistant", Arial, sans-serif;
       background: var(--bg); color: var(--text); line-height: 1.5;
+      -webkit-text-size-adjust: 100%;
     }
-    header { padding: 24px 20px 0; max-width: 1100px; margin: 0 auto; }
-    h1 { margin: 0 0 4px; font-size: 1.6rem; }
-    .sub { color: var(--muted); font-size: .9rem; }
-    .tabs { display: flex; gap: 6px; margin-top: 18px; border-bottom: 1px solid var(--line); }
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+
+    /* sticky header + tabs so switching is easy on mobile */
+    header {
+      position: sticky; top: 0; z-index: 10; background: var(--bg);
+      padding: 18px 0 0; border-bottom: 1px solid var(--line);
+    }
+    h1 { margin: 0 0 2px; font-size: 1.35rem; }
+    .sub { color: var(--muted); font-size: .85rem; }
+    .tabs { display: flex; gap: 4px; margin-top: 14px; overflow-x: auto; }
     .tab {
       background: none; border: none; color: var(--muted); cursor: pointer;
-      font-size: 1rem; font-family: inherit; padding: 10px 16px;
+      font-size: 1rem; font-family: inherit; padding: 10px 14px; white-space: nowrap;
       border-bottom: 2px solid transparent; margin-bottom: -1px;
     }
-    .tab:hover { color: var(--text); }
     .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
-    .stats { display: flex; gap: 12px; flex-wrap: wrap; max-width: 1100px; margin: 18px auto 0; padding: 0 20px; }
+
+    .stats { display: flex; gap: 10px; flex-wrap: wrap; margin: 16px 0 0; }
     .stat {
       background: var(--card); border: 1px solid var(--line);
-      border-radius: 10px; padding: 10px 16px; min-width: 110px;
+      border-radius: 12px; padding: 10px 14px; flex: 1; min-width: 90px;
     }
-    .stat .num { font-size: 1.5rem; font-weight: 700; }
-    .stat .lbl { color: var(--muted); font-size: .8rem; }
+    .stat .num { font-size: 1.4rem; font-weight: 700; }
+    .stat .lbl { color: var(--muted); font-size: .78rem; }
     .stat.new .num { color: var(--new); }
-    .controls {
-      max-width: 1100px; margin: 18px auto 0; padding: 0 20px;
-      display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
-    }
+
+    .controls { margin: 14px 0 0; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
     input, select {
-      background: var(--card); color: var(--text);
-      border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px;
-      font-size: .95rem;
+      background: var(--card); color: var(--text); border: 1px solid var(--line);
+      border-radius: 10px; padding: 11px 12px; font-size: 16px; /* 16px avoids iOS zoom */
     }
-    input[type="search"] { flex: 1; min-width: 200px; }
-    label.toggle { display: flex; align-items: center; gap: 6px; color: var(--muted); cursor: pointer; }
-    main { max-width: 1100px; margin: 16px auto 60px; padding: 0 20px; }
+    input[type="search"] { flex: 1; min-width: 160px; }
+    label.toggle { display: flex; align-items: center; gap: 7px; color: var(--muted); cursor: pointer; font-size: .9rem; }
+    label.toggle input { width: 18px; height: 18px; }
+
+    main { padding: 14px 0 70px; }
     table { width: 100%; border-collapse: collapse; }
     th, td { text-align: right; padding: 12px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
-    th { color: var(--muted); font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
+    th { color: var(--muted); font-size: .78rem; font-weight: 600; text-transform: uppercase; letter-spacing: .03em; }
     tr.new td { background: rgba(34,197,94,.06); }
-    .badge {
-      background: var(--new); color: #052e16; font-size: .7rem; font-weight: 700;
-      padding: 2px 8px; border-radius: 999px; white-space: nowrap;
-    }
+    .badge { background: var(--new); color: #052e16; font-size: .7rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; white-space: nowrap; }
     .company { font-weight: 600; }
     .desc { color: var(--muted); font-size: .82rem; margin-top: 2px; }
     a.apply { color: var(--accent); text-decoration: none; font-weight: 600; }
     a.apply:hover { text-decoration: underline; }
-    .empty { text-align: center; color: var(--muted); padding: 50px 0; }
-    footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 20px; }
-    /* ATS / status pills */
-    .pill {
-      display: inline-block; font-size: .72rem; font-weight: 700;
-      padding: 2px 9px; border-radius: 999px; white-space: nowrap;
-      border: 1px solid var(--line);
-    }
+    .empty { text-align: center; color: var(--muted); padding: 44px 12px; }
+    footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 18px; }
+
+    .pill { display: inline-block; font-size: .72rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; white-space: nowrap; border: 1px solid var(--line); }
     .pill.greenhouse { background: rgba(34,197,94,.12); color: #4ade80; border-color: rgba(34,197,94,.3); }
     .pill.lever      { background: rgba(56,189,248,.12); color: #38bdf8; border-color: rgba(56,189,248,.3); }
     .pill.comeet     { background: rgba(168,85,247,.12); color: #c084fc; border-color: rgba(168,85,247,.3); }
     .pill.unknown    { background: transparent; color: var(--muted); }
-    .pill.err        { background: rgba(248,113,113,.12); color: #f87171; border-color: rgba(248,113,113,.3); }
+    .pill.err        { background: rgba(248,113,113,.12); color: var(--err); border-color: rgba(248,113,113,.3); }
+    .pill.ok         { background: rgba(34,197,94,.12); color: #4ade80; border-color: rgba(34,197,94,.3); }
+    .pill.partial    { background: rgba(245,158,11,.12); color: var(--warn); border-color: rgba(245,158,11,.3); }
     .count-chip { font-weight: 700; }
     .count-chip.zero { color: var(--muted); font-weight: 400; }
+    .errlist { color: var(--err); font-size: .78rem; margin-top: 4px; }
+
+    /* ---------- mobile: turn each table row into a card ---------- */
+    @media (max-width: 700px) {
+      h1 { font-size: 1.2rem; }
+      table, tbody, tr, td { display: block; }
+      thead { display: none; }
+      tr { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; margin-bottom: 12px; }
+      tr.new { border-color: rgba(34,197,94,.4); }
+      tr.new td { background: none; }
+      td { border: none; padding: 5px 0; text-align: right; }
+      td[data-label]::before {
+        content: attr(data-label); display: block;
+        color: var(--muted); font-size: .68rem; text-transform: uppercase; letter-spacing: .03em; margin-bottom: 1px;
+      }
+      td:empty { display: none; }
+      .stat { min-width: 0; }
+    }
   </style>
 </head>
 <body>
   <header>
-    <h1>משרות Product Manager — הייטק בישראל</h1>
-    <div class="sub">סריקה יומית של אתרי קריירה (ללא חברות סייבר) · מיקום: ישראל בלבד</div>
-    <nav class="tabs">
-      <button class="tab active" data-view="jobs">משרות</button>
-      <button class="tab" data-view="companies">חברות</button>
-    </nav>
+    <div class="wrap">
+      <h1>משרות Product Manager — הייטק בישראל</h1>
+      <div class="sub">סריקה אוטומטית פעמיים ביום · ישראל בלבד · ללא סייבר</div>
+      <nav class="tabs">
+        <button class="tab active" data-view="jobs">משרות</button>
+        <button class="tab" data-view="companies">חברות</button>
+        <button class="tab" data-view="runs">ריצות</button>
+      </nav>
+    </div>
   </header>
 
-  <!-- ===================== JOBS VIEW ===================== -->
-  <section id="view-jobs">
+  <!-- ===================== JOBS ===================== -->
+  <section id="view-jobs" class="wrap">
     <div class="stats">
       <div class="stat"><div class="num" id="stat-total">–</div><div class="lbl">משרות</div></div>
-      <div class="stat new"><div class="num" id="stat-new">–</div><div class="lbl">חדשות היום</div></div>
+      <div class="stat new"><div class="num" id="stat-new">–</div><div class="lbl">חדשות</div></div>
       <div class="stat"><div class="num" id="stat-companies">–</div><div class="lbl">חברות מגייסות</div></div>
-      <div class="stat"><div class="num" id="stat-updated" style="font-size:1rem">–</div><div class="lbl">עודכן</div></div>
+      <div class="stat"><div class="num" id="stat-updated" style="font-size:.95rem">–</div><div class="lbl">עודכן</div></div>
     </div>
-
     <div class="controls">
-      <input type="search" id="search" placeholder="חיפוש לפי תפקיד, חברה או מיקום…" />
+      <input type="search" id="search" placeholder="חיפוש תפקיד / חברה / מיקום…" />
       <select id="company-filter"><option value="">כל החברות</option></select>
       <label class="toggle"><input type="checkbox" id="only-new" /> רק חדשות</label>
     </div>
-
     <main>
       <table id="table">
-        <thead>
-          <tr>
-            <th></th><th>חברה</th><th>תפקיד</th><th>מיקום</th><th>פורסם</th><th></th>
-          </tr>
-        </thead>
+        <thead><tr><th></th><th>חברה</th><th>תפקיד</th><th>מיקום</th><th>פורסם</th><th></th></tr></thead>
         <tbody id="rows"></tbody>
       </table>
       <div class="empty" id="empty" hidden>לא נמצאו משרות תואמות.</div>
     </main>
   </section>
 
-  <!-- ===================== COMPANIES VIEW ===================== -->
-  <section id="view-companies" hidden>
+  <!-- ===================== COMPANIES ===================== -->
+  <section id="view-companies" class="wrap" hidden>
     <div class="stats">
       <div class="stat"><div class="num" id="c-stat-total">–</div><div class="lbl">חברות ברשימה</div></div>
-      <div class="stat"><div class="num" id="c-stat-scanned">–</div><div class="lbl">נסרקות אוטומטית</div></div>
-      <div class="stat"><div class="num" id="c-stat-jobs">–</div><div class="lbl">משרות PM פתוחות</div></div>
+      <div class="stat"><div class="num" id="c-stat-scanned">–</div><div class="lbl">נסרקות</div></div>
+      <div class="stat"><div class="num" id="c-stat-jobs">–</div><div class="lbl">משרות PM</div></div>
     </div>
-
     <div class="controls">
       <input type="search" id="c-search" placeholder="חיפוש חברה / תיאור / תחום…" />
       <select id="c-cat-filter"><option value="">כל התחומים</option></select>
@@ -132,22 +149,32 @@
       </select>
       <label class="toggle"><input type="checkbox" id="c-only-hiring" /> רק עם משרות</label>
     </div>
-
     <main>
       <table id="c-table">
-        <thead>
-          <tr>
-            <th>חברה</th><th>תחום</th><th>מטה</th><th>פלטפורמה</th><th>משרות PM</th><th></th>
-          </tr>
-        </thead>
+        <thead><tr><th>חברה</th><th>תחום</th><th>מטה</th><th>פלטפורמה</th><th>משרות PM</th><th></th></tr></thead>
         <tbody id="c-rows"></tbody>
       </table>
       <div class="empty" id="c-empty" hidden>לא נמצאו חברות תואמות.</div>
     </main>
   </section>
 
-  <footer>נבנה אוטומטית · הנתונים מתעדכנים מדי בוקר דרך GitHub Actions</footer>
+  <!-- ===================== RUNS ===================== -->
+  <section id="view-runs" class="wrap" hidden>
+    <div class="stats">
+      <div class="stat"><div class="num" id="r-stat-last" style="font-size:.95rem">–</div><div class="lbl">ריצה אחרונה</div></div>
+      <div class="stat"><div class="num" id="r-stat-status" style="font-size:1rem">–</div><div class="lbl">סטטוס אחרון</div></div>
+      <div class="stat"><div class="num" id="r-stat-count">–</div><div class="lbl">ריצות שמורות</div></div>
+    </div>
+    <main>
+      <table id="r-table">
+        <thead><tr><th>מתי</th><th>סטטוס</th><th>משרות</th><th>חדשות</th><th>נסרקו</th><th>שגיאות</th></tr></thead>
+        <tbody id="r-rows"></tbody>
+      </table>
+      <div class="empty" id="r-empty" hidden>אין עדיין היסטוריית ריצות.</div>
+    </main>
+  </section>
 
+  <footer>נבנה אוטומטית · מתעדכן פעמיים ביום דרך GitHub Actions</footer>
   <script src="./app.js"></script>
 </body>
 </html>

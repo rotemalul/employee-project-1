@@ -2,10 +2,16 @@ name: Scrape PM jobs
 
 on:
   schedule:
-    # 06:00 UTC ≈ 08:00 (קיץ) / 09:00 (חורף) שעון ישראל.
+    # פעמיים ביום. השעות ב-UTC; ישראל קיץ = UTC+3, חורף = UTC+2.
+    - cron: "0 5 * * *"    # 08:00 שעון ישראל (קיץ) / 07:00 (חורף)
+    - cron: "0 13 * * *"   # 16:00 שעון ישראל (קיץ) / 15:00 (חורף)
     # הערה: טריגר schedule רץ רק כשהקובץ נמצא ב-default branch של ה-repo.
-    - cron: "0 6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      harvest_comeet:
+        description: "סריקת Comeet עם דפדפן (איטי) — לחילוץ tokens חדשים"
+        type: boolean
+        default: false
 
 permissions:
   contents: write   # כדי לעשות commit ל-data/*.json
@@ -38,10 +44,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Browser only needed for the (manual) Comeet harvest — skip it on the
+      # fast scheduled runs.
       - name: Install Playwright Chromium
+        if: ${{ inputs.harvest_comeet }}
         run: python -m playwright install --with-deps chromium
 
       - name: Run scraper
+        env:
+          HARVEST_COMEET: ${{ inputs.harvest_comeet }}
         run: python -m scraper
 
       - name: Commit updated data
@@ -49,7 +60,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain data/)" ]; then
-            git add data/jobs.json data/companies.json data/history.json data/ats_cache.json
+            git add data/jobs.json data/companies.json data/history.json data/ats_cache.json data/runs.json
             git commit -m "chore: update job listings ($(date -u +%Y-%m-%d))"
             git push
           else
@@ -60,6 +71,7 @@ jobs:
         run: |
           cp data/jobs.json docs/jobs.json
           cp data/companies.json docs/companies.json
+          cp data/runs.json docs/runs.json 2>/dev/null || echo '{"runs":[]}' > docs/runs.json
 
       - uses: actions/configure-pages@v5
         with:

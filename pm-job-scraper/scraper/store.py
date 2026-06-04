@@ -60,6 +60,20 @@ def write_history(path: str, history: dict) -> None:
     _write_json(path, history)
 
 
+def append_run(path: str, record: dict, keep: int = 40) -> None:
+    """Append one run summary to a rolling history log (newest first)."""
+    runs = []
+    if os.path.exists(path):
+        try:
+            with open(path, encoding="utf-8") as f:
+                runs = json.load(f).get("runs", [])
+        except Exception:
+            runs = []
+    runs.insert(0, record)
+    del runs[keep:]
+    _write_json(path, {"updated_at": record["finished_at"], "runs": runs})
+
+
 def _write_json(path: str, data) -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
