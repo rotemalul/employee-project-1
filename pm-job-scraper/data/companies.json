@@ -322,7 +322,7 @@
     },
     {
       "ats": "unknown",
-      "careers_url": "https://www.comeet.com/jobs/global-e/62.002",
+      "careers_url": "https://www.global-e.com/careers/",
       "category": "ecommerce",
       "description": "מסחר חוצה-גבולות לחנויות eCommerce",
       "error": false,
@@ -362,7 +362,7 @@
     },
     {
       "ats": "unknown",
-      "careers_url": "https://www.comeet.com/jobs/nayax/13.009",
+      "careers_url": "https://www.nayax.com/careers/",
       "category": "fintech",
       "description": "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות",
       "error": false,
@@ -482,7 +482,7 @@
     },
     {
       "ats": "unknown",
-      "careers_url": "https://www.comeet.com/jobs/coralogix/06.004",
+      "careers_url": "https://coralogix.com/careers/",
       "category": "observability",
       "description": "פלטפורמת תצפיתיות, לוגים ומוניטורינג",
       "error": false,
@@ -691,11 +691,11 @@
       "name": "Nucleai"
     },
     {
-      "ats": "lever",
+      "ats": "unknown",
       "careers_url": "https://www.daytwo.com/careers",
       "category": "healthtech",
       "description": "תזונה מותאמת אישית מבוססת מיקרוביום",
-      "error": true,
+      "error": false,
       "hq": "israel",
       "jobs_count": 0,
       "name": "DayTwo"
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-04T09:02:12+00:00",
-  "scanned_count": 30
+  "generated_at": "2026-06-04T09:11:33+00:00",
+  "scanned_count": 29
 }

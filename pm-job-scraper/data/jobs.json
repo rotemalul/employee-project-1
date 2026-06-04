@@ -1,11 +1,11 @@
 {
   "count": 27,
-  "generated_at": "2026-06-04T09:02:12+00:00",
+  "generated_at": "2026-06-04T09:11:33+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:appsflyer:8544986002",
       "location": "Herzliya",
       "posted_at": "2026-05-12",
@@ -16,7 +16,7 @@
     {
       "company": "AppsFlyer",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:appsflyer:8458281002",
       "location": "Herzliya",
       "posted_at": "2026-03-11",
@@ -27,7 +27,7 @@
     {
       "company": "Gong",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:gongio:4668011006",
       "location": "Tel Aviv",
       "posted_at": "2026-04-14",
@@ -38,7 +38,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7547485",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-05-20",
@@ -49,7 +49,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7001974",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-05-20",
@@ -60,7 +60,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7461910",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-05-20",
@@ -71,7 +71,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7050083",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-05-20",
@@ -82,7 +82,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7657193",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-05-20",
@@ -93,7 +93,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7821360",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-05-20",
@@ -104,7 +104,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:7827996",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-05-20",
@@ -115,7 +115,7 @@
     {
       "company": "Melio",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:melio:7741403003",
       "location": "Tel Aviv",
       "posted_at": "2026-06-03",
@@ -126,7 +126,7 @@
     {
       "company": "Navan",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:tripactions:7522825",
       "location": "Tel-Aviv, Israel",
       "posted_at": "2026-05-21",
@@ -137,7 +137,7 @@
     {
       "company": "Navan",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:tripactions:7724851",
       "location": "Tel-Aviv, Israel",
       "posted_at": "2026-05-25",
@@ -148,7 +148,7 @@
     {
       "company": "NICE",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:nice:4863716101",
       "location": "Israel - Raanana",
       "posted_at": "2026-05-26",
@@ -159,7 +159,7 @@
     {
       "company": "NICE",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:nice:4832200101",
       "location": "Israel - Raanana",
       "posted_at": "2026-05-26",
@@ -225,7 +225,7 @@
     {
       "company": "Tipalti",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:tipaltisolutions:5992996004",
       "location": "Tel Aviv District, Israel",
       "posted_at": "2026-05-22",
@@ -236,7 +236,7 @@
     {
       "company": "Tipalti",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:tipaltisolutions:5989092004",
       "location": "Tel Aviv District, Israel",
       "posted_at": "2026-05-22",
@@ -247,7 +247,7 @@
     {
       "company": "WalkMe",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "lever:walkme:3f89ed0b-d3a8-49c1-9a2a-68662497f16e",
       "location": "Tel Aviv",
       "posted_at": "2025-11-05",
@@ -258,7 +258,7 @@
     {
       "company": "WalkMe",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "lever:walkme:7f554a9a-4a43-45cb-af51-f7d4192ff817",
       "location": "Tel Aviv",
       "posted_at": "2026-03-08",
@@ -269,7 +269,7 @@
     {
       "company": "WalkMe",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "lever:walkme:01195a47-88c5-4091-a1dd-193ada2c6592",
       "location": "Tel Aviv",
       "posted_at": "2026-05-20",
@@ -280,7 +280,7 @@
     {
       "company": "Yotpo",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:yotpo:7633905",
       "location": "Tel Aviv",
       "posted_at": "2026-04-15",
@@ -291,7 +291,7 @@
     {
       "company": "Yotpo",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:yotpo:7880930",
       "location": "Tel Aviv",
       "posted_at": "2026-05-04",
@@ -300,5 +300,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 22
+  "new_count": 0
 }
