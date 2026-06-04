@@ -57,6 +57,8 @@ jobs:
         run: cp data/jobs.json docs/jobs.json
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true   # מפעיל אוטומטית GitHub Pages (source = GitHub Actions)
 
       - uses: actions/upload-pages-artifact@v3
         with:
