@@ -1,1 +1,23 @@
-{}
+{
+  "Aidoc": {
+    "ats": "greenhouse",
+    "token": "aidocmedical"
+  },
+  "Firebolt": {
+    "ats": "comeet",
+    "token": "62424D80374424D824D8126C126C1EB41890",
+    "uid": "26.004"
+  },
+  "K Health": {
+    "ats": "greenhouse",
+    "token": "khealthcareers"
+  },
+  "Logz.io": {
+    "ats": "lever",
+    "token": "logz"
+  },
+  "Pagaya": {
+    "ats": "greenhouse",
+    "token": "pagaya"
+  }
+}
