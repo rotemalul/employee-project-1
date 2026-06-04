@@ -221,13 +221,13 @@
       "name": "Trullion"
     },
     {
-      "ats": "unknown",
+      "ats": "greenhouse",
       "careers_url": "https://www.taboola.com/careers",
       "category": "adtech",
       "description": "פלטפורמת המלצות תוכן ופרסום (discovery)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 3,
       "name": "Taboola"
     },
     {
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-04T08:22:20+00:00",
-  "scanned_count": 6
+  "generated_at": "2026-06-04T08:42:10+00:00",
+  "scanned_count": 7
 }
