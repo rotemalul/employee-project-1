@@ -1,11 +1,11 @@
 {
   "count": 2,
-  "generated_at": "2026-06-04T06:32:57+00:00",
+  "generated_at": "2026-06-04T07:25:42+00:00",
   "jobs": [
     {
       "company": "Similarweb",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:similarweb:7571788",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-05-12",
@@ -16,7 +16,7 @@
     {
       "company": "Similarweb",
       "first_seen": "2026-06-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:similarweb:7508300",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-04-29",
@@ -25,5 +25,5 @@
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
     }
   ],
-  "new_count": 2
+  "new_count": 0
 }
