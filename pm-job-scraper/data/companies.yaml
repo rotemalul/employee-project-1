@@ -248,7 +248,7 @@
   description: "מסחר חוצה-גבולות לחנויות eCommerce"
   category: "ecommerce"
   hq: "israel"
-  careers_url: "https://www.comeet.com/jobs/global-e/62.002"   # בדיקה: עמוד Comeet מתארח לזיהוי token אוטומטי
+  careers_url: "https://www.global-e.com/careers/"
 
 - name: "Bringg"
   description: "פלטפורמת ניהול וארגון משלוחים ולוגיסטיקה"
@@ -274,7 +274,7 @@
   description: "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות"
   category: "fintech"
   hq: "israel"
-  careers_url: "https://www.comeet.com/jobs/nayax/13.009"   # בדיקה: עמוד Comeet מתארח לזיהוי token אוטומטי
+  careers_url: "https://www.nayax.com/careers/"
 
 # ============================== AI / Data / DevTools ==============================
 
@@ -320,7 +320,7 @@
   hq: "israel"
   careers_url: "https://redis.io/careers/"
   ats: greenhouse
-  token: redis
+  token: redislabs
 
 - name: "SQream"
   description: "אנליטיקת דאטה בקנה מידה גדול מבוססת GPU"
@@ -354,7 +354,7 @@
   description: "פלטפורמת תצפיתיות, לוגים ומוניטורינג"
   category: "observability"
   hq: "israel"
-  careers_url: "https://www.comeet.com/jobs/coralogix/06.004"   # בדיקה: עמוד Comeet מתארח לזיהוי token אוטומטי
+  careers_url: "https://coralogix.com/careers/"
 
 - name: "Logz.io"
   description: "תצפיתיות מבוססת קוד פתוח (לוגים, מטריקות, traces)"
@@ -483,8 +483,6 @@
   category: "healthtech"
   hq: "israel"
   careers_url: "https://www.daytwo.com/careers"
-  ats: lever
-  token: daytwo
 
 # ============================== Gaming / Media ==============================
 
