@@ -1,6 +1,6 @@
 {
   "count": 29,
-  "generated_at": "2026-06-04T16:20:13+00:00",
+  "generated_at": "2026-06-05T08:49:20+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -67,17 +67,6 @@
       "source": "greenhouse",
       "title": "Principal Product Manager",
       "url": "https://join.jfrog.com/job/?job=7461910&gh_jid=7461910"
-    },
-    {
-      "company": "JFrog",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:jfrog:7385202",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-06-04",
-      "source": "greenhouse",
-      "title": "Senior Manager, Product Management",
-      "url": "https://join.jfrog.com/job/?job=7385202&gh_jid=7385202"
     },
     {
       "company": "JFrog",
@@ -254,6 +243,17 @@
       "source": "greenhouse",
       "title": "Director of Product Management   ",
       "url": "https://tipalti.com/jobs/?gh_jid=5992996004"
+    },
+    {
+      "company": "Tipalti",
+      "first_seen": "2026-06-04",
+      "is_new": false,
+      "job_id": "greenhouse:tipaltisolutions:5989092004",
+      "location": "Tel Aviv District, Israel",
+      "posted_at": "2026-06-04",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "url": "https://tipalti.com/jobs/?gh_jid=5989092004"
     },
     {
       "company": "VAST Data",

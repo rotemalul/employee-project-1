@@ -117,7 +117,7 @@
       "description": "אוטומציה של תשלומים לספקים וניהול פיננסי",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Tipalti"
     },
     {
@@ -457,7 +457,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 8,
+      "jobs_count": 7,
       "name": "JFrog"
     },
     {
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-04T16:20:13+00:00",
+  "generated_at": "2026-06-05T08:49:20+00:00",
   "scanned_count": 30
 }
