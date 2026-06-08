@@ -1,6 +1,6 @@
 {
-  "count": 28,
-  "generated_at": "2026-06-08T09:29:19+00:00",
+  "count": 27,
+  "generated_at": "2026-06-08T16:46:46+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -135,17 +135,6 @@
       "url": "https://navan.com/careers/openings?gh_jid=7522825"
     },
     {
-      "company": "Navan",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:tripactions:7724851",
-      "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-05-25",
-      "source": "greenhouse",
-      "title": "Staff Product Manager - AVA AI",
-      "url": "https://navan.com/careers/openings?gh_jid=7724851"
-    },
-    {
       "company": "NICE",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -173,7 +162,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-06-07",
+      "posted_at": "2026-06-08",
       "source": "comeet",
       "title": "Product Manager - AI Platform",
       "url": "https://www.comeet.com/jobs/port/59.004/product-manager---ai-platform/F9.B67"

@@ -8,6 +8,23 @@
         "unknown": 87
       },
       "companies": 117,
+      "duration_sec": 88,
+      "error_companies": [],
+      "errors": 0,
+      "finished_at": "2026-06-08T16:46:46+00:00",
+      "jobs": 27,
+      "new": 0,
+      "scanned": 30,
+      "status": "ok"
+    },
+    {
+      "ats": {
+        "comeet": 3,
+        "greenhouse": 25,
+        "lever": 2,
+        "unknown": 87
+      },
+      "companies": 117,
       "duration_sec": 594,
       "error_companies": [],
       "errors": 0,
@@ -171,5 +188,5 @@
       "status": "ok"
     }
   ],
-  "updated_at": "2026-06-08T09:29:19+00:00"
+  "updated_at": "2026-06-08T16:46:46+00:00"
 }
