@@ -1,13 +1,13 @@
 {
   "companies": [
     {
-      "ats": "greenhouse",
+      "ats": "comeet",
       "careers_url": "https://monday.com/careers/",
       "category": "saas",
       "description": "פלטפורמת Work OS לניהול עבודה, פרויקטים וצוותים",
-      "error": true,
+      "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 10,
       "name": "Monday.com"
     },
     {
@@ -311,11 +311,11 @@
       "name": "EX.CO"
     },
     {
-      "ats": "greenhouse",
+      "ats": "unknown",
       "careers_url": "https://www.fiverr.com/jobs",
       "category": "marketplace",
       "description": "שוק מקוון לשירותי פרילנס",
-      "error": true,
+      "error": false,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Fiverr"
@@ -721,11 +721,11 @@
       "name": "Moon Active"
     },
     {
-      "ats": "greenhouse",
+      "ats": "unknown",
       "careers_url": "https://plarium.com/en/careers/",
       "category": "gaming",
       "description": "סטודיו למשחקי מובייל ו-PC",
-      "error": true,
+      "error": false,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Plarium"
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-09T08:22:02+00:00",
-  "scanned_count": 66
+  "generated_at": "2026-06-09T08:28:16+00:00",
+  "scanned_count": 64
 }

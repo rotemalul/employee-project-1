@@ -1,6 +1,6 @@
 {
-  "count": 37,
-  "generated_at": "2026-06-09T08:22:02+00:00",
+  "count": 47,
+  "generated_at": "2026-06-09T08:28:16+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -27,7 +27,7 @@
     {
       "company": "DriveNets",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:21.262",
       "location": "Ra'anana, Israel",
       "posted_at": "2026-06-03",
@@ -38,7 +38,7 @@
     {
       "company": "DriveNets",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:94.963",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-06-01",
@@ -137,7 +137,7 @@
     {
       "company": "Komodor",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
       "posted_at": "2026-06-08",
@@ -157,9 +157,119 @@
       "url": "https://job-boards.greenhouse.io/melio/jobs/7741403003"
     },
     {
-      "company": "Moon Active",
+      "company": "Monday.com",
       "first_seen": "2026-06-09",
       "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:32.96E",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-07",
+      "source": "comeet",
+      "title": "Group Product Manager",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/group-product-manager/32.96E"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:2E.868",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Group Product Manager (Growth)",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/group-product-manager-growth/2E.868"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:D1.C63",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Lead AI Product Manager - AI Trust",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/lead-ai-product-manager---ai-trust/D1.C63"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:BD.868",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Lead Product Manager - Engineering AI Experience",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/lead-product-manager---engineering-ai-experience/BD.868"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:49.B63",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Senior AI Product Manager - monday service",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/senior-ai-product-manager---monday-service/49.B63"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:0B.96A",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Senior AI Product Manager - Vibe",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/senior-ai-product-manager---vibe/0B.96A"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:73.B64",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-09",
+      "source": "comeet",
+      "title": "Senior Product Manager",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager/73.B64"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:22.C6E",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-09",
+      "source": "comeet",
+      "title": "Senior Product Manager -  Agentic Surfaces",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager----agentic-surfaces/22.C6E"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:F9.965",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-07",
+      "source": "comeet",
+      "title": "Senior Product Manager - AI Agentic Solutions",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager---ai-agentic-solutions/F9.965"
+    },
+    {
+      "company": "Monday.com",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:14B52C52C67790D3E1296BA37C20:44.964",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-06-07",
+      "source": "comeet",
+      "title": "Senior Product Manager - AI Billing Infrastructure",
+      "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager---ai-billing-infrastructure/44.964"
+    },
+    {
+      "company": "Moon Active",
+      "first_seen": "2026-06-09",
+      "is_new": false,
       "job_id": "comeet:2ACD5C02AC10081008AB01560180C804:A1.503",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-06-04",
@@ -181,7 +291,7 @@
     {
       "company": "NeuReality",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:982428E9820428E390C55924C101C861C86:6D.B68",
       "location": "Israel",
       "posted_at": "2026-06-01",
@@ -225,7 +335,7 @@
     {
       "company": "Riverside",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
       "location": "Israel",
       "posted_at": "2026-06-09",
@@ -258,7 +368,7 @@
     {
       "company": "SolarEdge",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
       "location": "Maskit E - Herzliya",
       "posted_at": "2026-06-08",
@@ -269,7 +379,7 @@
     {
       "company": "SolarEdge",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:19.B6C",
       "location": "Maskit E - Herzliya",
       "posted_at": "2026-06-09",
@@ -280,7 +390,7 @@
     {
       "company": "SolarEdge",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B6C",
       "location": "Maskit E - Herzliya",
       "posted_at": "2026-06-08",
@@ -291,7 +401,7 @@
     {
       "company": "SolarEdge",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
       "location": "Maskit E - Herzliya",
       "posted_at": "2026-06-08",
