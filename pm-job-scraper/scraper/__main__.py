@@ -46,8 +46,10 @@ def run() -> int:
         for c in to_harvest:
             # The company's own careers page embeds the standard Comeet widget
             # (fires the public careers-api call); the hosted comeet_url is a
-            # fallback.
-            detected = harvest_comeet([c.get("careers_url"), c.get("comeet_url")])
+            # fallback. We pass the known uid (last path segment of comeet_url)
+            # so the sniffer can also match the hosted page's own API call.
+            uid = c["comeet_url"].rstrip("/").rsplit("/", 1)[-1]
+            detected = harvest_comeet([c.get("careers_url"), c.get("comeet_url")], expected_uid=uid)
             if detected:
                 cache[c["name"]] = detected
                 print(f"  + {c['name']}: comeet uid={detected['uid']}")

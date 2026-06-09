@@ -23,6 +23,8 @@
   category: "saas"
   hq: "israel"
   careers_url: "https://monday.com/careers/"
+  ats: greenhouse
+  token: monday
   comeet_url: "https://www.comeet.com/jobs/monday/41.00B"
 
 - name: "Wix"
@@ -58,6 +60,7 @@
   category: "hrtech"
   hq: "israel"
   careers_url: "https://www.hibob.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/hibob/12.00A"
 
 - name: "Papaya Global"
   description: "פלטפורמת תשלומים ו-payroll גלובלי לעובדים"
@@ -141,12 +144,14 @@
   category: "fintech"
   hq: "israel"
   careers_url: "https://www.unit.co/careers"
+  comeet_url: "https://www.comeet.com/jobs/unit/E7.00E"
 
 - name: "Sunbit"
   description: "מימון בנקודת המכירה (BNPL) לעסקים"
   category: "fintech"
   hq: "israel"
   careers_url: "https://sunbit.com/careers/"
+  comeet_url: "https://www.comeet.com/jobs/sunbit/37.001"
 
 - name: "Lemonade"
   description: "חברת ביטוח דיגיטלית מבוססת AI"
@@ -252,6 +257,8 @@
   category: "marketplace"
   hq: "israel"
   careers_url: "https://www.fiverr.com/jobs"
+  ats: greenhouse
+  token: fiverr
 
 - name: "Global-e"
   description: "מסחר חוצה-גבולות לחנויות eCommerce"
@@ -511,6 +518,7 @@
   category: "healthtech"
   hq: "israel"
   careers_url: "https://www.daytwo.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/daytwo/28.005"
 
 # ============================== Gaming / Media ==============================
 
@@ -534,6 +542,8 @@
   category: "gaming"
   hq: "israel"
   careers_url: "https://plarium.com/en/careers/"
+  ats: greenhouse
+  token: plariumgloballtd
 
 - name: "SciPlay"
   description: "משחקי קזינו חברתיים למובייל"
@@ -591,6 +601,7 @@
   category: "mobility"
   hq: "israel"
   careers_url: "https://www.ree.auto/careers/"
+  comeet_url: "https://www.comeet.com/jobs/ree/D3.00B"
 
 - name: "Hailo"
   description: "מעבדי AI לקצה (edge) ולמכשירים חכמים"
@@ -639,6 +650,8 @@
   category: "climate"
   hq: "israel"
   careers_url: "https://electreon.com/careers"
+  ats: greenhouse
+  token: electreon
 
 - name: "NeuReality"
   description: "ארכיטקטורת חומרה ל-inference של AI"
