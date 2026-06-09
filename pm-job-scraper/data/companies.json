@@ -107,7 +107,7 @@
       "description": "תשלומים B2B לעסקים קטנים ובינוניים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Melio"
     },
     {
@@ -311,13 +311,13 @@
       "name": "EX.CO"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.fiverr.com/jobs",
       "category": "marketplace",
       "description": "שוק מקוון לשירותי פרילנס",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Fiverr"
     },
     {
@@ -581,7 +581,7 @@
       "name": "WEKA"
     },
     {
-      "ats": "unknown",
+      "ats": "ashby",
       "careers_url": "https://www.pinecone.io/careers/",
       "category": "ai",
       "description": "בסיס נתונים וקטורי לאפליקציות AI",
@@ -641,7 +641,7 @@
       "name": "Healthy.io"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.immunai.com/careers",
       "category": "biotech",
       "description": "מיפוי מערכת החיסון באמצעות AI לפיתוח תרופות",
@@ -731,13 +731,13 @@
       "name": "Plarium"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://www.sciplay.com/careers/",
       "category": "gaming",
       "description": "משחקי קזינו חברתיים למובייל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "SciPlay"
     },
     {
@@ -931,7 +931,7 @@
       "name": "Riverside"
     },
     {
-      "ats": "unknown",
+      "ats": "ashby",
       "careers_url": "https://www.deel.com/careers/",
       "category": "hrtech",
       "description": "פלטפורמת העסקה ו-payroll גלובלי (מרכז פיתוח בישראל)",
@@ -1001,17 +1001,17 @@
       "name": "Apple Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://www.nvidia.com/en-il/about-nvidia/careers/",
       "category": "multinational",
       "description": "מרכזי פיתוח (יקנעם, תל אביב) — לשעבר Mellanox",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 0,
+      "jobs_count": 2,
       "name": "Nvidia Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://jobs.intel.com/en/search-jobs/Israel",
       "category": "multinational",
       "description": "פיתוח ושבבים (חיפה, פתח תקווה, ירושלים)",
@@ -1031,7 +1031,7 @@
       "name": "IBM Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://careers.salesforce.com/en/jobs/",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב",
@@ -1041,7 +1041,7 @@
       "name": "Salesforce Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://careers.pypl.com/home/",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב ובבאר שבע",
@@ -1091,7 +1091,7 @@
       "name": "SAP Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://www.redhat.com/en/jobs",
       "category": "multinational",
       "description": "מרכז פיתוח (רעננה) — קוד פתוח וענן",
@@ -1101,17 +1101,17 @@
       "name": "Red Hat Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://www.autodesk.com/careers/overview",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 0,
+      "jobs_count": 2,
       "name": "Autodesk Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://www.qualcomm.com/company/careers",
       "category": "multinational",
       "description": "מרכזי פיתוח שבבים בישראל",
@@ -1121,7 +1121,7 @@
       "name": "Qualcomm Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://jobs.dell.com/",
       "category": "multinational",
       "description": "מרכזי פיתוח (לשעבר EMC) בישראל",
@@ -1131,7 +1131,7 @@
       "name": "Dell Technologies Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://www.broadcom.com/company/careers",
       "category": "multinational",
       "description": "מרכז פיתוח בהרצליה",
@@ -1151,7 +1151,7 @@
       "name": "Snap Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://search-careers.gm.com/en/jobs/",
       "category": "multinational",
       "description": "מרכז טכנולוגי בהרצליה (רכב חכם)",
@@ -1161,7 +1161,7 @@
       "name": "General Motors Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "workday",
       "careers_url": "https://www.careers.philips.com/global/en/search-results",
       "category": "multinational",
       "description": "מרכז פיתוח לטכנולוגיה רפואית",
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-09T08:28:16+00:00",
-  "scanned_count": 64
+  "generated_at": "2026-06-09T10:49:47+00:00",
+  "scanned_count": 80
 }

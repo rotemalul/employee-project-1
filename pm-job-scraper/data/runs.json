@@ -2,6 +2,25 @@
   "runs": [
     {
       "ats": {
+        "ashby": 2,
+        "comeet": 38,
+        "greenhouse": 26,
+        "lever": 2,
+        "unknown": 37,
+        "workday": 12
+      },
+      "companies": 117,
+      "duration_sec": 396,
+      "error_companies": [],
+      "errors": 0,
+      "finished_at": "2026-06-09T10:49:47+00:00",
+      "jobs": 52,
+      "new": 6,
+      "scanned": 80,
+      "status": "ok"
+    },
+    {
+      "ats": {
         "comeet": 36,
         "greenhouse": 26,
         "lever": 2,
@@ -226,5 +245,5 @@
       "status": "ok"
     }
   ],
-  "updated_at": "2026-06-09T08:28:16+00:00"
+  "updated_at": "2026-06-09T10:49:47+00:00"
 }
