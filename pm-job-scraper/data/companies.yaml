@@ -256,6 +256,7 @@
   category: "marketplace"
   hq: "israel"
   careers_url: "https://www.fiverr.com/jobs"
+  comeet_url: "https://www.comeet.com/jobs/fiverr/60.002"
   # Greenhouse token "fiverr" 404s — ATS unconfirmed, left undetected.
 
 - name: "Global-e"
@@ -437,12 +438,15 @@
   category: "data"
   hq: "israel"
   careers_url: "https://www.weka.io/careers/"
+  comeet_url: "https://www.comeet.com/jobs/Weka/A4.005"
 
 - name: "Pinecone"
   description: "בסיס נתונים וקטורי לאפליקציות AI"
   category: "ai"
   hq: "israel"
   careers_url: "https://www.pinecone.io/careers/"
+  ats: ashby
+  token: pinecone
 
 - name: "Deepchecks"
   description: "בדיקות ואימות למודלי ML ו-LLM"
@@ -483,6 +487,7 @@
   category: "biotech"
   hq: "israel"
   careers_url: "https://www.immunai.com/careers"
+  comeet_url: "https://www.comeet.com/jobs/immunai/37.009"
 
 - name: "CytoReason"
   description: "מודלים חישוביים של מחלות לתעשיית הפארמה"
@@ -547,7 +552,11 @@
   category: "gaming"
   hq: "israel"
   careers_url: "https://www.sciplay.com/careers/"
-  comeet_url: "https://www.comeet.com/jobs/sciplay/D5.00A"
+  # Now on parent Light & Wonder's Workday tenant (the old Comeet board is stale).
+  ats: workday
+  workday_host: "lnw.wd5.myworkdayjobs.com"
+  workday_tenant: "lnw"
+  workday_site: "SciPlayExternalCareersSite"
 
 - name: "Unity (ironSource)"
   description: "מוניטיזציה וצמיחה לאפליקציות ומשחקים"
@@ -693,6 +702,8 @@
   category: "hrtech"
   hq: "israel"
   careers_url: "https://www.deel.com/careers/"
+  ats: ashby
+  token: deel
 
 - name: "Navan"
   description: "ניהול נסיעות והוצאות עסקיות (מרכז פיתוח בישראל)"
@@ -740,12 +751,20 @@
   category: "multinational"
   hq: "multinational"
   careers_url: "https://www.nvidia.com/en-il/about-nvidia/careers/"
+  ats: workday
+  workday_host: "nvidia.wd5.myworkdayjobs.com"
+  workday_tenant: "nvidia"
+  workday_site: "NVIDIAExternalCareerSite"
 
 - name: "Intel Israel"
   description: "פיתוח ושבבים (חיפה, פתח תקווה, ירושלים)"
   category: "multinational"
   hq: "multinational"
   careers_url: "https://jobs.intel.com/en/search-jobs/Israel"
+  ats: workday
+  workday_host: "intel.wd1.myworkdayjobs.com"
+  workday_tenant: "intel"
+  workday_site: "External"
 
 - name: "IBM Israel"
   description: "מעבדות מחקר ופיתוח בישראל"
@@ -758,12 +777,20 @@
   category: "multinational"
   hq: "multinational"
   careers_url: "https://careers.salesforce.com/en/jobs/"
+  ats: workday
+  workday_host: "salesforce.wd12.myworkdayjobs.com"
+  workday_tenant: "salesforce"
+  workday_site: "External_Career_Site"
 
 - name: "PayPal Israel"
   description: "מרכז פיתוח בתל אביב ובבאר שבע"
   category: "multinational"
   hq: "multinational"
   careers_url: "https://careers.pypl.com/home/"
+  ats: workday
+  workday_host: "paypal.wd1.myworkdayjobs.com"
+  workday_tenant: "paypal"
+  workday_site: "jobs"
 
 - name: "eBay Israel"
   description: "מרכז פיתוח בנתניה ובתל אביב"
@@ -794,30 +821,50 @@
   category: "multinational"
   hq: "multinational"
   careers_url: "https://www.redhat.com/en/jobs"
+  ats: workday
+  workday_host: "redhat.wd5.myworkdayjobs.com"
+  workday_tenant: "redhat"
+  workday_site: "Jobs"
 
 - name: "Autodesk Israel"
   description: "מרכז פיתוח בתל אביב"
   category: "multinational"
   hq: "multinational"
   careers_url: "https://www.autodesk.com/careers/overview"
+  ats: workday
+  workday_host: "autodesk.wd1.myworkdayjobs.com"
+  workday_tenant: "autodesk"
+  workday_site: "Ext"
 
 - name: "Qualcomm Israel"
   description: "מרכזי פיתוח שבבים בישראל"
   category: "multinational"
   hq: "multinational"
   careers_url: "https://www.qualcomm.com/company/careers"
+  ats: workday
+  workday_host: "qualcomm.wd12.myworkdayjobs.com"
+  workday_tenant: "qualcomm"
+  workday_site: "External"
 
 - name: "Dell Technologies Israel"
   description: "מרכזי פיתוח (לשעבר EMC) בישראל"
   category: "multinational"
   hq: "multinational"
   careers_url: "https://jobs.dell.com/"
+  ats: workday
+  workday_host: "dell.wd1.myworkdayjobs.com"
+  workday_tenant: "dell"
+  workday_site: "External"
 
 - name: "Broadcom / VMware Israel"
   description: "מרכז פיתוח בהרצליה"
   category: "multinational"
   hq: "multinational"
   careers_url: "https://www.broadcom.com/company/careers"
+  ats: workday
+  workday_host: "broadcom.wd1.myworkdayjobs.com"
+  workday_tenant: "broadcom"
+  workday_site: "External_Career"
 
 - name: "Snap Israel"
   description: "מרכז פיתוח (AR) בישראל"
@@ -830,9 +877,17 @@
   category: "multinational"
   hq: "multinational"
   careers_url: "https://search-careers.gm.com/en/jobs/"
+  ats: workday
+  workday_host: "generalmotors.wd5.myworkdayjobs.com"
+  workday_tenant: "generalmotors"
+  workday_site: "Careers_GM"
 
 - name: "Philips Israel"
   description: "מרכז פיתוח לטכנולוגיה רפואית"
   category: "multinational"
   hq: "multinational"
   careers_url: "https://www.careers.philips.com/global/en/search-results"
+  ats: workday
+  workday_host: "philips.wd3.myworkdayjobs.com"
+  workday_tenant: "philips"
+  workday_site: "jobs-and-careers"
