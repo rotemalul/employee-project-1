@@ -25,9 +25,9 @@
       "careers_url": "https://www.walkme.com/careers/",
       "category": "saas",
       "description": "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה",
-      "error": false,
+      "error": true,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 0,
       "name": "WalkMe"
     },
     {
@@ -317,7 +317,7 @@
       "description": "שוק מקוון לשירותי פרילנס",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Fiverr"
     },
     {
@@ -495,7 +495,7 @@
       "careers_url": "https://logz.io/about-us/careers/",
       "category": "observability",
       "description": "תצפיתיות מבוססת קוד פתוח (לוגים, מטריקות, traces)",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Logz.io"
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-09T10:59:03+00:00",
+  "generated_at": "2026-06-09T15:58:42+00:00",
   "scanned_count": 86
 }

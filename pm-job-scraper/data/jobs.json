@@ -1,6 +1,6 @@
 {
-  "count": 52,
-  "generated_at": "2026-06-09T10:59:03+00:00",
+  "count": 50,
+  "generated_at": "2026-06-09T15:58:42+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -78,6 +78,17 @@
       "source": "comeet",
       "title": "Senior Product Manager",
       "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager/AB.B60"
+    },
+    {
+      "company": "Fiverr",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:62188018812631018862C4188:52.966",
+      "location": "Tel Aviv",
+      "posted_at": "2026-06-09",
+      "source": "comeet",
+      "title": "Senior Product Manager - Applied AI",
+      "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager---applied-ai/52.966"
     },
     {
       "company": "Gong",
@@ -206,7 +217,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:D1.C63",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-08",
+      "posted_at": "2026-06-09",
       "source": "comeet",
       "title": "Lead AI Product Manager - AI Trust",
       "url": "https://www.comeet.com/jobs/monday/41.00B/lead-ai-product-manager---ai-trust/D1.C63"
@@ -283,7 +294,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:44.964",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-07",
+      "posted_at": "2026-06-09",
       "source": "comeet",
       "title": "Senior Product Manager - AI Billing Infrastructure",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager---ai-billing-infrastructure/44.964"
@@ -294,7 +305,7 @@
       "is_new": false,
       "job_id": "comeet:2ACD5C02AC10081008AB01560180C804:A1.503",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-06-04",
+      "posted_at": "2026-06-09",
       "source": "comeet",
       "title": "Product Manager",
       "url": "https://www.comeet.com/jobs/moonactive/A2.00C/product-manager/A1.503"
@@ -316,7 +327,7 @@
       "is_new": false,
       "job_id": "comeet:982428E9820428E390C55924C101C861C86:6D.B68",
       "location": "Israel",
-      "posted_at": "2026-06-01",
+      "posted_at": "2026-06-09",
       "source": "comeet",
       "title": "Technical Product Manager",
       "url": "https://www.comeet.com/jobs/neurealityai/89.002/technical-product-manager/6D.B68"
@@ -520,39 +531,6 @@
       "url": "https://www.comeet.com/jobs/vastdata/43.001/product-owner--engineer/10.430"
     },
     {
-      "company": "WalkMe",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "lever:walkme:3f89ed0b-d3a8-49c1-9a2a-68662497f16e",
-      "location": "Tel Aviv",
-      "posted_at": "2025-11-05",
-      "source": "lever",
-      "title": "Product Manager  - Product-Led Growth (PLG) | WalkMe Learning Arc",
-      "url": "https://jobs.lever.co/walkme/3f89ed0b-d3a8-49c1-9a2a-68662497f16e"
-    },
-    {
-      "company": "WalkMe",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "lever:walkme:7f554a9a-4a43-45cb-af51-f7d4192ff817",
-      "location": "Tel Aviv",
-      "posted_at": "2026-03-08",
-      "source": "lever",
-      "title": "Senior Product Manager",
-      "url": "https://jobs.lever.co/walkme/7f554a9a-4a43-45cb-af51-f7d4192ff817"
-    },
-    {
-      "company": "WalkMe",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "lever:walkme:01195a47-88c5-4091-a1dd-193ada2c6592",
-      "location": "Tel Aviv",
-      "posted_at": "2026-05-20",
-      "source": "lever",
-      "title": "Technical Product Manager",
-      "url": "https://jobs.lever.co/walkme/01195a47-88c5-4091-a1dd-193ada2c6592"
-    },
-    {
       "company": "Yotpo",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -575,5 +553,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
