@@ -4,6 +4,9 @@ from .ashby import AshbyAdapter
 from .comeet import ComeetAdapter
 from .greenhouse import GreenhouseAdapter
 from .lever import LeverAdapter
+from .recruitee import RecruiteeAdapter
+from .smartrecruiters import SmartRecruitersAdapter
+from .workable import WorkableAdapter
 from .workday import WorkdayAdapter
 
 # Registry: maps the `ats` field in companies.yaml to its adapter class.
@@ -12,6 +15,9 @@ ADAPTERS = {
     "comeet": ComeetAdapter,
     "greenhouse": GreenhouseAdapter,
     "lever": LeverAdapter,
+    "recruitee": RecruiteeAdapter,
+    "smartrecruiters": SmartRecruitersAdapter,
+    "workable": WorkableAdapter,
     "workday": WorkdayAdapter,
 }
 

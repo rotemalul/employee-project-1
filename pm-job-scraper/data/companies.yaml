@@ -309,18 +309,24 @@
   category: "ai"
   hq: "israel"
   careers_url: "https://www.run.ai/careers"
+  ats: smartrecruiters
+  token: RunAI1
 
 - name: "D-ID"
   description: "וידאו ואווטארים גנרטיביים מבוססי AI"
   category: "ai"
   hq: "israel"
   careers_url: "https://www.d-id.com/careers/"
+  ats: workable
+  token: d-id
 
 - name: "Aporia"
   description: "ניטור ובקרה על מודלי ML ו-AI"
   category: "ai"
   hq: "israel"
   careers_url: "https://www.aporia.com/careers/"
+  ats: workable
+  token: aporia
 
 - name: "Explorium"
   description: "פלטפורמת דאטה חיצונית להעשרה ו-ML"
@@ -508,6 +514,8 @@
   category: "healthtech"
   hq: "israel"
   careers_url: "https://ibex-ai.com/careers/"
+  ats: recruitee
+  token: ib1
 
 - name: "Nucleai"
   description: "פתולוגיה מרחבית ו-AI לאונקולוגיה"
@@ -803,6 +811,8 @@
   category: "multinational"
   hq: "multinational"
   careers_url: "https://careers.booking.com/"
+  ats: smartrecruiters
+  token: Bookingcom1
 
 - name: "Uber Israel"
   description: "מרכז פיתוח בתל אביב"
@@ -871,6 +881,8 @@
   category: "multinational"
   hq: "multinational"
   careers_url: "https://careers.snap.com/jobs"
+  ats: smartrecruiters
+  token: SNAPInc1
 
 - name: "General Motors Israel"
   description: "מרכז טכנולוגי בהרצליה (רכב חכם)"
