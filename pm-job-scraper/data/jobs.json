@@ -1,6 +1,6 @@
 {
   "count": 52,
-  "generated_at": "2026-06-09T10:49:47+00:00",
+  "generated_at": "2026-06-09T10:59:03+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -27,7 +27,7 @@
     {
       "company": "Autodesk Israel",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager_26WD97851",
       "location": "Tel Aviv, ISR",
       "posted_at": null,
@@ -38,7 +38,7 @@
     {
       "company": "Autodesk Israel",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1",
       "location": "Tel Aviv, ISR",
       "posted_at": null,
@@ -71,7 +71,7 @@
     {
       "company": "Fiverr",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
       "posted_at": "2026-06-09",
@@ -346,7 +346,7 @@
     {
       "company": "Nvidia Israel",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-IC-System-Level-Test-Product-Lead_JR2017170-1",
       "location": "Israel, Yokneam",
       "posted_at": null,
@@ -357,7 +357,7 @@
     {
       "company": "Nvidia Israel",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418",
       "location": "Israel, Yokneam",
       "posted_at": null,
@@ -390,7 +390,7 @@
     {
       "company": "SciPlay",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "workday:lnw:/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655",
       "location": "ISRAEL-Tel Aviv-2A Jabotinsky",
       "posted_at": null,
@@ -575,5 +575,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 6
+  "new_count": 0
 }

@@ -381,7 +381,7 @@
       "name": "AI21 Labs"
     },
     {
-      "ats": "unknown",
+      "ats": "smartrecruiters",
       "careers_url": "https://www.run.ai/careers",
       "category": "ai",
       "description": "תזמור והאצת חישובי AI על GPU (חלק מ-Nvidia)",
@@ -391,7 +391,7 @@
       "name": "Run:ai"
     },
     {
-      "ats": "unknown",
+      "ats": "workable",
       "careers_url": "https://www.d-id.com/careers/",
       "category": "ai",
       "description": "וידאו ואווטארים גנרטיביים מבוססי AI",
@@ -401,7 +401,7 @@
       "name": "D-ID"
     },
     {
-      "ats": "unknown",
+      "ats": "workable",
       "careers_url": "https://www.aporia.com/careers/",
       "category": "ai",
       "description": "ניטור ובקרה על מודלי ML ו-AI",
@@ -671,7 +671,7 @@
       "name": "Sight Diagnostics"
     },
     {
-      "ats": "unknown",
+      "ats": "recruitee",
       "careers_url": "https://ibex-ai.com/careers/",
       "category": "healthtech",
       "description": "אבחון פתולוגיה (סרטן) מבוסס AI",
@@ -1061,7 +1061,7 @@
       "name": "eBay Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "smartrecruiters",
       "careers_url": "https://careers.booking.com/",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב",
@@ -1141,7 +1141,7 @@
       "name": "Broadcom / VMware Israel"
     },
     {
-      "ats": "unknown",
+      "ats": "smartrecruiters",
       "careers_url": "https://careers.snap.com/jobs",
       "category": "multinational",
       "description": "מרכז פיתוח (AR) בישראל",
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-09T10:49:47+00:00",
-  "scanned_count": 80
+  "generated_at": "2026-06-09T10:59:03+00:00",
+  "scanned_count": 86
 }
