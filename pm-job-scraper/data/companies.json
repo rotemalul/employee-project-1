@@ -1,11 +1,11 @@
 {
   "companies": [
     {
-      "ats": "unknown",
+      "ats": "greenhouse",
       "careers_url": "https://monday.com/careers/",
       "category": "saas",
       "description": "פלטפורמת Work OS לניהול עבודה, פרויקטים וצוותים",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Monday.com"
@@ -31,7 +31,7 @@
       "name": "WalkMe"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://corp.kaltura.com/company/careers/",
       "category": "saas",
       "description": "פלטפורמת וידאו ענן לארגונים, חינוך ומדיה",
@@ -41,7 +41,7 @@
       "name": "Kaltura"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.bizzabo.com/careers",
       "category": "saas",
       "description": "פלטפורמה לניהול אירועים וכנסים",
@@ -121,7 +121,7 @@
       "name": "Tipalti"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.rapyd.net/careers/",
       "category": "fintech",
       "description": "Fintech-as-a-Service ותשתית תשלומים גלובלית",
@@ -131,7 +131,7 @@
       "name": "Rapyd"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.etoro.com/careers/",
       "category": "fintech",
       "description": "פלטפורמת מסחר והשקעות חברתית",
@@ -171,7 +171,7 @@
       "name": "Unit"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://sunbit.com/careers/",
       "category": "fintech",
       "description": "מימון בנקודת המכירה (BNPL) לעסקים",
@@ -211,7 +211,7 @@
       "name": "Fundbox"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://trullion.com/careers/",
       "category": "fintech",
       "description": "אוטומציה חשבונאית מבוססת AI",
@@ -271,7 +271,7 @@
       "name": "Yotpo"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.bigabid.com/careers/",
       "category": "adtech",
       "description": "פלטפורמת צמיחה ו-DSP מבוססת AI למובייל",
@@ -301,7 +301,7 @@
       "name": "Innovid"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://ex.co/careers/",
       "category": "adtech",
       "description": "פלטפורמת וידאו והכנסות למפרסמי תוכן",
@@ -311,17 +311,17 @@
       "name": "EX.CO"
     },
     {
-      "ats": "unknown",
+      "ats": "greenhouse",
       "careers_url": "https://www.fiverr.com/jobs",
       "category": "marketplace",
       "description": "שוק מקוון לשירותי פרילנס",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Fiverr"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.global-e.com/careers/",
       "category": "ecommerce",
       "description": "מסחר חוצה-גבולות לחנויות eCommerce",
@@ -341,7 +341,7 @@
       "name": "Bringg"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://traxretail.com/careers/",
       "category": "retailtech",
       "description": "ראייה ממוחשבת וניתוח מדפים לקמעונאות",
@@ -351,7 +351,7 @@
       "name": "Trax Retail"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.trigoretail.com/careers/",
       "category": "retailtech",
       "description": "חנויות אוטונומיות מבוססות ראייה ממוחשבת",
@@ -361,7 +361,7 @@
       "name": "Trigo"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.nayax.com/careers/",
       "category": "fintech",
       "description": "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות",
@@ -371,7 +371,7 @@
       "name": "Nayax"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.ai21.com/careers",
       "category": "ai",
       "description": "מודלי שפה גדולים ובינה מלאכותית גנרטיבית",
@@ -411,7 +411,7 @@
       "name": "Aporia"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.explorium.ai/careers/",
       "category": "data",
       "description": "פלטפורמת דאטה חיצונית להעשרה ו-ML",
@@ -441,7 +441,7 @@
       "name": "Redis"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://sqream.com/careers/",
       "category": "data",
       "description": "אנליטיקת דאטה בקנה מידה גדול מבוססת GPU",
@@ -481,7 +481,7 @@
       "name": "Spot by NetApp"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://coralogix.com/careers/",
       "category": "observability",
       "description": "פלטפורמת תצפיתיות, לוגים ומוניטורינג",
@@ -501,13 +501,13 @@
       "name": "Logz.io"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://komodor.com/careers/",
       "category": "devtools",
       "description": "ניהול ופתרון תקלות ב-Kubernetes",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Komodor"
     },
     {
@@ -551,7 +551,7 @@
       "name": "Qwak / JFrog ML"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.tabnine.com/careers",
       "category": "devtools",
       "description": "השלמת קוד ועוזר פיתוח מבוסס AI",
@@ -631,7 +631,7 @@
       "name": "TytoCare"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.healthy.io/careers/",
       "category": "healthtech",
       "description": "בדיקות שתן ובריאות באמצעות מצלמת הסמארטפון",
@@ -651,7 +651,7 @@
       "name": "Immunai"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.cytoreason.com/careers/",
       "category": "biotech",
       "description": "מודלים חישוביים של מחלות לתעשיית הפארמה",
@@ -711,21 +711,21 @@
       "name": "Playtika"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://moonactive.com/careers/",
       "category": "gaming",
       "description": "מפתחת משחקי מובייל (Coin Master)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Moon Active"
     },
     {
-      "ats": "unknown",
+      "ats": "greenhouse",
       "careers_url": "https://plarium.com/en/careers/",
       "category": "gaming",
       "description": "סטודיו למשחקי מובייל ו-PC",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Plarium"
@@ -751,7 +751,7 @@
       "name": "Unity (ironSource)"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://wsc-sports.com/careers/",
       "category": "media",
       "description": "יצירת תקצירי ספורט אוטומטיים מבוססי AI",
@@ -761,7 +761,7 @@
       "name": "WSC Sports"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.minutemedia.com/careers",
       "category": "media",
       "description": "פלטפורמת מדיה דיגיטלית ותוכן ספורט",
@@ -771,7 +771,7 @@
       "name": "Minute Media"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.overwolf.com/careers/",
       "category": "gaming",
       "description": "פלטפורמה ליוצרי תוכן ותוספים למשחקים",
@@ -791,7 +791,7 @@
       "name": "Mobileye"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://innoviz.tech/careers",
       "category": "mobility",
       "description": "חיישני LiDAR לרכב אוטונומי",
@@ -801,7 +801,7 @@
       "name": "Innoviz Technologies"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.ree.auto/careers/",
       "category": "mobility",
       "description": "פלטפורמות חשמליות מודולריות לרכבים",
@@ -811,7 +811,7 @@
       "name": "REE Automotive"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://hailo.ai/careers/",
       "category": "semiconductors",
       "description": "מעבדי AI לקצה (edge) ולמכשירים חכמים",
@@ -821,7 +821,7 @@
       "name": "Hailo"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.wiliot.com/careers",
       "category": "iot",
       "description": "מחשוב סביבתי ו-IoT באמצעות תגיות חכמות",
@@ -831,13 +831,13 @@
       "name": "Wiliot"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.solaredge.com/careers",
       "category": "climate",
       "description": "ממירים ופתרונות אנרגיה סולארית",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 4,
       "name": "SolarEdge"
     },
     {
@@ -851,13 +851,13 @@
       "name": "Augury"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://drivenets.com/careers/",
       "category": "networking",
       "description": "תוכנת רשת cloud-native לספקי תקשורת",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 2,
       "name": "DriveNets"
     },
     {
@@ -871,7 +871,7 @@
       "name": "StoreDot"
     },
     {
-      "ats": "unknown",
+      "ats": "greenhouse",
       "careers_url": "https://electreon.com/careers",
       "category": "climate",
       "description": "טעינה אלחוטית לרכבים חשמליים בכביש",
@@ -881,13 +881,13 @@
       "name": "Electreon"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://www.neureality.ai/careers",
       "category": "semiconductors",
       "description": "ארכיטקטורת חומרה ל-inference של AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "NeuReality"
     },
     {
@@ -921,13 +921,13 @@
       "name": "Gong"
     },
     {
-      "ats": "unknown",
+      "ats": "comeet",
       "careers_url": "https://riverside.fm/careers",
       "category": "media",
       "description": "הקלטת פודקאסטים ווידאו באיכות סטודיו",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Riverside"
     },
     {
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-08T16:46:46+00:00",
-  "scanned_count": 30
+  "generated_at": "2026-06-09T08:22:02+00:00",
+  "scanned_count": 66
 }

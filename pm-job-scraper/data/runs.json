@@ -2,6 +2,27 @@
   "runs": [
     {
       "ats": {
+        "comeet": 35,
+        "greenhouse": 29,
+        "lever": 2,
+        "unknown": 51
+      },
+      "companies": 117,
+      "duration_sec": 687,
+      "error_companies": [
+        "Fiverr",
+        "Monday.com",
+        "Plarium"
+      ],
+      "errors": 3,
+      "finished_at": "2026-06-09T08:22:02+00:00",
+      "jobs": 37,
+      "new": 10,
+      "scanned": 66,
+      "status": "partial"
+    },
+    {
+      "ats": {
         "comeet": 3,
         "greenhouse": 25,
         "lever": 2,
@@ -188,5 +209,5 @@
       "status": "ok"
     }
   ],
-  "updated_at": "2026-06-08T16:46:46+00:00"
+  "updated_at": "2026-06-09T08:22:02+00:00"
 }

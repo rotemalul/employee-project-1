@@ -1,6 +1,6 @@
 {
-  "count": 27,
-  "generated_at": "2026-06-08T16:46:46+00:00",
+  "count": 37,
+  "generated_at": "2026-06-09T08:22:02+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -23,6 +23,28 @@
       "source": "greenhouse",
       "title": "Senior Product Manager - Analytics",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
+    },
+    {
+      "company": "DriveNets",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:21.262",
+      "location": "Ra'anana, Israel",
+      "posted_at": "2026-06-03",
+      "source": "comeet",
+      "title": "Product Manager – Network, Infrastructure & Security",
+      "url": "https://www.comeet.com/jobs/drivenets/72.006/product-manager--network-infrastructure--security/21.262"
+    },
+    {
+      "company": "DriveNets",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:94.963",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-06-01",
+      "source": "comeet",
+      "title": "Senior Product Manager Autonomous Networks",
+      "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-product-manager-autonomous-networks/94.963"
     },
     {
       "company": "Gong",
@@ -113,6 +135,17 @@
       "url": "https://join.jfrog.com/job/?job=7827996&gh_jid=7827996"
     },
     {
+      "company": "Komodor",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
+      "location": "Tel Aviv",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Product Manager",
+      "url": "https://www.comeet.com/jobs/komodor/96.005/product-manager/48.963"
+    },
+    {
       "company": "Melio",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -124,6 +157,17 @@
       "url": "https://job-boards.greenhouse.io/melio/jobs/7741403003"
     },
     {
+      "company": "Moon Active",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:2ACD5C02AC10081008AB01560180C804:A1.503",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-06-04",
+      "source": "comeet",
+      "title": "Product Manager",
+      "url": "https://www.comeet.com/jobs/moonactive/A2.00C/product-manager/A1.503"
+    },
+    {
       "company": "Navan",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -133,6 +177,17 @@
       "source": "greenhouse",
       "title": " Senior Product Manager",
       "url": "https://navan.com/careers/openings?gh_jid=7522825"
+    },
+    {
+      "company": "NeuReality",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:982428E9820428E390C55924C101C861C86:6D.B68",
+      "location": "Israel",
+      "posted_at": "2026-06-01",
+      "source": "comeet",
+      "title": "Technical Product Manager",
+      "url": "https://www.comeet.com/jobs/neurealityai/89.002/technical-product-manager/6D.B68"
     },
     {
       "company": "NICE",
@@ -168,6 +223,17 @@
       "url": "https://www.comeet.com/jobs/port/59.004/product-manager---ai-platform/F9.B67"
     },
     {
+      "company": "Riverside",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
+      "location": "Israel",
+      "posted_at": "2026-06-09",
+      "source": "comeet",
+      "title": "Senior Growth Product Manager",
+      "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-growth-product-manager/2F.862"
+    },
+    {
       "company": "Similarweb",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -188,6 +254,50 @@
       "source": "greenhouse",
       "title": "Senior Data Product Manager- Retail Intelligence",
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
+    },
+    {
+      "company": "SolarEdge",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
+      "location": "Maskit E - Herzliya",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "AI Product Manager – Energy Intelligence",
+      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/ai-product-manager--energy-intelligence/6B.761"
+    },
+    {
+      "company": "SolarEdge",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:19.B6C",
+      "location": "Maskit E - Herzliya",
+      "posted_at": "2026-06-09",
+      "source": "comeet",
+      "title": "Product Manager - Field Installer Experience",
+      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/product-manager---field-installer-experience/19.B6C"
+    },
+    {
+      "company": "SolarEdge",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B6C",
+      "location": "Maskit E - Herzliya",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Product Manager - Hardware Installability",
+      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/product-manager---hardware-installability/37.B6C"
+    },
+    {
+      "company": "SolarEdge",
+      "first_seen": "2026-06-09",
+      "is_new": true,
+      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
+      "location": "Maskit E - Herzliya",
+      "posted_at": "2026-06-08",
+      "source": "comeet",
+      "title": "Senior Product Manager – Software for Field Installers",
+      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/senior-product-manager--software-for-field-installers/37.B60"
     },
     {
       "company": "Taboola",
@@ -300,5 +410,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 0
+  "new_count": 10
 }
