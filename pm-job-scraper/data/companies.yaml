@@ -23,8 +23,7 @@
   category: "saas"
   hq: "israel"
   careers_url: "https://monday.com/careers/"
-  ats: greenhouse
-  token: monday
+  # Greenhouse token "monday" 404s; Comeet token is harvested via the browser.
   comeet_url: "https://www.comeet.com/jobs/monday/41.00B"
 
 - name: "Wix"
@@ -257,8 +256,7 @@
   category: "marketplace"
   hq: "israel"
   careers_url: "https://www.fiverr.com/jobs"
-  ats: greenhouse
-  token: fiverr
+  # Greenhouse token "fiverr" 404s — ATS unconfirmed, left undetected.
 
 - name: "Global-e"
   description: "מסחר חוצה-גבולות לחנויות eCommerce"
@@ -542,8 +540,7 @@
   category: "gaming"
   hq: "israel"
   careers_url: "https://plarium.com/en/careers/"
-  ats: greenhouse
-  token: plariumgloballtd
+  # Greenhouse token "plariumgloballtd" 404s on the boards-API — left undetected.
 
 - name: "SciPlay"
   description: "משחקי קזינו חברתיים למובייל"
