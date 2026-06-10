@@ -1,6 +1,6 @@
 {
-  "count": 50,
-  "generated_at": "2026-06-09T15:58:42+00:00",
+  "count": 51,
+  "generated_at": "2026-06-10T08:49:54+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -63,7 +63,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:94.963",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-06-01",
+      "posted_at": "2026-06-09",
       "source": "comeet",
       "title": "Senior Product Manager Autonomous Networks",
       "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-product-manager-autonomous-networks/94.963"
@@ -82,24 +82,13 @@
     {
       "company": "Fiverr",
       "first_seen": "2026-06-09",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:52.966",
       "location": "Tel Aviv",
       "posted_at": "2026-06-09",
       "source": "comeet",
       "title": "Senior Product Manager - Applied AI",
       "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager---applied-ai/52.966"
-    },
-    {
-      "company": "Gong",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:gongio:4668011006",
-      "location": "Tel Aviv",
-      "posted_at": "2026-04-14",
-      "source": "greenhouse",
-      "title": "Senior Product Manager - Enterprise & User Management",
-      "url": "https://job-boards.greenhouse.io/gongio/jobs/4668011006"
     },
     {
       "company": "JFrog",
@@ -217,7 +206,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:D1.C63",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-09",
+      "posted_at": "2026-06-10",
       "source": "comeet",
       "title": "Lead AI Product Manager - AI Trust",
       "url": "https://www.comeet.com/jobs/monday/41.00B/lead-ai-product-manager---ai-trust/D1.C63"
@@ -338,7 +327,7 @@
       "is_new": false,
       "job_id": "greenhouse:nice:4863716101",
       "location": "Israel - Raanana",
-      "posted_at": "2026-05-26",
+      "posted_at": "2026-06-10",
       "source": "greenhouse",
       "title": "Director, Product Manager, AI",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4863716101?gh_jid=4863716101"
@@ -349,7 +338,7 @@
       "is_new": false,
       "job_id": "greenhouse:nice:4832200101",
       "location": "Israel - Raanana",
-      "posted_at": "2026-05-26",
+      "posted_at": "2026-06-10",
       "source": "greenhouse",
       "title": "Senior AI Product Manager",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4832200101?gh_jid=4832200101"
@@ -393,7 +382,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
       "location": "Israel",
-      "posted_at": "2026-06-09",
+      "posted_at": "2026-06-10",
       "source": "comeet",
       "title": "Senior Growth Product Manager",
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-growth-product-manager/2F.862"
@@ -437,7 +426,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-09",
+      "posted_at": "2026-06-10",
       "source": "comeet",
       "title": "AI Product Manager – Energy Intelligence",
       "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/ai-product-manager--energy-intelligence/6B.761"
@@ -531,6 +520,28 @@
       "url": "https://www.comeet.com/jobs/vastdata/43.001/product-owner--engineer/10.430"
     },
     {
+      "company": "WalkMe",
+      "first_seen": "2026-06-04",
+      "is_new": false,
+      "job_id": "lever:walkme:3f89ed0b-d3a8-49c1-9a2a-68662497f16e",
+      "location": "Tel Aviv",
+      "posted_at": "2025-11-05",
+      "source": "lever",
+      "title": "Product Manager  - Product-Led Growth (PLG) | WalkMe Learning Arc",
+      "url": "https://jobs.lever.co/walkme/3f89ed0b-d3a8-49c1-9a2a-68662497f16e"
+    },
+    {
+      "company": "WalkMe",
+      "first_seen": "2026-06-04",
+      "is_new": false,
+      "job_id": "lever:walkme:01195a47-88c5-4091-a1dd-193ada2c6592",
+      "location": "Tel Aviv",
+      "posted_at": "2026-05-20",
+      "source": "lever",
+      "title": "Technical Product Manager",
+      "url": "https://jobs.lever.co/walkme/01195a47-88c5-4091-a1dd-193ada2c6592"
+    },
+    {
       "company": "Yotpo",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -553,5 +564,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
