@@ -117,7 +117,7 @@
       "description": "אוטומציה של תשלומים לספקים וניהול פיננסי",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Tipalti"
     },
     {
@@ -887,7 +887,7 @@
       "description": "ארכיטקטורת חומרה ל-inference של AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "NeuReality"
     },
     {
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-11T09:15:46+00:00",
+  "generated_at": "2026-06-11T16:51:37+00:00",
   "scanned_count": 86
 }
