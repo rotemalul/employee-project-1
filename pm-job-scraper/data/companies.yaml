@@ -903,3 +903,66 @@
   workday_host: "philips.wd3.myworkdayjobs.com"
   workday_tenant: "philips"
   workday_site: "jobs-and-careers"
+
+# ============================================================================
+# ENTERPRISE TRACK — "חברות מסורתיות" (banks, retail, telecom...) with a
+# digital/tech arm. Broader role filter (product/project/digital/automation),
+# shown in the dashboard's "חברות מסורתיות" tab. Only those on a supported ATS
+# are listed; most Israeli incumbents use custom local systems (Niloosoft etc.).
+# ============================================================================
+
+- name: "בנק דיסקונט"
+  description: "בנק קמעונאי עם אפליקציה ושירותים דיגיטליים"
+  category: "bank"
+  hq: "israel"
+  track: "enterprise"
+  careers_url: "https://www.comeet.com/jobs/dbank/F8.004"
+  comeet_url: "https://www.comeet.com/jobs/dbank/F8.004"
+
+- name: "ONE ZERO"
+  description: "הבנק הדיגיטלי הראשון בישראל"
+  category: "bank"
+  hq: "israel"
+  track: "enterprise"
+  careers_url: "https://www.comeet.com/jobs/onezerobank/36.00A"
+  comeet_url: "https://www.comeet.com/jobs/onezerobank/36.00A"
+
+- name: "PayBox"
+  description: "אפליקציית תשלומים והעברות כספים (מבית דיסקונט)"
+  category: "fintech"
+  hq: "israel"
+  track: "enterprise"
+  careers_url: "https://www.comeet.com/jobs/paybox/18.004"
+  comeet_url: "https://www.comeet.com/jobs/paybox/18.004"
+
+- name: "Finubit"
+  description: "זרוע פינטק/דיגיטל מבית בנק לאומי"
+  category: "fintech"
+  hq: "israel"
+  track: "enterprise"
+  careers_url: "https://www.comeet.com/jobs/finubit/A9.002"
+  comeet_url: "https://www.comeet.com/jobs/finubit/A9.002"
+
+- name: "סופר-פארם"
+  description: "רשת קמעונאות עם אפליקציה, מועדון לקוחות ו-eCommerce"
+  category: "retail"
+  hq: "israel"
+  track: "enterprise"
+  careers_url: "https://www.comeet.com/jobs/super-pharm/28.00C"
+  comeet_url: "https://www.comeet.com/jobs/super-pharm/28.00C"
+
+- name: "דלתא גליל"
+  description: "מותג אופנה ולבוש עם זרוע eCommerce ודיגיטל"
+  category: "retail"
+  hq: "israel"
+  track: "enterprise"
+  careers_url: "https://www.comeet.com/jobs/deltagalil/78.000"
+  comeet_url: "https://www.comeet.com/jobs/deltagalil/78.000"
+
+- name: "Pango"
+  description: "אפליקציית תשלום על חניה ושירותי רכב"
+  category: "mobility"
+  hq: "israel"
+  track: "enterprise"
+  careers_url: "https://www.comeet.com/jobs/pango/59.002"
+  comeet_url: "https://www.comeet.com/jobs/pango/59.002"
