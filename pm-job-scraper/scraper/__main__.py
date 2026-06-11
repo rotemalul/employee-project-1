@@ -63,6 +63,7 @@ def run() -> int:
     company_rows = []  # roster for the dashboard's company view
     for company in companies:
         name = company.get("name", "<unnamed>")
+        track = company.get("track", "hightech")
         resolved = resolve_ats(company, session=session, cache=cache)
         ats = resolved.get("ats") if resolved else None
         adapter_cls = ADAPTERS.get(ats)
@@ -73,6 +74,7 @@ def run() -> int:
             "hq": company.get("hq", ""),
             "careers_url": company.get("careers_url", ""),
             "ats": ats or "unknown",
+            "track": track,
             "jobs_count": 0,
             "error": False,
         }
@@ -84,6 +86,8 @@ def run() -> int:
         try:
             adapter = adapter_cls(session=session)
             jobs = adapter.fetch_jobs(resolved)
+            for j in jobs:
+                j.track = track
             relevant = [j for j in jobs if is_relevant(j)]
             all_jobs.extend(relevant)
             row["jobs_count"] = len(relevant)

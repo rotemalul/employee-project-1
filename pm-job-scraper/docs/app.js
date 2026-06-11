@@ -6,13 +6,21 @@ const COMPANIES_URL = "./companies.json";
 const RUNS_URL = "./runs.json";
 
 const HQ_LABELS = { israel: "ישראל", multinational: "רב-לאומית" };
-const ATS_LABELS = { greenhouse: "Greenhouse", lever: "Lever", comeet: "Comeet", unknown: "טרם נתמך" };
+const ATS_LABELS = {
+  greenhouse: "Greenhouse", lever: "Lever", comeet: "Comeet", ashby: "Ashby",
+  workday: "Workday", smartrecruiters: "SmartRecruiters", workable: "Workable",
+  recruitee: "Recruitee", unknown: "טרם נתמך",
+};
 const STATUS_LABELS = { ok: "תקין", partial: "חלקי" };
 
 let allJobs = [];
 let allCompanies = [];
+let currentTrack = "hightech";  // toggled by the track switch
+let jobsGeneratedAt = null;
 
-/* ============================ tabs ============================ */
+const track = (x) => x.track || "hightech";
+
+/* ===================== tabs + track switch ===================== */
 
 function initTabs() {
   document.querySelectorAll(".tab").forEach((btn) => {
@@ -23,6 +31,21 @@ function initTabs() {
       for (const v of ["jobs", "companies", "runs"]) {
         document.getElementById("view-" + v).hidden = v !== view;
       }
+      // the track switch only applies to jobs/companies, not runs
+      document.getElementById("track-switch").style.display = view === "runs" ? "none" : "";
+    });
+  });
+}
+
+function initTrackSwitch() {
+  document.querySelectorAll(".track-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      currentTrack = btn.dataset.track;
+      document.querySelectorAll(".track-btn").forEach((b) => b.classList.toggle("active", b === btn));
+      rebuildCompanyFilter();
+      rebuildCategoryFilter();
+      renderJobs();
+      renderCompanies();
     });
   });
 }
@@ -33,35 +56,37 @@ async function loadJobs() {
   try {
     const data = await fetchJson(JOBS_URL);
     allJobs = data.jobs || [];
-    renderJobStats(data);
-    populateCompanyFilter(allJobs);
+    jobsGeneratedAt = data.generated_at;
+    setText("stat-updated", formatDate(jobsGeneratedAt));
+    rebuildCompanyFilter();
     renderJobs();
   } catch (err) {
     showError("empty", "לא ניתן לטעון את המשרות (" + err.message + ").");
   }
 }
 
-function renderJobStats(data) {
-  const companies = new Set(allJobs.map((j) => j.company));
-  setText("stat-total", data.count ?? allJobs.length);
-  setText("stat-new", data.new_count ?? allJobs.filter((j) => j.is_new).length);
-  setText("stat-companies", companies.size);
-  setText("stat-updated", formatDate(data.generated_at));
-}
-
-function populateCompanyFilter(jobs) {
+function rebuildCompanyFilter() {
   const sel = document.getElementById("company-filter");
-  [...new Set(jobs.map((j) => j.company))].sort().forEach((c) => sel.appendChild(option(c, c)));
+  const cur = sel.value;
+  sel.innerHTML = '<option value="">כל החברות</option>';
+  const names = [...new Set(allJobs.filter((j) => track(j) === currentTrack).map((j) => j.company))].sort();
+  names.forEach((c) => sel.appendChild(option(c, c)));
+  sel.value = names.includes(cur) ? cur : "";
 }
 
 function renderJobs() {
+  const trackJobs = allJobs.filter((j) => track(j) === currentTrack);
+  setText("stat-total", trackJobs.length);
+  setText("stat-new", trackJobs.filter((j) => j.is_new).length);
+  setText("stat-companies", new Set(trackJobs.map((j) => j.company)).size);
+
   const q = val("search").toLowerCase();
   const company = val("company-filter");
   const onlyNew = document.getElementById("only-new").checked;
   const rows = document.getElementById("rows");
   rows.innerHTML = "";
 
-  const filtered = allJobs
+  const filtered = trackJobs
     .filter((j) => {
       if (onlyNew && !j.is_new) return false;
       if (company && j.company !== company) return false;
@@ -94,28 +119,29 @@ async function loadCompanies() {
   try {
     const data = await fetchJson(COMPANIES_URL);
     allCompanies = data.companies || [];
-    renderCompanyStats(data);
-    populateCategoryFilter(allCompanies);
+    rebuildCategoryFilter();
     renderCompanies();
   } catch (err) {
     showError("c-empty", "לא ניתן לטעון את רשימת החברות (" + err.message + ").");
   }
 }
 
-function renderCompanyStats(data) {
-  const jobs = allCompanies.reduce((s, c) => s + (c.jobs_count || 0), 0);
-  setText("c-stat-total", data.count ?? allCompanies.length);
-  setText("c-stat-scanned", data.scanned_count ?? allCompanies.filter((c) => c.ats && c.ats !== "unknown").length);
-  setText("c-stat-jobs", jobs);
-}
-
-function populateCategoryFilter(companies) {
+function rebuildCategoryFilter() {
   const sel = document.getElementById("c-cat-filter");
-  [...new Set(companies.map((c) => c.category).filter(Boolean))].sort()
-    .forEach((cat) => sel.appendChild(option(cat, cat)));
+  const cur = sel.value;
+  sel.innerHTML = '<option value="">כל התחומים</option>';
+  const cats = [...new Set(allCompanies.filter((c) => track(c) === currentTrack)
+    .map((c) => c.category).filter(Boolean))].sort();
+  cats.forEach((cat) => sel.appendChild(option(cat, cat)));
+  sel.value = cats.includes(cur) ? cur : "";
 }
 
 function renderCompanies() {
+  const trackCos = allCompanies.filter((c) => track(c) === currentTrack);
+  setText("c-stat-total", trackCos.length);
+  setText("c-stat-scanned", trackCos.filter((c) => c.ats && c.ats !== "unknown").length);
+  setText("c-stat-jobs", trackCos.reduce((s, c) => s + (c.jobs_count || 0), 0));
+
   const q = val("c-search").toLowerCase();
   const cat = val("c-cat-filter");
   const ats = val("c-ats-filter");
@@ -123,7 +149,7 @@ function renderCompanies() {
   const rows = document.getElementById("c-rows");
   rows.innerHTML = "";
 
-  const filtered = allCompanies
+  const filtered = trackCos
     .filter((c) => {
       if (onlyHiring && !(c.jobs_count > 0)) return false;
       if (cat && c.category !== cat) return false;
@@ -152,7 +178,7 @@ function renderCompanies() {
     const atsTxt = c.error ? "שגיאת סריקה" : (ATS_LABELS[atsKey] || atsKey);
     tr.appendChild(cell(`<span class="pill ${atsCls}">${escapeHtml(atsTxt)}</span>`, "", "פלטפורמה"));
     const n = c.jobs_count || 0;
-    tr.appendChild(cell(`<span class="count-chip${n ? "" : " zero"}">${n}</span>`, "", "משרות PM"));
+    tr.appendChild(cell(`<span class="count-chip${n ? "" : " zero"}">${n}</span>`, "", "משרות"));
     tr.appendChild(cell(c.careers_url
       ? `<a class="apply" href="${encodeURI(c.careers_url)}" target="_blank" rel="noopener">קריירה ←</a>` : ""));
     rows.appendChild(tr);
@@ -243,6 +269,7 @@ function escapeHtml(s) {
   document.getElementById(id).addEventListener("input", renderCompanies));
 
 initTabs();
+initTrackSwitch();
 loadJobs();
 loadCompanies();
 loadRuns();

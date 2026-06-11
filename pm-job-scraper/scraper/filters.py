@@ -39,6 +39,43 @@ def is_pm_title(title: str) -> bool:
     return bool(_POSITIVE_TITLE.search(title))
 
 
+# --- Enterprise ("traditional company") digital roles ------------------------
+# Broader than PM: product, project, and digital/automation leadership at banks,
+# insurers, retailers, telecoms, HMOs, etc. Project Manager IS wanted here (so
+# the PM-only negative list does not apply), but clearly off-target functions
+# (sales/store/logistics/etc.) are still excluded.
+
+_ENTERPRISE_NEGATIVE = re.compile(
+    r"\b(sales|account|store|branch|retail\s+store|warehouse|logistics|supply|"
+    r"fleet|security|cashier|maintenance|field\s+service|collections|"
+    r"underwriting|actuary|teller)\b",
+    re.IGNORECASE,
+)
+
+_ENTERPRISE_POSITIVE = re.compile(
+    r"\bproduct\s+manager\b|\bproduct\s+owner\b|\bproduct\s+lead\b"
+    r"|\b(?:director|vp|vice\s+president|head|chief)\s+(?:of\s+)?product\b"
+    r"|\bproject\s+manager\b|\bprogram\s+manager\b"
+    r"|\bdigital\b|\bautomation\b|\bux\b|\buser\s+experience\b"
+    r"|\bcustomer\s+experience\b|\bdigital\s+transformation\b"
+    r"|מנהל(?:ת)?\s+מוצר|מנהל(?:ת)?\s+המוצר"
+    r"|מנהל(?:ת)?\s+פרו?יי?קט|מוביל(?:ה)?\s+(?:דיגיטל|מוצר)"
+    r"|ראש\s+(?:תחום\s+)?דיגיטל|מנהל(?:ת)?\s+(?:תחום\s+)?דיגיטל"
+    r"|דיגיטל|אוטומציה|חווי?י?ת\s+לקוח|מוצר\s+דיגיטלי",
+    re.IGNORECASE,
+)
+
+
+def is_digital_title(title: str) -> bool:
+    """True for product / project / digital leadership roles (enterprise track)."""
+    if not title:
+        return False
+    if _ENTERPRISE_NEGATIVE.search(title):
+        return False
+    return bool(_ENTERPRISE_POSITIVE.search(title))
+
+
+
 # --- Israel location matching -----------------------------------------------
 
 # Major Israeli hubs + the country name. Word-bounded to avoid false matches
@@ -65,5 +102,11 @@ def is_in_israel(location: str) -> bool:
 # --- Combined ---------------------------------------------------------------
 
 def is_relevant(job) -> bool:
-    """A job is relevant if it is a PM role located in Israel."""
-    return is_pm_title(job.title) and is_in_israel(job.location)
+    """Relevant if located in Israel and the title fits the job's track:
+    PM-only for hi-tech, broader product/project/digital for enterprise.
+    """
+    if not is_in_israel(job.location):
+        return False
+    if getattr(job, "track", "hightech") == "enterprise":
+        return is_digital_title(job.title)
+    return is_pm_title(job.title)
