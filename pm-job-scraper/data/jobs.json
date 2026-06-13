@@ -1,6 +1,6 @@
 {
-  "count": 51,
-  "generated_at": "2026-06-12T16:16:42+00:00",
+  "count": 46,
+  "generated_at": "2026-06-13T08:20:56+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -23,28 +23,6 @@
       "source": "greenhouse",
       "title": "Senior Product Manager - Analytics",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
-    },
-    {
-      "company": "Autodesk Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager_26WD97851",
-      "location": "Tel Aviv, ISR",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD97851"
-    },
-    {
-      "company": "Autodesk Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1",
-      "location": "Tel Aviv, ISR",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1"
     },
     {
       "company": "DriveNets",
@@ -195,7 +173,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:2E.868",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-13",
       "source": "comeet",
       "title": "Group Product Manager (Growth)",
       "url": "https://www.comeet.com/jobs/monday/41.00B/group-product-manager-growth/2E.868"
@@ -239,7 +217,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:0B.96A",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-13",
       "source": "comeet",
       "title": "Senior AI Product Manager - Vibe",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-ai-product-manager---vibe/0B.96A"
@@ -250,7 +228,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:73.B64",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-12",
       "source": "comeet",
       "title": "Senior Product Manager",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager/73.B64"
@@ -333,28 +311,6 @@
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4832200101?gh_jid=4832200101"
     },
     {
-      "company": "Nvidia Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-IC-System-Level-Test-Product-Lead_JR2017170-1",
-      "location": "Israel, Yokneam",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Senior IC System Level Test Product Lead",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-IC-System-Level-Test-Product-Lead_JR2017170-1"
-    },
-    {
-      "company": "Nvidia Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418",
-      "location": "Israel, Yokneam",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Senior Product Manager - NVLink",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418"
-    },
-    {
       "company": "Port",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -371,21 +327,10 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
       "location": "Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-12",
       "source": "comeet",
       "title": "Senior Growth Product Manager",
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-growth-product-manager/2F.862"
-    },
-    {
-      "company": "SciPlay",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:lnw:/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655",
-      "location": "ISRAEL-Tel Aviv-2A Jabotinsky",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager",
-      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655"
     },
     {
       "company": "Similarweb",

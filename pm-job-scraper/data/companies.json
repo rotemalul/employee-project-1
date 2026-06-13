@@ -735,9 +735,9 @@
       "careers_url": "https://www.sciplay.com/careers/",
       "category": "gaming",
       "description": "משחקי קזינו חברתיים למובייל",
-      "error": false,
+      "error": true,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "SciPlay"
     },
     {
@@ -1005,9 +1005,9 @@
       "careers_url": "https://www.nvidia.com/en-il/about-nvidia/careers/",
       "category": "multinational",
       "description": "מרכזי פיתוח (יקנעם, תל אביב) — לשעבר Mellanox",
-      "error": false,
+      "error": true,
       "hq": "multinational",
-      "jobs_count": 2,
+      "jobs_count": 0,
       "name": "Nvidia Israel"
     },
     {
@@ -1015,7 +1015,7 @@
       "careers_url": "https://jobs.intel.com/en/search-jobs/Israel",
       "category": "multinational",
       "description": "פיתוח ושבבים (חיפה, פתח תקווה, ירושלים)",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Intel Israel"
@@ -1045,7 +1045,7 @@
       "careers_url": "https://careers.pypl.com/home/",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב ובבאר שבע",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "PayPal Israel"
@@ -1095,7 +1095,7 @@
       "careers_url": "https://www.redhat.com/en/jobs",
       "category": "multinational",
       "description": "מרכז פיתוח (רעננה) — קוד פתוח וענן",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Red Hat Israel"
@@ -1105,9 +1105,9 @@
       "careers_url": "https://www.autodesk.com/careers/overview",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב",
-      "error": false,
+      "error": true,
       "hq": "multinational",
-      "jobs_count": 2,
+      "jobs_count": 0,
       "name": "Autodesk Israel"
     },
     {
@@ -1125,7 +1125,7 @@
       "careers_url": "https://jobs.dell.com/",
       "category": "multinational",
       "description": "מרכזי פיתוח (לשעבר EMC) בישראל",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Dell Technologies Israel"
@@ -1135,7 +1135,7 @@
       "careers_url": "https://www.broadcom.com/company/careers",
       "category": "multinational",
       "description": "מרכז פיתוח בהרצליה",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Broadcom / VMware Israel"
@@ -1155,7 +1155,7 @@
       "careers_url": "https://search-careers.gm.com/en/jobs/",
       "category": "multinational",
       "description": "מרכז טכנולוגי בהרצליה (רכב חכם)",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "General Motors Israel"
@@ -1165,13 +1165,13 @@
       "careers_url": "https://www.careers.philips.com/global/en/search-results",
       "category": "multinational",
       "description": "מרכז פיתוח לטכנולוגיה רפואית",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Philips Israel"
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-12T16:16:42+00:00",
+  "generated_at": "2026-06-13T08:20:56+00:00",
   "scanned_count": 86
 }
