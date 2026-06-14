@@ -15,6 +15,7 @@ class Job:
     location: str
     url: str
     source: str                      # which ATS it came from
+    track: str = "hightech"          # "hightech" | "enterprise" (set from company)
     posted_at: Optional[str] = None  # ISO date string, if available
     first_seen: Optional[str] = None # filled in by the store layer
     is_new: bool = False             # filled in by the store layer

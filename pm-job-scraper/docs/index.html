@@ -33,6 +33,12 @@
       border-bottom: 2px solid transparent; margin-bottom: -1px;
     }
     .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+    .track-switch { display: flex; gap: 6px; margin: 12px 0 2px; }
+    .track-btn {
+      flex: 1; background: var(--card); border: 1px solid var(--line); color: var(--muted);
+      padding: 9px 12px; border-radius: 10px; font-size: .92rem; font-family: inherit; cursor: pointer;
+    }
+    .track-btn.active { background: rgba(56,189,248,.15); color: var(--accent); border-color: var(--accent); font-weight: 600; }
 
     .stats { display: flex; gap: 10px; flex-wrap: wrap; margin: 16px 0 0; }
     .stat {
@@ -105,6 +111,10 @@
         <button class="tab" data-view="companies">חברות</button>
         <button class="tab" data-view="runs">ריצות</button>
       </nav>
+      <div class="track-switch" id="track-switch">
+        <button class="track-btn active" data-track="hightech">הייטק</button>
+        <button class="track-btn" data-track="enterprise">חברות מסורתיות</button>
+      </div>
     </div>
   </header>
 
@@ -135,7 +145,7 @@
     <div class="stats">
       <div class="stat"><div class="num" id="c-stat-total">–</div><div class="lbl">חברות ברשימה</div></div>
       <div class="stat"><div class="num" id="c-stat-scanned">–</div><div class="lbl">נסרקות</div></div>
-      <div class="stat"><div class="num" id="c-stat-jobs">–</div><div class="lbl">משרות PM</div></div>
+      <div class="stat"><div class="num" id="c-stat-jobs">–</div><div class="lbl">משרות</div></div>
     </div>
     <div class="controls">
       <input type="search" id="c-search" placeholder="חיפוש חברה / תיאור / תחום…" />
@@ -151,7 +161,7 @@
     </div>
     <main>
       <table id="c-table">
-        <thead><tr><th>חברה</th><th>תחום</th><th>מטה</th><th>פלטפורמה</th><th>משרות PM</th><th></th></tr></thead>
+        <thead><tr><th>חברה</th><th>תחום</th><th>מטה</th><th>פלטפורמה</th><th>משרות</th><th></th></tr></thead>
         <tbody id="c-rows"></tbody>
       </table>
       <div class="empty" id="c-empty" hidden>לא נמצאו חברות תואמות.</div>
