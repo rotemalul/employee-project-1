@@ -27,7 +27,7 @@
       "description": "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "WalkMe"
     },
     {
@@ -117,7 +117,7 @@
       "description": "אוטומציה של תשלומים לספקים וניהול פיננסי",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Tipalti"
     },
     {
@@ -317,7 +317,7 @@
       "description": "שוק מקוון לשירותי פרילנס",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Fiverr"
     },
     {
@@ -887,7 +887,7 @@
       "description": "ארכיטקטורת חומרה ל-inference של AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "NeuReality"
     },
     {
@@ -917,7 +917,7 @@
       "description": "אינטליגנציית הכנסות וניתוח שיחות מכירה מבוסס AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Gong"
     },
     {
@@ -1172,6 +1172,6 @@
     }
   ],
   "count": 117,
-  "generated_at": "2026-06-09T10:59:03+00:00",
+  "generated_at": "2026-06-13T15:00:18+00:00",
   "scanned_count": 86
 }
