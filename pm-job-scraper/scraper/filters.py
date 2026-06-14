@@ -48,7 +48,12 @@ def is_pm_title(title: str) -> bool:
 _ENTERPRISE_NEGATIVE = re.compile(
     r"\b(sales|account|store|branch|retail\s+store|warehouse|logistics|supply|"
     r"fleet|security|cashier|maintenance|field\s+service|collections|"
-    r"underwriting|actuary|teller)\b",
+    r"underwriting|actuary|teller|customer\s+service|customer\s+support|"
+    r"call\s+center|contact\s+center|support\s+(?:rep|representative|agent)|"
+    r"receptionist)\b"
+    # Hebrew service/floor roles that ride the broad "דיגיטל" match but are not
+    # product/project/digital leadership (e.g. "נציג שירות לקוחות דיגיטל").
+    r"|נציג|שירות\s+לקוחות|אחמ|מוקד|תמיכה|מכירות|מלצר|קופא",
     re.IGNORECASE,
 )
 
