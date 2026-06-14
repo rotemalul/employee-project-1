@@ -1,6 +1,6 @@
 {
-  "count": 56,
-  "generated_at": "2026-06-14T06:17:23+00:00",
+  "count": 54,
+  "generated_at": "2026-06-14T07:33:47+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -77,10 +77,10 @@
     {
       "company": "Finubit",
       "first_seen": "2026-06-14",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:9A2436E9A2436E1CE61CE639CC1CE626884D10:F9.961",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-09",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Product Owner",
       "track": "enterprise",
@@ -284,7 +284,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:73.B64",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-12",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -296,7 +296,7 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:22.C6E",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-13",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Senior Product Manager -  Agentic Surfaces",
       "track": "hightech",
@@ -401,7 +401,7 @@
     {
       "company": "Pango",
       "first_seen": "2026-06-14",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:18.264",
       "location": "Petah Tikva, Israel",
       "posted_at": "2026-02-11",
@@ -517,6 +517,18 @@
       "title": "Senior Product Manager – Software for Field Installers",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/senior-product-manager--software-for-field-installers/37.B60"
+    },
+    {
+      "company": "SolarEdge",
+      "first_seen": "2026-06-14",
+      "is_new": true,
+      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:7D.C6D",
+      "location": "Modi'in",
+      "posted_at": "2026-06-14",
+      "source": "comeet",
+      "title": "Senior Technical Product Manager",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/senior-technical-product-manager/7D.C6D"
     },
     {
       "company": "Taboola",
@@ -637,43 +649,7 @@
       "title": "VP of Product ",
       "track": "hightech",
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
-    },
-    {
-      "company": "דלתא גליל",
-      "first_seen": "2026-06-14",
-      "is_new": true,
-      "job_id": "comeet:87032A032A0438032A032A02A3021C032A0870:D9.76F",
-      "location": "Caesarea, Israel",
-      "posted_at": "2026-05-03",
-      "source": "comeet",
-      "title": "אחמ\"ש.ית שירות לקוחות דיגיטל",
-      "track": "enterprise",
-      "url": "https://www.comeet.com/jobs/deltagalil/78.000/_---/D9.76F"
-    },
-    {
-      "company": "דלתא גליל",
-      "first_seen": "2026-06-14",
-      "is_new": true,
-      "job_id": "comeet:87032A032A0438032A032A02A3021C032A0870:5C.560",
-      "location": "Caesarea, Israel",
-      "posted_at": "2026-04-28",
-      "source": "comeet",
-      "title": "נציג.ת שירות לקוחות דיגיטל",
-      "track": "enterprise",
-      "url": "https://www.comeet.com/jobs/deltagalil/78.000/_---/5C.560"
-    },
-    {
-      "company": "סופר-פארם",
-      "first_seen": "2026-06-14",
-      "is_new": true,
-      "job_id": "comeet:82C310828DC28DC4160498C188420B039343934:52.C37",
-      "location": "הרצליה פיתוח",
-      "posted_at": "2025-10-31",
-      "source": "comeet",
-      "title": "נציג.ת שירות לקוחות - דיגיטל",
-      "track": "enterprise",
-      "url": "https://www.comeet.com/jobs/super-pharm/28.00C/_-----/52.C37"
     }
   ],
-  "new_count": 5
+  "new_count": 1
 }

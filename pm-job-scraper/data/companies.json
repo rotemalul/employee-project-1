@@ -920,7 +920,7 @@
       "description": "ממירים ופתרונות אנרגיה סולארית",
       "error": false,
       "hq": "israel",
-      "jobs_count": 4,
+      "jobs_count": 5,
       "name": "SolarEdge",
       "track": "hightech"
     },
@@ -1338,7 +1338,7 @@
       "description": "רשת קמעונאות עם אפליקציה, מועדון לקוחות ו-eCommerce",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "סופר-פארם",
       "track": "enterprise"
     },
@@ -1349,7 +1349,7 @@
       "description": "מותג אופנה ולבוש עם זרוע eCommerce ודיגיטל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 0,
       "name": "דלתא גליל",
       "track": "enterprise"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-06-14T06:17:23+00:00",
+  "generated_at": "2026-06-14T07:33:47+00:00",
   "scanned_count": 93
 }
