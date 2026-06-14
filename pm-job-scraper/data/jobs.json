@@ -1,6 +1,6 @@
 {
-  "count": 51,
-  "generated_at": "2026-06-13T15:00:18+00:00",
+  "count": 56,
+  "generated_at": "2026-06-14T06:17:23+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -11,6 +11,7 @@
       "posted_at": "2026-05-12",
       "source": "greenhouse",
       "title": "Product Manager, Data Export",
+      "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8544986002?gh_jid=8544986002"
     },
     {
@@ -22,6 +23,7 @@
       "posted_at": "2026-03-11",
       "source": "greenhouse",
       "title": "Senior Product Manager - Analytics",
+      "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
     },
     {
@@ -33,6 +35,7 @@
       "posted_at": null,
       "source": "workday",
       "title": "Product Manager",
+      "track": "hightech",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD97851"
     },
     {
@@ -44,6 +47,7 @@
       "posted_at": null,
       "source": "workday",
       "title": "Product Manager",
+      "track": "hightech",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1"
     },
     {
@@ -55,6 +59,7 @@
       "posted_at": "2026-06-03",
       "source": "comeet",
       "title": "Product Manager – Network, Infrastructure & Security",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/drivenets/72.006/product-manager--network-infrastructure--security/21.262"
     },
     {
@@ -66,7 +71,20 @@
       "posted_at": "2026-06-10",
       "source": "comeet",
       "title": "Senior Product Manager Autonomous Networks",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-product-manager-autonomous-networks/94.963"
+    },
+    {
+      "company": "Finubit",
+      "first_seen": "2026-06-14",
+      "is_new": true,
+      "job_id": "comeet:9A2436E9A2436E1CE61CE639CC1CE626884D10:F9.961",
+      "location": "Tel Aviv",
+      "posted_at": "2026-06-09",
+      "source": "comeet",
+      "title": "Product Owner",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/finubit/A9.002/product-owner/F9.961"
     },
     {
       "company": "Fiverr",
@@ -77,6 +95,7 @@
       "posted_at": "2026-06-12",
       "source": "comeet",
       "title": "Senior Product Manager",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager/AB.B60"
     },
     {
@@ -85,9 +104,10 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:52.966",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Senior Product Manager - Applied AI",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager---applied-ai/52.966"
     },
     {
@@ -99,6 +119,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": " Director of Product, AI",
+      "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7547485&gh_jid=7547485"
     },
     {
@@ -110,6 +131,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": "Director of Product Management",
+      "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7001974&gh_jid=7001974"
     },
     {
@@ -121,6 +143,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": "Principal Product Manager",
+      "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7461910&gh_jid=7461910"
     },
     {
@@ -132,6 +155,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": "Senior Product Manager",
+      "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7050083&gh_jid=7050083"
     },
     {
@@ -143,6 +167,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": "Senior Product Manager - JFrog Security ",
+      "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7657193&gh_jid=7657193"
     },
     {
@@ -154,6 +179,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": "Senior Product Manager – Growth",
+      "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7821360&gh_jid=7821360"
     },
     {
@@ -165,6 +191,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": "Senior Product Manager, AI-Native Security",
+      "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7827996&gh_jid=7827996"
     },
     {
@@ -176,6 +203,7 @@
       "posted_at": "2026-06-08",
       "source": "comeet",
       "title": "Product Manager",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/komodor/96.005/product-manager/48.963"
     },
     {
@@ -184,9 +212,10 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:32.96E",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-13",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Group Product Manager",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/group-product-manager/32.96E"
     },
     {
@@ -195,9 +224,10 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:2E.868",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-13",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Group Product Manager (Growth)",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/group-product-manager-growth/2E.868"
     },
     {
@@ -206,9 +236,10 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:D1.C63",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Lead AI Product Manager - AI Trust",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/lead-ai-product-manager---ai-trust/D1.C63"
     },
     {
@@ -220,6 +251,7 @@
       "posted_at": "2026-06-11",
       "source": "comeet",
       "title": "Lead Product Manager - Engineering AI Experience",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/lead-product-manager---engineering-ai-experience/BD.868"
     },
     {
@@ -231,6 +263,7 @@
       "posted_at": "2026-06-11",
       "source": "comeet",
       "title": "Senior AI Product Manager - monday service",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-ai-product-manager---monday-service/49.B63"
     },
     {
@@ -239,9 +272,10 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:0B.96A",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-13",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Senior AI Product Manager - Vibe",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-ai-product-manager---vibe/0B.96A"
     },
     {
@@ -253,6 +287,7 @@
       "posted_at": "2026-06-12",
       "source": "comeet",
       "title": "Senior Product Manager",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager/73.B64"
     },
     {
@@ -261,9 +296,10 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:22.C6E",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-13",
       "source": "comeet",
       "title": "Senior Product Manager -  Agentic Surfaces",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager----agentic-surfaces/22.C6E"
     },
     {
@@ -275,6 +311,7 @@
       "posted_at": "2026-06-11",
       "source": "comeet",
       "title": "Senior Product Manager - AI Agentic Solutions",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager---ai-agentic-solutions/F9.965"
     },
     {
@@ -283,9 +320,10 @@
       "is_new": false,
       "job_id": "comeet:14B52C52C67790D3E1296BA37C20:44.964",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Senior Product Manager - AI Billing Infrastructure",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/monday/41.00B/senior-product-manager---ai-billing-infrastructure/44.964"
     },
     {
@@ -297,6 +335,7 @@
       "posted_at": "2026-06-11",
       "source": "comeet",
       "title": "Product Manager",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/moonactive/A2.00C/product-manager/A1.503"
     },
     {
@@ -308,6 +347,7 @@
       "posted_at": "2026-05-21",
       "source": "greenhouse",
       "title": " Senior Product Manager",
+      "track": "hightech",
       "url": "https://navan.com/careers/openings?gh_jid=7522825"
     },
     {
@@ -319,6 +359,7 @@
       "posted_at": "2026-06-10",
       "source": "greenhouse",
       "title": "Director, Product Manager, AI",
+      "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4863716101?gh_jid=4863716101"
     },
     {
@@ -330,6 +371,7 @@
       "posted_at": "2026-06-10",
       "source": "greenhouse",
       "title": "Senior AI Product Manager",
+      "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4832200101?gh_jid=4832200101"
     },
     {
@@ -341,6 +383,7 @@
       "posted_at": null,
       "source": "workday",
       "title": "Senior IC System Level Test Product Lead",
+      "track": "hightech",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-IC-System-Level-Test-Product-Lead_JR2017170-1"
     },
     {
@@ -352,7 +395,20 @@
       "posted_at": null,
       "source": "workday",
       "title": "Senior Product Manager - NVLink",
+      "track": "hightech",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418"
+    },
+    {
+      "company": "Pango",
+      "first_seen": "2026-06-14",
+      "is_new": true,
+      "job_id": "comeet:952413E0254895295253E295237EC53E2:18.264",
+      "location": "Petah Tikva, Israel",
+      "posted_at": "2026-02-11",
+      "source": "comeet",
+      "title": "Product Manager",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/pango/59.002/product-manager/18.264"
     },
     {
       "company": "Port",
@@ -360,9 +416,10 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-06-11",
+      "posted_at": "2026-06-13",
       "source": "comeet",
       "title": "Product Manager - AI Platform",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/port/59.004/product-manager---ai-platform/F9.B67"
     },
     {
@@ -371,9 +428,10 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
       "location": "Israel",
-      "posted_at": "2026-06-12",
+      "posted_at": "2026-06-13",
       "source": "comeet",
       "title": "Senior Growth Product Manager",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-growth-product-manager/2F.862"
     },
     {
@@ -385,6 +443,7 @@
       "posted_at": null,
       "source": "workday",
       "title": "Product Manager",
+      "track": "hightech",
       "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655"
     },
     {
@@ -396,6 +455,7 @@
       "posted_at": "2026-05-12",
       "source": "greenhouse",
       "title": "Senior AI Product Manager - Sales Intelligence ",
+      "track": "hightech",
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7571788"
     },
     {
@@ -407,6 +467,7 @@
       "posted_at": "2026-04-29",
       "source": "greenhouse",
       "title": "Senior Data Product Manager- Retail Intelligence",
+      "track": "hightech",
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
     },
     {
@@ -415,9 +476,10 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-13",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "AI Product Manager – Energy Intelligence",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/ai-product-manager--energy-intelligence/6B.761"
     },
     {
@@ -426,9 +488,10 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:19.B6C",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-12",
+      "posted_at": "2026-06-14",
       "source": "comeet",
       "title": "Product Manager - Field Installer Experience",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/product-manager---field-installer-experience/19.B6C"
     },
     {
@@ -440,6 +503,7 @@
       "posted_at": "2026-06-13",
       "source": "comeet",
       "title": "Product Manager - Hardware Installability",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/product-manager---hardware-installability/37.B6C"
     },
     {
@@ -448,9 +512,10 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-12",
+      "posted_at": "2026-06-13",
       "source": "comeet",
       "title": "Senior Product Manager – Software for Field Installers",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/senior-product-manager--software-for-field-installers/37.B60"
     },
     {
@@ -462,6 +527,7 @@
       "posted_at": "2026-05-18",
       "source": "greenhouse",
       "title": "Head of Product",
+      "track": "hightech",
       "url": "https://www.taboola.com/careers/job/7695161?gh_jid=7695161"
     },
     {
@@ -473,6 +539,7 @@
       "posted_at": "2026-06-05",
       "source": "greenhouse",
       "title": "Senior Product Manager",
+      "track": "hightech",
       "url": "https://www.taboola.com/careers/job/7609918?gh_jid=7609918"
     },
     {
@@ -484,6 +551,7 @@
       "posted_at": "2026-06-05",
       "source": "greenhouse",
       "title": "Senior Product Manager- Attribution & Incrementality",
+      "track": "hightech",
       "url": "https://www.taboola.com/careers/job/7704034?gh_jid=7704034"
     },
     {
@@ -495,6 +563,7 @@
       "posted_at": "2026-05-22",
       "source": "greenhouse",
       "title": "Director of Product Management   ",
+      "track": "hightech",
       "url": "https://tipalti.com/jobs/?gh_jid=5992996004"
     },
     {
@@ -506,6 +575,7 @@
       "posted_at": "2026-06-11",
       "source": "greenhouse",
       "title": "Senior Product Manager",
+      "track": "hightech",
       "url": "https://tipalti.com/jobs/?gh_jid=6016181004"
     },
     {
@@ -517,6 +587,7 @@
       "posted_at": "2026-03-17",
       "source": "comeet",
       "title": "Product Owner & Engineer",
+      "track": "hightech",
       "url": "https://www.comeet.com/jobs/vastdata/43.001/product-owner--engineer/10.430"
     },
     {
@@ -528,6 +599,7 @@
       "posted_at": "2025-11-05",
       "source": "lever",
       "title": "Product Manager  - Product-Led Growth (PLG) | WalkMe Learning Arc",
+      "track": "hightech",
       "url": "https://jobs.lever.co/walkme/3f89ed0b-d3a8-49c1-9a2a-68662497f16e"
     },
     {
@@ -539,6 +611,7 @@
       "posted_at": "2026-05-20",
       "source": "lever",
       "title": "Technical Product Manager",
+      "track": "hightech",
       "url": "https://jobs.lever.co/walkme/01195a47-88c5-4091-a1dd-193ada2c6592"
     },
     {
@@ -550,6 +623,7 @@
       "posted_at": "2026-04-15",
       "source": "greenhouse",
       "title": "Senior Product Manager ",
+      "track": "hightech",
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     },
     {
@@ -561,8 +635,45 @@
       "posted_at": "2026-05-04",
       "source": "greenhouse",
       "title": "VP of Product ",
+      "track": "hightech",
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
+    },
+    {
+      "company": "דלתא גליל",
+      "first_seen": "2026-06-14",
+      "is_new": true,
+      "job_id": "comeet:87032A032A0438032A032A02A3021C032A0870:D9.76F",
+      "location": "Caesarea, Israel",
+      "posted_at": "2026-05-03",
+      "source": "comeet",
+      "title": "אחמ\"ש.ית שירות לקוחות דיגיטל",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/deltagalil/78.000/_---/D9.76F"
+    },
+    {
+      "company": "דלתא גליל",
+      "first_seen": "2026-06-14",
+      "is_new": true,
+      "job_id": "comeet:87032A032A0438032A032A02A3021C032A0870:5C.560",
+      "location": "Caesarea, Israel",
+      "posted_at": "2026-04-28",
+      "source": "comeet",
+      "title": "נציג.ת שירות לקוחות דיגיטל",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/deltagalil/78.000/_---/5C.560"
+    },
+    {
+      "company": "סופר-פארם",
+      "first_seen": "2026-06-14",
+      "is_new": true,
+      "job_id": "comeet:82C310828DC28DC4160498C188420B039343934:52.C37",
+      "location": "הרצליה פיתוח",
+      "posted_at": "2025-10-31",
+      "source": "comeet",
+      "title": "נציג.ת שירות לקוחות - דיגיטל",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/super-pharm/28.00C/_-----/52.C37"
     }
   ],
-  "new_count": 0
+  "new_count": 5
 }

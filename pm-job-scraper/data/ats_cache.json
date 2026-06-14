@@ -43,6 +43,11 @@
     "token": "4BE17B61C744BE1C7497C4BE12F817B612F8",
     "uid": "B4.00E"
   },
+  "Finubit": {
+    "ats": "comeet",
+    "token": "9A2436E9A2436E1CE61CE639CC1CE626884D10",
+    "uid": "A9.002"
+  },
   "Firebolt": {
     "ats": "comeet",
     "token": "62424D80374424D824D8126C126C1EB41890",
@@ -121,6 +126,11 @@
     "token": "982428E9820428E390C55924C101C861C86",
     "uid": "89.002"
   },
+  "ONE ZERO": {
+    "ats": "comeet",
+    "token": "63A255C63A63A18E831D063A31D063A1F22",
+    "uid": "36.00A"
+  },
   "Overwolf": {
     "ats": "comeet",
     "token": "1B16C4BD7005131B1A26F391B1",
@@ -129,6 +139,16 @@
   "Pagaya": {
     "ats": "greenhouse",
     "token": "pagaya"
+  },
+  "Pango": {
+    "ats": "comeet",
+    "token": "952413E0254895295253E295237EC53E2",
+    "uid": "59.002"
+  },
+  "PayBox": {
+    "ats": "comeet",
+    "token": "814307828641028048B4183C286440A03078",
+    "uid": "18.004"
   },
   "Port": {
     "ats": "comeet",
@@ -208,5 +228,20 @@
     "ats": "comeet",
     "token": "14952452466D3DB7B61495240B91",
     "uid": "41.009"
+  },
+  "בנק דיסקונט": {
+    "ats": "comeet",
+    "token": "8F435B847A035B802CC42CC4509447A035B8",
+    "uid": "F8.004"
+  },
+  "דלתא גליל": {
+    "ats": "comeet",
+    "token": "87032A032A0438032A032A02A3021C032A0870",
+    "uid": "78.000"
+  },
+  "סופר-פארם": {
+    "ats": "comeet",
+    "token": "82C310828DC28DC4160498C188420B039343934",
+    "uid": "28.00C"
   }
 }

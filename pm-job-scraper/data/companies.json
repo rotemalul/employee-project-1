@@ -8,7 +8,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 10,
-      "name": "Monday.com"
+      "name": "Monday.com",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -18,7 +19,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Wix"
+      "name": "Wix",
+      "track": "hightech"
     },
     {
       "ats": "lever",
@@ -28,7 +30,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "WalkMe"
+      "name": "WalkMe",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -38,7 +41,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Kaltura"
+      "name": "Kaltura",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -48,7 +52,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Bizzabo"
+      "name": "Bizzabo",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -58,7 +63,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "HiBob"
+      "name": "HiBob",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -68,7 +74,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Papaya Global"
+      "name": "Papaya Global",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -78,7 +85,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Lightricks"
+      "name": "Lightricks",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -88,7 +96,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Verbit"
+      "name": "Verbit",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -98,7 +107,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Payoneer"
+      "name": "Payoneer",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -108,7 +118,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Melio"
+      "name": "Melio",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -118,7 +129,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "Tipalti"
+      "name": "Tipalti",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -128,7 +140,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Rapyd"
+      "name": "Rapyd",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -138,7 +151,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "eToro"
+      "name": "eToro",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -148,7 +162,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Pagaya"
+      "name": "Pagaya",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -158,7 +173,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "BlueVine"
+      "name": "BlueVine",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -168,7 +184,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Unit"
+      "name": "Unit",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -178,7 +195,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Sunbit"
+      "name": "Sunbit",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -188,7 +206,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Lemonade"
+      "name": "Lemonade",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -198,7 +217,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Next Insurance"
+      "name": "Next Insurance",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -208,7 +228,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Fundbox"
+      "name": "Fundbox",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -218,7 +239,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Trullion"
+      "name": "Trullion",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -228,7 +250,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 3,
-      "name": "Taboola"
+      "name": "Taboola",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -238,7 +261,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Outbrain"
+      "name": "Outbrain",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -248,7 +272,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "AppsFlyer"
+      "name": "AppsFlyer",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -258,7 +283,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "Similarweb"
+      "name": "Similarweb",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -268,7 +294,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "Yotpo"
+      "name": "Yotpo",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -278,7 +305,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Bigabid"
+      "name": "Bigabid",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -288,7 +316,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Pecan AI"
+      "name": "Pecan AI",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -298,7 +327,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Innovid"
+      "name": "Innovid",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -308,7 +338,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "EX.CO"
+      "name": "EX.CO",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -318,7 +349,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "Fiverr"
+      "name": "Fiverr",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -328,7 +360,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Global-e"
+      "name": "Global-e",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -338,7 +371,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Bringg"
+      "name": "Bringg",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -348,7 +382,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Trax Retail"
+      "name": "Trax Retail",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -358,7 +393,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Trigo"
+      "name": "Trigo",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -368,7 +404,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Nayax"
+      "name": "Nayax",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -378,7 +415,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "AI21 Labs"
+      "name": "AI21 Labs",
+      "track": "hightech"
     },
     {
       "ats": "smartrecruiters",
@@ -388,7 +426,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Run:ai"
+      "name": "Run:ai",
+      "track": "hightech"
     },
     {
       "ats": "workable",
@@ -398,7 +437,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "D-ID"
+      "name": "D-ID",
+      "track": "hightech"
     },
     {
       "ats": "workable",
@@ -408,7 +448,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Aporia"
+      "name": "Aporia",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -418,7 +459,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Explorium"
+      "name": "Explorium",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -428,7 +470,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Firebolt"
+      "name": "Firebolt",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -438,7 +481,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Redis"
+      "name": "Redis",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -448,7 +492,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "SQream"
+      "name": "SQream",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -458,7 +503,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 7,
-      "name": "JFrog"
+      "name": "JFrog",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -468,7 +514,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Lightrun"
+      "name": "Lightrun",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -478,7 +525,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Spot by NetApp"
+      "name": "Spot by NetApp",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -488,7 +536,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Coralogix"
+      "name": "Coralogix",
+      "track": "hightech"
     },
     {
       "ats": "lever",
@@ -498,7 +547,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Logz.io"
+      "name": "Logz.io",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -508,7 +558,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 1,
-      "name": "Komodor"
+      "name": "Komodor",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -518,7 +569,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 1,
-      "name": "Port"
+      "name": "Port",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -528,7 +580,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Iguazio"
+      "name": "Iguazio",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -538,7 +591,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "ClearML"
+      "name": "ClearML",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -548,7 +602,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Qwak / JFrog ML"
+      "name": "Qwak / JFrog ML",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -558,7 +613,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Tabnine"
+      "name": "Tabnine",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -568,7 +624,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 1,
-      "name": "VAST Data"
+      "name": "VAST Data",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -578,7 +635,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "WEKA"
+      "name": "WEKA",
+      "track": "hightech"
     },
     {
       "ats": "ashby",
@@ -588,7 +646,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Pinecone"
+      "name": "Pinecone",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -598,7 +657,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Deepchecks"
+      "name": "Deepchecks",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -608,7 +668,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Aidoc"
+      "name": "Aidoc",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -618,7 +679,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "K Health"
+      "name": "K Health",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -628,7 +690,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "TytoCare"
+      "name": "TytoCare",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -638,7 +701,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Healthy.io"
+      "name": "Healthy.io",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -648,7 +712,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Immunai"
+      "name": "Immunai",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -658,7 +723,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "CytoReason"
+      "name": "CytoReason",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -668,7 +734,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Sight Diagnostics"
+      "name": "Sight Diagnostics",
+      "track": "hightech"
     },
     {
       "ats": "recruitee",
@@ -678,7 +745,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Ibex Medical Analytics"
+      "name": "Ibex Medical Analytics",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -688,7 +756,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Nucleai"
+      "name": "Nucleai",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -698,7 +767,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "DayTwo"
+      "name": "DayTwo",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -708,7 +778,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Playtika"
+      "name": "Playtika",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -718,7 +789,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 1,
-      "name": "Moon Active"
+      "name": "Moon Active",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -728,7 +800,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Plarium"
+      "name": "Plarium",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -738,7 +811,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 1,
-      "name": "SciPlay"
+      "name": "SciPlay",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -748,7 +822,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Unity (ironSource)"
+      "name": "Unity (ironSource)",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -758,7 +833,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "WSC Sports"
+      "name": "WSC Sports",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -768,7 +844,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Minute Media"
+      "name": "Minute Media",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -778,7 +855,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Overwolf"
+      "name": "Overwolf",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -788,7 +866,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Mobileye"
+      "name": "Mobileye",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -798,7 +877,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Innoviz Technologies"
+      "name": "Innoviz Technologies",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -808,7 +888,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "REE Automotive"
+      "name": "REE Automotive",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -818,7 +899,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Hailo"
+      "name": "Hailo",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -828,7 +910,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Wiliot"
+      "name": "Wiliot",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -838,7 +921,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 4,
-      "name": "SolarEdge"
+      "name": "SolarEdge",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -848,7 +932,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Augury"
+      "name": "Augury",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -858,7 +943,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "DriveNets"
+      "name": "DriveNets",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -868,7 +954,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "StoreDot"
+      "name": "StoreDot",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -878,7 +965,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Electreon"
+      "name": "Electreon",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -888,7 +976,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "NeuReality"
+      "name": "NeuReality",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -898,7 +987,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Tactile Mobility"
+      "name": "Tactile Mobility",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -908,7 +998,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 2,
-      "name": "NICE"
+      "name": "NICE",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -918,7 +1009,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Gong"
+      "name": "Gong",
+      "track": "hightech"
     },
     {
       "ats": "comeet",
@@ -928,7 +1020,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 1,
-      "name": "Riverside"
+      "name": "Riverside",
+      "track": "hightech"
     },
     {
       "ats": "ashby",
@@ -938,7 +1031,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 0,
-      "name": "Deel"
+      "name": "Deel",
+      "track": "hightech"
     },
     {
       "ats": "greenhouse",
@@ -948,7 +1042,8 @@
       "error": false,
       "hq": "israel",
       "jobs_count": 1,
-      "name": "Navan"
+      "name": "Navan",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -958,7 +1053,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Google"
+      "name": "Google",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -968,7 +1064,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Microsoft Israel"
+      "name": "Microsoft Israel",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -978,7 +1075,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Meta"
+      "name": "Meta",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -988,7 +1086,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Amazon / AWS Israel"
+      "name": "Amazon / AWS Israel",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -998,7 +1097,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Apple Israel"
+      "name": "Apple Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1008,7 +1108,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 2,
-      "name": "Nvidia Israel"
+      "name": "Nvidia Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1018,7 +1119,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Intel Israel"
+      "name": "Intel Israel",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -1028,7 +1130,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "IBM Israel"
+      "name": "IBM Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1038,7 +1141,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Salesforce Israel"
+      "name": "Salesforce Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1048,7 +1152,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "PayPal Israel"
+      "name": "PayPal Israel",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -1058,7 +1163,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "eBay Israel"
+      "name": "eBay Israel",
+      "track": "hightech"
     },
     {
       "ats": "smartrecruiters",
@@ -1068,7 +1174,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Booking.com"
+      "name": "Booking.com",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -1078,7 +1185,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Uber Israel"
+      "name": "Uber Israel",
+      "track": "hightech"
     },
     {
       "ats": "unknown",
@@ -1088,7 +1196,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "SAP Israel"
+      "name": "SAP Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1098,7 +1207,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Red Hat Israel"
+      "name": "Red Hat Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1108,7 +1218,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 2,
-      "name": "Autodesk Israel"
+      "name": "Autodesk Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1118,7 +1229,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Qualcomm Israel"
+      "name": "Qualcomm Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1128,7 +1240,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Dell Technologies Israel"
+      "name": "Dell Technologies Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1138,7 +1251,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Broadcom / VMware Israel"
+      "name": "Broadcom / VMware Israel",
+      "track": "hightech"
     },
     {
       "ats": "smartrecruiters",
@@ -1148,7 +1262,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Snap Israel"
+      "name": "Snap Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1158,7 +1273,8 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "General Motors Israel"
+      "name": "General Motors Israel",
+      "track": "hightech"
     },
     {
       "ats": "workday",
@@ -1168,10 +1284,88 @@
       "error": false,
       "hq": "multinational",
       "jobs_count": 0,
-      "name": "Philips Israel"
+      "name": "Philips Israel",
+      "track": "hightech"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.comeet.com/jobs/dbank/F8.004",
+      "category": "bank",
+      "description": "בנק קמעונאי עם אפליקציה ושירותים דיגיטליים",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "בנק דיסקונט",
+      "track": "enterprise"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.comeet.com/jobs/onezerobank/36.00A",
+      "category": "bank",
+      "description": "הבנק הדיגיטלי הראשון בישראל",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "ONE ZERO",
+      "track": "enterprise"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.comeet.com/jobs/paybox/18.004",
+      "category": "fintech",
+      "description": "אפליקציית תשלומים והעברות כספים (מבית דיסקונט)",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 0,
+      "name": "PayBox",
+      "track": "enterprise"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.comeet.com/jobs/finubit/A9.002",
+      "category": "fintech",
+      "description": "זרוע פינטק/דיגיטל מבית בנק לאומי",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 1,
+      "name": "Finubit",
+      "track": "enterprise"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.comeet.com/jobs/super-pharm/28.00C",
+      "category": "retail",
+      "description": "רשת קמעונאות עם אפליקציה, מועדון לקוחות ו-eCommerce",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 1,
+      "name": "סופר-פארם",
+      "track": "enterprise"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.comeet.com/jobs/deltagalil/78.000",
+      "category": "retail",
+      "description": "מותג אופנה ולבוש עם זרוע eCommerce ודיגיטל",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 2,
+      "name": "דלתא גליל",
+      "track": "enterprise"
+    },
+    {
+      "ats": "comeet",
+      "careers_url": "https://www.comeet.com/jobs/pango/59.002",
+      "category": "mobility",
+      "description": "אפליקציית תשלום על חניה ושירותי רכב",
+      "error": false,
+      "hq": "israel",
+      "jobs_count": 1,
+      "name": "Pango",
+      "track": "enterprise"
     }
   ],
-  "count": 117,
-  "generated_at": "2026-06-13T15:00:18+00:00",
-  "scanned_count": 86
+  "count": 124,
+  "generated_at": "2026-06-14T06:17:23+00:00",
+  "scanned_count": 93
 }
