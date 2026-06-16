@@ -7,7 +7,7 @@
       "description": "פלטפורמת Work OS לניהול עבודה, פרויקטים וצוותים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 8,
+      "jobs_count": 0,
       "name": "Monday.com",
       "track": "hightech"
     },
@@ -1041,7 +1041,7 @@
       "description": "ניהול נסיעות והוצאות עסקיות (מרכז פיתוח בישראל)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Navan",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-06-16T10:08:32+00:00",
+  "generated_at": "2026-06-16T18:03:24+00:00",
   "scanned_count": 93
 }
