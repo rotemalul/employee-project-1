@@ -1,6 +1,6 @@
 {
   "count": 45,
-  "generated_at": "2026-06-17T09:32:30+00:00",
+  "generated_at": "2026-06-17T16:37:44+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -150,18 +150,6 @@
       "company": "JFrog",
       "first_seen": "2026-06-04",
       "is_new": false,
-      "job_id": "greenhouse:jfrog:7050083",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-06-15",
-      "source": "greenhouse",
-      "title": "Senior Product Manager",
-      "track": "hightech",
-      "url": "https://join.jfrog.com/job/?job=7050083&gh_jid=7050083"
-    },
-    {
-      "company": "JFrog",
-      "first_seen": "2026-06-04",
-      "is_new": false,
       "job_id": "greenhouse:jfrog:7657193",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-06-14",
@@ -200,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-16",
+      "posted_at": "2026-06-17",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -268,6 +256,18 @@
     },
     {
       "company": "Nvidia Israel",
+      "first_seen": "2026-06-17",
+      "is_new": true,
+      "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager_JR2014235",
+      "location": "Israel, Yokneam",
+      "posted_at": null,
+      "source": "workday",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager_JR2014235"
+    },
+    {
+      "company": "Nvidia Israel",
       "first_seen": "2026-06-09",
       "is_new": false,
       "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418",
@@ -320,7 +320,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
       "location": "Israel",
-      "posted_at": "2026-06-16",
+      "posted_at": "2026-06-17",
       "source": "comeet",
       "title": "Senior Growth Product Manager",
       "track": "hightech",
@@ -404,7 +404,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:7D.C6D",
       "location": "Modi'in",
-      "posted_at": "2026-06-16",
+      "posted_at": "2026-06-17",
       "source": "comeet",
       "title": "Senior Technical Product Manager",
       "track": "hightech",
@@ -473,7 +473,7 @@
     {
       "company": "Trigo",
       "first_seen": "2026-06-17",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
       "posted_at": "2026-06-17",
