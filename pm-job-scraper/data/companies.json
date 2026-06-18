@@ -1008,7 +1008,7 @@
       "description": "אינטליגנציית הכנסות וניתוח שיחות מכירה מבוסס AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Gong",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-06-18T09:16:23+00:00",
+  "generated_at": "2026-06-18T16:26:41+00:00",
   "scanned_count": 93
 }
