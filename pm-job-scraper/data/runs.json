@@ -13,6 +13,28 @@
         "workday": 12
       },
       "companies": 124,
+      "duration_sec": 170,
+      "error_companies": [],
+      "errors": 0,
+      "finished_at": "2026-06-20T15:04:10+00:00",
+      "jobs": 45,
+      "new": 0,
+      "scanned": 93,
+      "status": "ok"
+    },
+    {
+      "ats": {
+        "ashby": 2,
+        "comeet": 45,
+        "greenhouse": 26,
+        "lever": 2,
+        "recruitee": 1,
+        "smartrecruiters": 3,
+        "unknown": 31,
+        "workable": 2,
+        "workday": 12
+      },
+      "companies": 124,
       "duration_sec": 309,
       "error_companies": [],
       "errors": 0,
@@ -809,5 +831,5 @@
       "status": "ok"
     }
   ],
-  "updated_at": "2026-06-20T08:23:07+00:00"
+  "updated_at": "2026-06-20T15:04:10+00:00"
 }
