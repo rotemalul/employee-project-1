@@ -1,6 +1,6 @@
 {
-  "count": 42,
-  "generated_at": "2026-06-22T10:38:51+00:00",
+  "count": 41,
+  "generated_at": "2026-06-22T17:30:00+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-17",
+      "posted_at": "2026-06-22",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -356,23 +356,11 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-21",
+      "posted_at": "2026-06-22",
       "source": "comeet",
       "title": "Senior Product Manager – Software for Field Installers",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/senior-product-manager--software-for-field-installers/37.B60"
-    },
-    {
-      "company": "SolarEdge",
-      "first_seen": "2026-06-14",
-      "is_new": false,
-      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:7D.C6D",
-      "location": "Modi'in",
-      "posted_at": "2026-06-22",
-      "source": "comeet",
-      "title": "Senior Technical Product Manager",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/senior-technical-product-manager/7D.C6D"
     },
     {
       "company": "Taboola",
