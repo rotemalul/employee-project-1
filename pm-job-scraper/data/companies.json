@@ -1107,7 +1107,7 @@
       "description": "מרכזי פיתוח (יקנעם, תל אביב) — לשעבר Mellanox",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 3,
+      "jobs_count": 1,
       "name": "Nvidia Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-06-21T15:11:40+00:00",
+  "generated_at": "2026-06-22T10:38:51+00:00",
   "scanned_count": 93
 }
