@@ -13,6 +13,28 @@
         "workday": 12
       },
       "companies": 124,
+      "duration_sec": 315,
+      "error_companies": [],
+      "errors": 0,
+      "finished_at": "2026-06-23T08:30:04+00:00",
+      "jobs": 41,
+      "new": 0,
+      "scanned": 93,
+      "status": "ok"
+    },
+    {
+      "ats": {
+        "ashby": 2,
+        "comeet": 45,
+        "greenhouse": 26,
+        "lever": 2,
+        "recruitee": 1,
+        "smartrecruiters": 3,
+        "unknown": 31,
+        "workable": 2,
+        "workday": 12
+      },
+      "companies": 124,
       "duration_sec": 168,
       "error_companies": [],
       "errors": 0,
@@ -832,24 +854,7 @@
       "new": 0,
       "scanned": 30,
       "status": "ok"
-    },
-    {
-      "ats": {
-        "comeet": 3,
-        "greenhouse": 25,
-        "lever": 2,
-        "unknown": 87
-      },
-      "companies": 117,
-      "duration_sec": 102,
-      "error_companies": [],
-      "errors": 0,
-      "finished_at": "2026-06-05T15:51:45+00:00",
-      "jobs": 29,
-      "new": 0,
-      "scanned": 30,
-      "status": "ok"
     }
   ],
-  "updated_at": "2026-06-22T17:30:00+00:00"
+  "updated_at": "2026-06-23T08:30:04+00:00"
 }
