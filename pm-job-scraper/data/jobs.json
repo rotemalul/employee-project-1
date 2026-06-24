@@ -1,6 +1,6 @@
 {
   "count": 43,
-  "generated_at": "2026-06-24T08:24:22+00:00",
+  "generated_at": "2026-06-24T15:33:43+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-23",
+      "posted_at": "2026-06-24",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -109,18 +109,6 @@
       "title": "Senior Product Manager - Applied AI",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager---applied-ai/52.966"
-    },
-    {
-      "company": "JFrog",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:jfrog:7547485",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-06-14",
-      "source": "greenhouse",
-      "title": " Director of Product, AI",
-      "track": "hightech",
-      "url": "https://join.jfrog.com/job/?job=7547485&gh_jid=7547485"
     },
     {
       "company": "JFrog",
@@ -183,6 +171,18 @@
       "url": "https://join.jfrog.com/job/?job=7827996&gh_jid=7827996"
     },
     {
+      "company": "Kaltura",
+      "first_seen": "2026-06-24",
+      "is_new": true,
+      "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
+      "location": "Israel",
+      "posted_at": "2026-06-24",
+      "source": "comeet",
+      "title": "Product Manager, Product-Led Growth",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/kaltura/E2.00D/product-manager-product-led-growth/63.D6B"
+    },
+    {
       "company": "Komodor",
       "first_seen": "2026-06-09",
       "is_new": false,
@@ -209,7 +209,7 @@
     {
       "company": "NeuReality",
       "first_seen": "2026-06-24",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:982428E9820428E390C55924C101C861C86:53.D69",
       "location": "Israel",
       "posted_at": "2026-06-24",
@@ -368,7 +368,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-23",
+      "posted_at": "2026-06-24",
       "source": "comeet",
       "title": "AI Product Manager – Energy Intelligence",
       "track": "hightech",
@@ -380,7 +380,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-23",
+      "posted_at": "2026-06-24",
       "source": "comeet",
       "title": "Senior Product Manager – Software for Field Installers",
       "track": "hightech",

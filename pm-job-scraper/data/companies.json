@@ -40,7 +40,7 @@
       "description": "פלטפורמת וידאו ענן לארגונים, חינוך ומדיה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Kaltura",
       "track": "hightech"
     },
@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 6,
+      "jobs_count": 5,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-06-24T08:24:22+00:00",
+  "generated_at": "2026-06-24T15:33:43+00:00",
   "scanned_count": 93
 }
