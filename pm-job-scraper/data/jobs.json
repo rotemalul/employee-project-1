@@ -1,6 +1,6 @@
 {
-  "count": 43,
-  "generated_at": "2026-06-25T08:23:53+00:00",
+  "count": 41,
+  "generated_at": "2026-06-25T15:40:32+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-24",
+      "posted_at": "2026-06-25",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -145,30 +145,6 @@
       "title": "Senior Product Manager - JFrog Security ",
       "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7657193&gh_jid=7657193"
-    },
-    {
-      "company": "JFrog",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:jfrog:7821360",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-06-21",
-      "source": "greenhouse",
-      "title": "Senior Product Manager – Growth",
-      "track": "hightech",
-      "url": "https://join.jfrog.com/job/?job=7821360&gh_jid=7821360"
-    },
-    {
-      "company": "JFrog",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:jfrog:7827996",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-06-21",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI-Native Security",
-      "track": "hightech",
-      "url": "https://join.jfrog.com/job/?job=7827996&gh_jid=7827996"
     },
     {
       "company": "Kaltura",
@@ -296,7 +272,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-06-24",
+      "posted_at": "2026-06-25",
       "source": "comeet",
       "title": "Product Manager - AI Platform",
       "track": "hightech",
