@@ -1,6 +1,6 @@
 {
-  "count": 41,
-  "generated_at": "2026-06-25T15:40:32+00:00",
+  "count": 39,
+  "generated_at": "2026-06-26T08:32:01+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -207,30 +207,6 @@
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4894768101?gh_jid=4894768101"
     },
     {
-      "company": "NICE",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4863716101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-06-10",
-      "source": "greenhouse",
-      "title": "Director, Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4863716101?gh_jid=4863716101"
-    },
-    {
-      "company": "NICE",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4832200101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-06-10",
-      "source": "greenhouse",
-      "title": "Senior AI Product Manager",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4832200101?gh_jid=4832200101"
-    },
-    {
       "company": "Nvidia Israel",
       "first_seen": "2026-06-09",
       "is_new": false,
@@ -284,7 +260,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
       "location": "Israel",
-      "posted_at": "2026-06-24",
+      "posted_at": "2026-06-26",
       "source": "comeet",
       "title": "Senior Growth Product Manager",
       "track": "hightech",
@@ -344,7 +320,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-25",
+      "posted_at": "2026-06-26",
       "source": "comeet",
       "title": "AI Product Manager – Energy Intelligence",
       "track": "hightech",
@@ -356,7 +332,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-25",
+      "posted_at": "2026-06-26",
       "source": "comeet",
       "title": "Senior Product Manager – Software for Field Installers",
       "track": "hightech",
@@ -428,7 +404,7 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-06-25",
+      "posted_at": "2026-06-26",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
