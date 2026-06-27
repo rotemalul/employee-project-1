@@ -1,6 +1,6 @@
 {
-  "count": 39,
-  "generated_at": "2026-06-26T15:24:24+00:00",
+  "count": 36,
+  "generated_at": "2026-06-27T07:48:31+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -25,30 +25,6 @@
       "title": "Senior Product Manager - Analytics",
       "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
-    },
-    {
-      "company": "Autodesk Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager_26WD97851",
-      "location": "Tel Aviv, ISR",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD97851"
-    },
-    {
-      "company": "Autodesk Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1",
-      "location": "Tel Aviv, ISR",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1"
     },
     {
       "company": "DriveNets",
@@ -164,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-25",
+      "posted_at": "2026-06-26",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -205,18 +181,6 @@
       "title": "AI AML Product Manager",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4894768101?gh_jid=4894768101"
-    },
-    {
-      "company": "Nvidia Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418",
-      "location": "Israel, Yokneam",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Senior Product Manager - NVLink",
-      "track": "hightech",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418"
     },
     {
       "company": "Pango",
