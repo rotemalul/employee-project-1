@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -293,7 +293,7 @@
       "description": "פלטפורמת שיווק לחנויות eCommerce",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Yotpo",
       "track": "hightech"
     },
@@ -1217,7 +1217,7 @@
       "description": "מרכז פיתוח בתל אביב",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Autodesk Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-06-27T14:26:45+00:00",
+  "generated_at": "2026-06-28T08:22:11+00:00",
   "scanned_count": 93
 }
