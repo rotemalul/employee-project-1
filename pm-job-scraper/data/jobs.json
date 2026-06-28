@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-06-28T08:22:11+00:00",
+  "count": 37,
+  "generated_at": "2026-06-28T14:47:04+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:7657193",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-06-21",
+      "posted_at": "2026-06-28",
       "source": "greenhouse",
       "title": "Senior Product Manager - JFrog Security ",
       "track": "hightech",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:2ACD5C02AC10081008AB01560180C804:A1.503",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-06-24",
+      "posted_at": "2026-06-28",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -233,7 +233,7 @@
     {
       "company": "Payoneer",
       "first_seen": "2026-06-28",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:payoneer:7880940",
       "location": "Herzliya, Tel Aviv District, Israel",
       "posted_at": "2026-06-28",
@@ -260,7 +260,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:2F.862",
       "location": "Israel",
-      "posted_at": "2026-06-26",
+      "posted_at": "2026-06-28",
       "source": "comeet",
       "title": "Senior Growth Product Manager",
       "track": "hightech",
@@ -318,21 +318,9 @@
       "company": "SolarEdge",
       "first_seen": "2026-06-09",
       "is_new": false,
-      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
-      "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-26",
-      "source": "comeet",
-      "title": "AI Product Manager – Energy Intelligence",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/ai-product-manager--energy-intelligence/6B.761"
-    },
-    {
-      "company": "SolarEdge",
-      "first_seen": "2026-06-09",
-      "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-26",
+      "posted_at": "2026-06-28",
       "source": "comeet",
       "title": "Senior Product Manager – Software for Field Installers",
       "track": "hightech",
@@ -459,5 +447,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
