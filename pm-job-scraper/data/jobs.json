@@ -1,6 +1,6 @@
 {
   "count": 38,
-  "generated_at": "2026-06-30T08:31:04+00:00",
+  "generated_at": "2026-06-30T15:26:24+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -101,7 +101,7 @@
     {
       "company": "Gong",
       "first_seen": "2026-06-30",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:gongio:4690054006",
       "location": "Tel Aviv",
       "posted_at": "2026-06-30",
@@ -176,7 +176,7 @@
       "is_new": false,
       "job_id": "comeet:2ACD5C02AC10081008AB01560180C804:A1.503",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-06-28",
+      "posted_at": "2026-06-30",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -260,7 +260,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-06-29",
+      "posted_at": "2026-06-30",
       "source": "comeet",
       "title": "Product Manager - AI Platform",
       "track": "hightech",
@@ -404,7 +404,7 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-06-26",
+      "posted_at": "2026-06-30",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -459,5 +459,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
