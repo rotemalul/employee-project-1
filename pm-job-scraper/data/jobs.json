@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-06-30T15:26:24+00:00",
+  "count": 37,
+  "generated_at": "2026-07-01T08:50:58+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-06-29",
+      "posted_at": "2026-07-01",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -121,18 +121,6 @@
       "title": "Director of Product Management - Artifactory",
       "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=6861996&gh_jid=6861996"
-    },
-    {
-      "company": "JFrog",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:jfrog:7461910",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-06-25",
-      "source": "greenhouse",
-      "title": "Senior Product Manager",
-      "track": "hightech",
-      "url": "https://join.jfrog.com/job/?job=7461910&gh_jid=7461910"
     },
     {
       "company": "JFrog",
@@ -332,7 +320,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:37.B60",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-06-29",
+      "posted_at": "2026-07-01",
       "source": "comeet",
       "title": "Senior Product Manager – Software for Field Installers",
       "track": "hightech",

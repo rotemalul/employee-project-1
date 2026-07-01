@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -819,7 +819,7 @@
       "careers_url": "https://www.is.com/careers/",
       "category": "adtech",
       "description": "מוניטיזציה וצמיחה לאפליקציות ומשחקים",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Unity (ironSource)",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-06-30T15:26:24+00:00",
+  "generated_at": "2026-07-01T08:50:58+00:00",
   "scanned_count": 93
 }
