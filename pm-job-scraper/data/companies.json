@@ -920,7 +920,7 @@
       "description": "ממירים ופתרונות אנרגיה סולארית",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "SolarEdge",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-02T08:13:53+00:00",
+  "generated_at": "2026-07-02T15:12:25+00:00",
   "scanned_count": 93
 }
