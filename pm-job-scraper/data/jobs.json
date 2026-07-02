@@ -1,7 +1,19 @@
 {
-  "count": 37,
-  "generated_at": "2026-07-01T15:39:54+00:00",
+  "count": 38,
+  "generated_at": "2026-07-02T08:13:53+00:00",
   "jobs": [
+    {
+      "company": "Aidoc",
+      "first_seen": "2026-07-02",
+      "is_new": true,
+      "job_id": "greenhouse:aidocmedical:4879448101",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "posted_at": "2026-07-02",
+      "source": "greenhouse",
+      "title": "Platform Product Manager",
+      "track": "hightech",
+      "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4879448101"
+    },
     {
       "company": "AppsFlyer",
       "first_seen": "2026-06-04",
@@ -80,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-01",
+      "posted_at": "2026-07-02",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -92,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:52.966",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-01",
+      "posted_at": "2026-07-02",
       "source": "comeet",
       "title": "Senior Product Manager - Applied AI",
       "track": "hightech",
@@ -447,5 +459,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
