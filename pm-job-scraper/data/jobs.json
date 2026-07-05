@@ -1,6 +1,6 @@
 {
-  "count": 36,
-  "generated_at": "2026-07-05T07:58:03+00:00",
+  "count": 35,
+  "generated_at": "2026-07-05T14:29:33+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:52.966",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-02",
+      "posted_at": "2026-07-05",
       "source": "comeet",
       "title": "Senior Product Manager - Applied AI",
       "track": "hightech",
@@ -313,18 +313,6 @@
       "title": "Senior Data Product Manager- Retail Intelligence",
       "track": "hightech",
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
-    },
-    {
-      "company": "Taboola",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:taboola:7695161",
-      "location": "Tel Aviv, Israel",
-      "posted_at": "2026-05-18",
-      "source": "greenhouse",
-      "title": "Head of Product",
-      "track": "hightech",
-      "url": "https://www.taboola.com/careers/job/7695161?gh_jid=7695161"
     },
     {
       "company": "Taboola",

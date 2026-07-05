@@ -249,7 +249,7 @@
       "description": "פלטפורמת המלצות תוכן ופרסום (discovery)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "Taboola",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-05T07:58:03+00:00",
+  "generated_at": "2026-07-05T14:29:34+00:00",
   "scanned_count": 93
 }
