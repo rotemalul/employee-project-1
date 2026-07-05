@@ -1,19 +1,7 @@
 {
-  "count": 37,
-  "generated_at": "2026-07-04T14:27:12+00:00",
+  "count": 36,
+  "generated_at": "2026-07-05T07:58:03+00:00",
   "jobs": [
-    {
-      "company": "Aidoc",
-      "first_seen": "2026-07-02",
-      "is_new": false,
-      "job_id": "greenhouse:aidocmedical:4879448101",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "posted_at": "2026-07-02",
-      "source": "greenhouse",
-      "title": "Platform Product Manager",
-      "track": "hightech",
-      "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4879448101"
-    },
     {
       "company": "AppsFlyer",
       "first_seen": "2026-06-04",
@@ -140,7 +128,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:7657193",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-07-01",
+      "posted_at": "2026-07-05",
       "source": "greenhouse",
       "title": "Senior Product Manager - JFrog Security ",
       "track": "hightech",
@@ -392,7 +380,7 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-06-30",
+      "posted_at": "2026-07-05",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",

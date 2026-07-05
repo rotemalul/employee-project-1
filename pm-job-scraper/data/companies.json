@@ -667,7 +667,7 @@
       "description": "ניתוח דימות רפואי (רדיולוגיה) מבוסס AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Aidoc",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-04T14:27:12+00:00",
+  "generated_at": "2026-07-05T07:58:03+00:00",
   "scanned_count": 93
 }
