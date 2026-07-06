@@ -1019,7 +1019,7 @@
       "description": "הקלטת פודקאסטים ווידאו באיכות סטודיו",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Riverside",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-05T14:29:34+00:00",
+  "generated_at": "2026-07-06T09:01:13+00:00",
   "scanned_count": 93
 }
