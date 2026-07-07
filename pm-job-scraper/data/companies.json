@@ -1314,7 +1314,7 @@
       "careers_url": "https://www.comeet.com/jobs/paybox/18.004",
       "category": "fintech",
       "description": "אפליקציית תשלומים והעברות כספים (מבית דיסקונט)",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "PayBox",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-07T08:22:06+00:00",
+  "generated_at": "2026-07-07T15:45:23+00:00",
   "scanned_count": 93
 }
