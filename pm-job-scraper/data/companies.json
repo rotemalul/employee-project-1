@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -1019,7 +1019,7 @@
       "description": "הקלטת פודקאסטים ווידאו באיכות סטודיו",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Riverside",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-08T07:29:06+00:00",
+  "generated_at": "2026-07-08T15:16:42+00:00",
   "scanned_count": 93
 }
