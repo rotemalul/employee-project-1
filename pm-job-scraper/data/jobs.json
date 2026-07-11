@@ -1,6 +1,6 @@
 {
-  "count": 35,
-  "generated_at": "2026-07-10T15:31:37+00:00",
+  "count": 34,
+  "generated_at": "2026-07-11T07:11:31+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -37,18 +37,6 @@
       "title": "Senior Product Manager - Analytics",
       "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
-    },
-    {
-      "company": "Autodesk Israel",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1",
-      "location": "Tel Aviv, ISR",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1"
     },
     {
       "company": "DriveNets",
@@ -92,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-09",
+      "posted_at": "2026-07-10",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
