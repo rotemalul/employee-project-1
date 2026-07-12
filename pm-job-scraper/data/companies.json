@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 4,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -997,7 +997,7 @@
       "description": "תוכנת ארגון לחוויית לקוח ומרכזי שירות",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "NICE",
       "track": "hightech"
     },
@@ -1217,7 +1217,7 @@
       "description": "מרכז פיתוח בתל אביב",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Autodesk Israel",
       "track": "hightech"
     },
@@ -1327,7 +1327,7 @@
       "description": "זרוע פינטק/דיגיטל מבית בנק לאומי",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Finubit",
       "track": "enterprise"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-12T07:30:14+00:00",
+  "generated_at": "2026-07-12T14:26:28+00:00",
   "scanned_count": 93
 }
