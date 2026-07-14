@@ -1,6 +1,6 @@
 {
   "count": 37,
-  "generated_at": "2026-07-14T07:10:32+00:00",
+  "generated_at": "2026-07-14T14:47:12+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -43,7 +43,7 @@
       "first_seen": "2026-06-09",
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:94.963",
-      "location": "Tel Aviv, Israel",
+      "location": "Tel Aviv",
       "posted_at": "2026-07-14",
       "source": "comeet",
       "title": "Senior Product Manager Autonomous Networks",
@@ -152,7 +152,7 @@
       "is_new": false,
       "job_id": "comeet:2ACD5C02AC10081008AB01560180C804:A1.503",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-07-12",
+      "posted_at": "2026-07-14",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "greenhouse:tripactions:7522825",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-07-13",
+      "posted_at": "2026-07-14",
       "source": "greenhouse",
       "title": " Senior Product Manager",
       "track": "hightech",
