@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-07-13T15:43:22+00:00",
+  "count": 37,
+  "generated_at": "2026-07-14T07:10:32+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -42,21 +42,9 @@
       "company": "DriveNets",
       "first_seen": "2026-06-09",
       "is_new": false,
-      "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:21.262",
-      "location": "Raanana, Israel",
-      "posted_at": "2026-06-29",
-      "source": "comeet",
-      "title": "Product Manager – Network, Infrastructure & Security",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/drivenets/72.006/product-manager--network-infrastructure--security/21.262"
-    },
-    {
-      "company": "DriveNets",
-      "first_seen": "2026-06-09",
-      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:94.963",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-07-13",
+      "posted_at": "2026-07-14",
       "source": "comeet",
       "title": "Senior Product Manager Autonomous Networks",
       "track": "hightech",
