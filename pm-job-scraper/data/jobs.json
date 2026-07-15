@@ -1,6 +1,6 @@
 {
-  "count": 39,
-  "generated_at": "2026-07-15T07:13:27+00:00",
+  "count": 38,
+  "generated_at": "2026-07-15T14:46:57+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,11 +44,23 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:94.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-14",
+      "posted_at": "2026-07-15",
       "source": "comeet",
-      "title": "Senior Product Manager Autonomous Networks",
+      "title": "Product Manager, Network Domain",
       "track": "hightech",
-      "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-product-manager-autonomous-networks/94.963"
+      "url": "https://www.comeet.com/jobs/drivenets/72.006/product-manager-network-domain/94.963"
+    },
+    {
+      "company": "DriveNets",
+      "first_seen": "2026-07-15",
+      "is_new": true,
+      "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:14.E6D",
+      "location": "Tel Aviv",
+      "posted_at": "2026-07-15",
+      "source": "comeet",
+      "title": "Product Manager, Platform",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/drivenets/72.006/product-manager-platform/14.E6D"
     },
     {
       "company": "Finubit",
@@ -87,18 +99,6 @@
       "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager/AB.B60"
     },
     {
-      "company": "Fiverr",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "comeet:62188018812631018862C4188:52.966",
-      "location": "Tel Aviv",
-      "posted_at": "2026-07-08",
-      "source": "comeet",
-      "title": "Senior Product Manager - Applied AI",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager---applied-ai/52.966"
-    },
-    {
       "company": "Gong",
       "first_seen": "2026-06-30",
       "is_new": false,
@@ -135,21 +135,9 @@
       "url": "https://join.jfrog.com/job/?job=7657193&gh_jid=7657193"
     },
     {
-      "company": "Kaltura",
-      "first_seen": "2026-06-24",
-      "is_new": false,
-      "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
-      "location": "Israel",
-      "posted_at": "2026-07-14",
-      "source": "comeet",
-      "title": "Product Manager, Product-Led Growth",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/kaltura/E2.00D/product-manager-product-led-growth/63.D6B"
-    },
-    {
       "company": "Melio",
       "first_seen": "2026-07-15",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:melio:7802171003",
       "location": "Tel Aviv",
       "posted_at": "2026-07-14",
@@ -329,7 +317,7 @@
     {
       "company": "Salesforce Israel",
       "first_seen": "2026-07-15",
-      "is_new": true,
+      "is_new": false,
       "job_id": "workday:salesforce:/job/Israel---Tel-Aviv/Senior-Product-Manager--Field-Intelligence_JR351102",
       "location": "Israel - Tel Aviv",
       "posted_at": null,
@@ -471,5 +459,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 2
+  "new_count": 1
 }

@@ -40,7 +40,7 @@
       "description": "פלטפורמת וידאו ענן לארגונים, חינוך ומדיה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Kaltura",
       "track": "hightech"
     },
@@ -348,7 +348,7 @@
       "description": "שוק מקוון לשירותי פרילנס",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Fiverr",
       "track": "hightech"
     },
@@ -942,7 +942,7 @@
       "description": "תוכנת רשת cloud-native לספקי תקשורת",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "DriveNets",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-15T07:13:27+00:00",
+  "generated_at": "2026-07-15T14:46:57+00:00",
   "scanned_count": 93
 }
