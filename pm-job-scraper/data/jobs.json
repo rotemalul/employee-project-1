@@ -1,6 +1,6 @@
 {
-  "count": 37,
-  "generated_at": "2026-07-14T14:47:12+00:00",
+  "count": 39,
+  "generated_at": "2026-07-15T07:13:27+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -140,11 +140,23 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-07-13",
+      "posted_at": "2026-07-14",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/kaltura/E2.00D/product-manager-product-led-growth/63.D6B"
+    },
+    {
+      "company": "Melio",
+      "first_seen": "2026-07-15",
+      "is_new": true,
+      "job_id": "greenhouse:melio:7802171003",
+      "location": "Tel Aviv",
+      "posted_at": "2026-07-14",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://job-boards.greenhouse.io/melio/jobs/7802171003"
     },
     {
       "company": "Moon Active",
@@ -296,7 +308,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-07-11",
+      "posted_at": "2026-07-14",
       "source": "comeet",
       "title": "Product Manager - AI Platform",
       "track": "hightech",
@@ -313,6 +325,18 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-product-manager/99.667"
+    },
+    {
+      "company": "Salesforce Israel",
+      "first_seen": "2026-07-15",
+      "is_new": true,
+      "job_id": "workday:salesforce:/job/Israel---Tel-Aviv/Senior-Product-Manager--Field-Intelligence_JR351102",
+      "location": "Israel - Tel Aviv",
+      "posted_at": null,
+      "source": "workday",
+      "title": "Senior Product Manager, Field Intelligence",
+      "track": "hightech",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Senior-Product-Manager--Field-Intelligence_JR351102"
     },
     {
       "company": "SciPlay",
@@ -447,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 0
+  "new_count": 2
 }
