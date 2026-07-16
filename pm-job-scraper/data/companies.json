@@ -40,7 +40,7 @@
       "description": "פלטפורמת וידאו ענן לארגונים, חינוך ומדיה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Kaltura",
       "track": "hightech"
     },
@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 4,
+      "jobs_count": 3,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -271,7 +271,7 @@
       "description": "מדידת ביצועים ואטריביושן לאפליקציות מובייל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "AppsFlyer",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-16T07:22:49+00:00",
+  "generated_at": "2026-07-16T14:57:46+00:00",
   "scanned_count": 93
 }

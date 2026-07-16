@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-07-16T07:22:49+00:00",
+  "count": 39,
+  "generated_at": "2026-07-16T14:57:46+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -37,6 +37,18 @@
       "title": "Senior Product Manager - Analytics",
       "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
+    },
+    {
+      "company": "AppsFlyer",
+      "first_seen": "2026-07-16",
+      "is_new": true,
+      "job_id": "greenhouse:appsflyer:8636377002",
+      "location": "Herzliya",
+      "posted_at": "2026-07-16",
+      "source": "greenhouse",
+      "title": "Senior Product Manager - Attribution",
+      "track": "hightech",
+      "url": "https://careers.appsflyer.com/jobs/position/8636377002?gh_jid=8636377002"
     },
     {
       "company": "DriveNets",
@@ -92,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-12",
+      "posted_at": "2026-07-16",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -133,6 +145,18 @@
       "title": "Senior Product Manager - JFrog Security ",
       "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=7657193&gh_jid=7657193"
+    },
+    {
+      "company": "Kaltura",
+      "first_seen": "2026-06-24",
+      "is_new": false,
+      "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
+      "location": "Israel",
+      "posted_at": "2026-07-16",
+      "source": "comeet",
+      "title": "Product Manager, Product-Led Growth",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/kaltura/E2.00D/product-manager-product-led-growth/63.D6B"
     },
     {
       "company": "Melio",
@@ -229,18 +253,6 @@
       "title": "Product Manager",
       "track": "enterprise",
       "url": "https://www.comeet.com/jobs/pango/59.002/product-manager/18.264"
-    },
-    {
-      "company": "Payoneer",
-      "first_seen": "2026-07-08",
-      "is_new": false,
-      "job_id": "greenhouse:payoneer:8019861",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "posted_at": "2026-07-08",
-      "source": "greenhouse",
-      "title": "Data Product Manager - Team Lead",
-      "track": "hightech",
-      "url": "https://www.payoneer.com/careers/position/8019861/?gh_jid=8019861"
     },
     {
       "company": "Payoneer",
@@ -459,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
