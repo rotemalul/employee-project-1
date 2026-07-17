@@ -942,7 +942,7 @@
       "description": "תוכנת רשת cloud-native לספקי תקשורת",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "DriveNets",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-17T07:17:11+00:00",
+  "generated_at": "2026-07-17T14:30:24+00:00",
   "scanned_count": 93
 }
