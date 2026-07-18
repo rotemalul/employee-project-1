@@ -1,6 +1,6 @@
 {
-  "count": 36,
-  "generated_at": "2026-07-18T06:58:03+00:00",
+  "count": 40,
+  "generated_at": "2026-07-18T14:20:29+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-07-16",
+      "posted_at": "2026-07-18",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -241,6 +241,18 @@
       "title": "Senior Product Manager, AI",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
+    },
+    {
+      "company": "Nvidia Israel",
+      "first_seen": "2026-06-09",
+      "is_new": false,
+      "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418",
+      "location": "Israel, Yokneam",
+      "posted_at": null,
+      "source": "workday",
+      "title": "Senior Product Manager - NVLink",
+      "track": "hightech",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418"
     },
     {
       "company": "Pango",
@@ -325,6 +337,42 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-product-manager/99.667"
+    },
+    {
+      "company": "Salesforce Israel",
+      "first_seen": "2026-07-15",
+      "is_new": false,
+      "job_id": "workday:salesforce:/job/Israel---Tel-Aviv/Senior-Product-Manager--Field-Intelligence_JR351102",
+      "location": "Israel - Tel Aviv",
+      "posted_at": null,
+      "source": "workday",
+      "title": "Senior Product Manager, Field Intelligence",
+      "track": "hightech",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Senior-Product-Manager--Field-Intelligence_JR351102"
+    },
+    {
+      "company": "SciPlay",
+      "first_seen": "2026-06-09",
+      "is_new": false,
+      "job_id": "workday:lnw:/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655",
+      "location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+      "posted_at": null,
+      "source": "workday",
+      "title": "Product Manager",
+      "track": "hightech",
+      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655"
+    },
+    {
+      "company": "SciPlay",
+      "first_seen": "2026-06-23",
+      "is_new": false,
+      "job_id": "workday:lnw:/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/VP-Product_R322307-1",
+      "location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+      "posted_at": null,
+      "source": "workday",
+      "title": "VP Product",
+      "track": "hightech",
+      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/VP-Product_R322307-1"
     },
     {
       "company": "Similarweb",
