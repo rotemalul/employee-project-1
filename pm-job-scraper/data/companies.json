@@ -293,7 +293,7 @@
       "description": "פלטפורמת שיווק לחנויות eCommerce",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Yotpo",
       "track": "hightech"
     },
@@ -997,7 +997,7 @@
       "description": "תוכנת ארגון לחוויית לקוח ומרכזי שירות",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "NICE",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-19T07:28:18+00:00",
+  "generated_at": "2026-07-19T14:24:04+00:00",
   "scanned_count": 93
 }
