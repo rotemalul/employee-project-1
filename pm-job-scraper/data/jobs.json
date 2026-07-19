@@ -1,6 +1,6 @@
 {
   "count": 40,
-  "generated_at": "2026-07-18T14:20:29+00:00",
+  "generated_at": "2026-07-19T07:28:18+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -68,7 +68,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:14.E6D",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-18",
+      "posted_at": "2026-07-19",
       "source": "comeet",
       "title": "Product Manager, Platform",
       "track": "hightech",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:EC.B66",
       "location": "Raanana, Israel",
-      "posted_at": "2026-07-17",
+      "posted_at": "2026-07-19",
       "source": "comeet",
       "title": "Senior Product Manager - ML Platform",
       "track": "hightech",
@@ -332,7 +332,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:99.667",
       "location": "Israel",
-      "posted_at": "2026-07-13",
+      "posted_at": "2026-07-19",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
