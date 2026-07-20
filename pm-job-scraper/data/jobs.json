@@ -1,6 +1,6 @@
 {
   "count": 42,
-  "generated_at": "2026-07-19T14:24:04+00:00",
+  "generated_at": "2026-07-20T07:58:02+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -68,7 +68,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:14.E6D",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-19",
+      "posted_at": "2026-07-20",
       "source": "comeet",
       "title": "Product Manager, Platform",
       "track": "hightech",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:EC.B66",
       "location": "Raanana, Israel",
-      "posted_at": "2026-07-19",
+      "posted_at": "2026-07-20",
       "source": "comeet",
       "title": "Senior Product Manager - ML Platform",
       "track": "hightech",
@@ -232,6 +232,18 @@
     },
     {
       "company": "NICE",
+      "first_seen": "2026-07-19",
+      "is_new": false,
+      "job_id": "greenhouse:nice:4911286101",
+      "location": "Israel - Raanana",
+      "posted_at": "2026-07-19",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, AI",
+      "track": "hightech",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
+    },
+    {
+      "company": "NICE",
       "first_seen": "2026-07-12",
       "is_new": false,
       "job_id": "greenhouse:nice:4911345101",
@@ -241,18 +253,6 @@
       "title": "Senior Product Manager, AI",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
-    },
-    {
-      "company": "NICE",
-      "first_seen": "2026-07-19",
-      "is_new": true,
-      "job_id": "greenhouse:nice:4911286101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-07-19",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
     },
     {
       "company": "Nvidia Israel",
@@ -507,5 +507,5 @@
       "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
