@@ -282,7 +282,7 @@
       "description": "אינטליגנציה דיגיטלית וניתוח תנועת אתרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Similarweb",
       "track": "hightech"
     },
@@ -667,7 +667,7 @@
       "description": "ניתוח דימות רפואי (רדיולוגיה) מבוסס AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Aidoc",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-20T07:58:02+00:00",
+  "generated_at": "2026-07-20T15:08:32+00:00",
   "scanned_count": 93
 }

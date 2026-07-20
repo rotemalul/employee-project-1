@@ -1,19 +1,7 @@
 {
-  "count": 42,
-  "generated_at": "2026-07-20T07:58:02+00:00",
+  "count": 40,
+  "generated_at": "2026-07-20T15:08:32+00:00",
   "jobs": [
-    {
-      "company": "Aidoc",
-      "first_seen": "2026-07-09",
-      "is_new": false,
-      "job_id": "greenhouse:aidocmedical:4923591101",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "posted_at": "2026-07-09",
-      "source": "greenhouse",
-      "title": "Product manager - Neurology AI",
-      "track": "hightech",
-      "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4923591101"
-    },
     {
       "company": "AppsFlyer",
       "first_seen": "2026-06-04",
@@ -116,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-17",
+      "posted_at": "2026-07-20",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -164,7 +152,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-07-19",
+      "posted_at": "2026-07-20",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -232,18 +220,6 @@
     },
     {
       "company": "NICE",
-      "first_seen": "2026-07-19",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4911286101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-07-19",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
-    },
-    {
-      "company": "NICE",
       "first_seen": "2026-07-12",
       "is_new": false,
       "job_id": "greenhouse:nice:4911345101",
@@ -253,6 +229,18 @@
       "title": "Senior Product Manager, AI",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
+    },
+    {
+      "company": "NICE",
+      "first_seen": "2026-07-19",
+      "is_new": false,
+      "job_id": "greenhouse:nice:4911286101",
+      "location": "Israel - Raanana",
+      "posted_at": "2026-07-19",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, AI",
+      "track": "hightech",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
     },
     {
       "company": "Nvidia Israel",
@@ -385,18 +373,6 @@
       "title": "VP Product",
       "track": "hightech",
       "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/VP-Product_R322307-1"
-    },
-    {
-      "company": "Similarweb",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:similarweb:7571788",
-      "location": "Tel Aviv, Israel",
-      "posted_at": "2026-05-12",
-      "source": "greenhouse",
-      "title": "Senior AI Product Manager - Sales Intelligence ",
-      "track": "hightech",
-      "url": "https://job-boards.greenhouse.io/similarweb/jobs/7571788"
     },
     {
       "company": "Similarweb",
