@@ -1,6 +1,6 @@
 {
   "count": 40,
-  "generated_at": "2026-07-21T07:33:47+00:00",
+  "generated_at": "2026-07-21T15:02:34+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -87,18 +87,6 @@
       "url": "https://www.comeet.com/jobs/finubit/A9.002/automation-developer/DE.558"
     },
     {
-      "company": "Finubit",
-      "first_seen": "2026-06-14",
-      "is_new": false,
-      "job_id": "comeet:9A2436E9A2436E1CE61CE639CC1CE626884D10:F9.961",
-      "location": "Tel Aviv",
-      "posted_at": "2026-06-18",
-      "source": "comeet",
-      "title": "Product Owner",
-      "track": "enterprise",
-      "url": "https://www.comeet.com/jobs/finubit/A9.002/product-owner/F9.961"
-    },
-    {
       "company": "Fiverr",
       "first_seen": "2026-06-09",
       "is_new": false,
@@ -152,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-07-20",
+      "posted_at": "2026-07-21",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -188,7 +176,7 @@
       "is_new": false,
       "job_id": "greenhouse:tripactions:7522825",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-07-17",
+      "posted_at": "2026-07-21",
       "source": "greenhouse",
       "title": " Senior Product Manager",
       "track": "hightech",
@@ -385,6 +373,18 @@
       "title": "Senior Data Product Manager- Retail Intelligence",
       "track": "hightech",
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
+    },
+    {
+      "company": "SolarEdge",
+      "first_seen": "2026-06-09",
+      "is_new": false,
+      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
+      "location": "Maskit E - Herzliya",
+      "posted_at": "2026-07-21",
+      "source": "comeet",
+      "title": "AI Product Manager – Energy Intelligence",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/ai-product-manager--energy-intelligence/6B.761"
     },
     {
       "company": "Tipalti",

@@ -920,7 +920,7 @@
       "description": "ממירים ופתרונות אנרגיה סולארית",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "SolarEdge",
       "track": "hightech"
     },
@@ -1327,7 +1327,7 @@
       "description": "זרוע פינטק/דיגיטל מבית בנק לאומי",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Finubit",
       "track": "enterprise"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-21T07:33:47+00:00",
+  "generated_at": "2026-07-21T15:02:34+00:00",
   "scanned_count": 93
 }
