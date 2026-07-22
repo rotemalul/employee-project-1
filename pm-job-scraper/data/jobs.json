@@ -1,6 +1,6 @@
 {
   "count": 40,
-  "generated_at": "2026-07-22T07:35:27+00:00",
+  "generated_at": "2026-07-22T15:02:37+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -140,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-07-21",
+      "posted_at": "2026-07-22",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -208,18 +208,6 @@
     },
     {
       "company": "NICE",
-      "first_seen": "2026-07-19",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4911286101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-07-19",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
-    },
-    {
-      "company": "NICE",
       "first_seen": "2026-07-12",
       "is_new": false,
       "job_id": "greenhouse:nice:4911345101",
@@ -229,6 +217,18 @@
       "title": "Senior Product Manager, AI",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
+    },
+    {
+      "company": "NICE",
+      "first_seen": "2026-07-19",
+      "is_new": false,
+      "job_id": "greenhouse:nice:4911286101",
+      "location": "Israel - Raanana",
+      "posted_at": "2026-07-19",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, AI",
+      "track": "hightech",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
     },
     {
       "company": "Nvidia Israel",
@@ -308,7 +308,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-07-21",
+      "posted_at": "2026-07-22",
       "source": "comeet",
       "title": "Product Manager - AI Platform",
       "track": "hightech",
@@ -320,7 +320,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:99.667",
       "location": "Israel",
-      "posted_at": "2026-07-19",
+      "posted_at": "2026-07-22",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
