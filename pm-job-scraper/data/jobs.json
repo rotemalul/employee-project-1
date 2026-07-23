@@ -1,6 +1,6 @@
 {
-  "count": 40,
-  "generated_at": "2026-07-22T15:02:37+00:00",
+  "count": 39,
+  "generated_at": "2026-07-23T07:33:07+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-22",
+      "posted_at": "2026-07-23",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -292,6 +292,18 @@
     },
     {
       "company": "Playtika",
+      "first_seen": "2026-07-23",
+      "is_new": true,
+      "job_id": "greenhouse:playtikaltd:4934457101",
+      "location": "Herzliya",
+      "posted_at": "2026-07-23",
+      "source": "greenhouse",
+      "title": "Product Manager",
+      "track": "hightech",
+      "url": "https://www.playtika.com/position/?gh_jid=4934457101"
+    },
+    {
+      "company": "Playtika",
       "first_seen": "2026-07-06",
       "is_new": false,
       "job_id": "greenhouse:playtikaltd:4912948101",
@@ -320,7 +332,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:99.667",
       "location": "Israel",
-      "posted_at": "2026-07-22",
+      "posted_at": "2026-07-23",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -399,18 +411,6 @@
       "url": "https://tipalti.com/jobs/?gh_jid=5992996004"
     },
     {
-      "company": "Tipalti",
-      "first_seen": "2026-06-11",
-      "is_new": false,
-      "job_id": "greenhouse:tipaltisolutions:6016181004",
-      "location": "Tel Aviv District, Israel",
-      "posted_at": "2026-06-11",
-      "source": "greenhouse",
-      "title": "Senior Product Manager",
-      "track": "hightech",
-      "url": "https://tipalti.com/jobs/?gh_jid=6016181004"
-    },
-    {
       "company": "Trigo",
       "first_seen": "2026-06-17",
       "is_new": false,
@@ -469,19 +469,7 @@
       "title": "Senior Product Manager ",
       "track": "hightech",
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
-    },
-    {
-      "company": "Yotpo",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:yotpo:7880930",
-      "location": "Tel Aviv",
-      "posted_at": "2026-05-04",
-      "source": "greenhouse",
-      "title": "VP of Product ",
-      "track": "hightech",
-      "url": "https://www.yotpo.com/careers/gid-7880930?gh_jid=7880930"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
