@@ -13,6 +13,31 @@
         "workday": 12
       },
       "companies": 124,
+      "duration_sec": 320,
+      "error_companies": [
+        "PayBox",
+        "Unity (ironSource)"
+      ],
+      "errors": 2,
+      "finished_at": "2026-07-24T07:31:43+00:00",
+      "jobs": 37,
+      "new": 0,
+      "scanned": 93,
+      "status": "partial"
+    },
+    {
+      "ats": {
+        "ashby": 2,
+        "comeet": 45,
+        "greenhouse": 26,
+        "lever": 2,
+        "recruitee": 1,
+        "smartrecruiters": 3,
+        "unknown": 31,
+        "workable": 2,
+        "workday": 12
+      },
+      "companies": 124,
       "duration_sec": 181,
       "error_companies": [
         "PayBox",
@@ -986,31 +1011,7 @@
       "new": 0,
       "scanned": 93,
       "status": "partial"
-    },
-    {
-      "ats": {
-        "ashby": 2,
-        "comeet": 45,
-        "greenhouse": 26,
-        "lever": 2,
-        "recruitee": 1,
-        "smartrecruiters": 3,
-        "unknown": 31,
-        "workable": 2,
-        "workday": 12
-      },
-      "companies": 124,
-      "duration_sec": 335,
-      "error_companies": [
-        "Unity (ironSource)"
-      ],
-      "errors": 1,
-      "finished_at": "2026-07-04T07:44:22+00:00",
-      "jobs": 37,
-      "new": 0,
-      "scanned": 93,
-      "status": "partial"
     }
   ],
-  "updated_at": "2026-07-23T15:06:50+00:00"
+  "updated_at": "2026-07-24T07:31:43+00:00"
 }
