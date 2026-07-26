@@ -1,6 +1,6 @@
 {
   "count": 38,
-  "generated_at": "2026-07-26T07:36:30+00:00",
+  "generated_at": "2026-07-26T14:28:32+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-25",
+      "posted_at": "2026-07-26",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -152,7 +152,7 @@
       "is_new": false,
       "job_id": "comeet:2ACD5C02AC10081008AB01560180C804:A1.503",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-07-24",
+      "posted_at": "2026-07-26",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -308,7 +308,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-07-22",
+      "posted_at": "2026-07-26",
       "source": "comeet",
       "title": "Product Manager - AI Platform",
       "track": "hightech",
@@ -329,7 +329,7 @@
     {
       "company": "Salesforce Israel",
       "first_seen": "2026-07-26",
-      "is_new": true,
+      "is_new": false,
       "job_id": "workday:salesforce:/job/Israel---Tel-Aviv/Senior-Director--Product-Management_JR353113",
       "location": "Israel - Tel Aviv",
       "posted_at": null,
@@ -459,5 +459,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
