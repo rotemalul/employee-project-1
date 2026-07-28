@@ -1,6 +1,6 @@
 {
   "count": 39,
-  "generated_at": "2026-07-28T07:38:41+00:00",
+  "generated_at": "2026-07-28T15:19:01+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -31,8 +31,8 @@
       "first_seen": "2026-06-09",
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:94.963",
-      "location": "Tel Aviv",
-      "posted_at": "2026-07-19",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-07-28",
       "source": "comeet",
       "title": "Product Manager, Network Domain",
       "track": "hightech",
@@ -43,8 +43,8 @@
       "first_seen": "2026-07-15",
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:14.E6D",
-      "location": "Tel Aviv",
-      "posted_at": "2026-07-22",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-07-28",
       "source": "comeet",
       "title": "Product Manager, Platform",
       "track": "hightech",
@@ -56,7 +56,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:EC.B66",
       "location": "Raanana, Israel",
-      "posted_at": "2026-07-24",
+      "posted_at": "2026-07-28",
       "source": "comeet",
       "title": "Senior Product Manager - ML Platform",
       "track": "hightech",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-27",
+      "posted_at": "2026-07-28",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -196,18 +196,6 @@
     },
     {
       "company": "NICE",
-      "first_seen": "2026-07-19",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4911286101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-07-23",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
-    },
-    {
-      "company": "NICE",
       "first_seen": "2026-07-12",
       "is_new": false,
       "job_id": "greenhouse:nice:4911345101",
@@ -217,6 +205,18 @@
       "title": "Senior Product Manager, AI",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
+    },
+    {
+      "company": "NICE",
+      "first_seen": "2026-07-19",
+      "is_new": false,
+      "job_id": "greenhouse:nice:4911286101",
+      "location": "Israel - Raanana",
+      "posted_at": "2026-07-23",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, AI",
+      "track": "hightech",
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
     },
     {
       "company": "Nvidia Israel",
@@ -233,7 +233,7 @@
     {
       "company": "ONE ZERO",
       "first_seen": "2026-07-28",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:A8.76E",
       "location": "Tel-Aviv",
       "posted_at": "2026-07-28",
@@ -471,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
