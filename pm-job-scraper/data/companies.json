@@ -1305,7 +1305,7 @@
       "description": "הבנק הדיגיטלי הראשון בישראל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "ONE ZERO",
       "track": "enterprise"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-27T15:41:03+00:00",
+  "generated_at": "2026-07-28T07:38:41+00:00",
   "scanned_count": 93
 }

@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-07-27T15:41:03+00:00",
+  "count": 39,
+  "generated_at": "2026-07-28T07:38:41+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -231,6 +231,18 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418"
     },
     {
+      "company": "ONE ZERO",
+      "first_seen": "2026-07-28",
+      "is_new": true,
+      "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:A8.76E",
+      "location": "Tel-Aviv",
+      "posted_at": "2026-07-28",
+      "source": "comeet",
+      "title": "Marketing Automation Specialist",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/onezerobank/36.00A/marketing-automation-specialist/A8.76E"
+    },
+    {
       "company": "Pango",
       "first_seen": "2026-06-14",
       "is_new": false,
@@ -392,7 +404,7 @@
       "is_new": false,
       "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
       "location": "Maskit E - Herzliya",
-      "posted_at": "2026-07-27",
+      "posted_at": "2026-07-28",
       "source": "comeet",
       "title": "AI Product Manager – Energy Intelligence",
       "track": "hightech",
@@ -459,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
