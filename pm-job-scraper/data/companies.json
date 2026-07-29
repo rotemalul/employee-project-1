@@ -489,7 +489,7 @@
       "careers_url": "https://sqream.com/careers/",
       "category": "data",
       "description": "אנליטיקת דאטה בקנה מידה גדול מבוססת GPU",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "SQream",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-29T07:42:44+00:00",
+  "generated_at": "2026-07-29T15:09:07+00:00",
   "scanned_count": 93
 }
