@@ -885,7 +885,7 @@
       "careers_url": "https://www.ree.auto/careers/",
       "category": "mobility",
       "description": "פלטפורמות חשמליות מודולריות לרכבים",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "REE Automotive",
@@ -1140,7 +1140,7 @@
       "description": "מרכז פיתוח בתל אביב",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Salesforce Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-28T15:19:01+00:00",
+  "generated_at": "2026-07-29T07:42:44+00:00",
   "scanned_count": 93
 }
