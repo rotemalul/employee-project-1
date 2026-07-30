@@ -557,7 +557,7 @@
       "description": "ניהול ופתרון תקלות ב-Kubernetes",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Komodor",
       "track": "hightech"
     },
@@ -788,7 +788,7 @@
       "description": "מפתחת משחקי מובייל (Coin Master)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Moon Active",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-07-30T07:33:37+00:00",
+  "generated_at": "2026-07-30T15:09:20+00:00",
   "scanned_count": 93
 }
