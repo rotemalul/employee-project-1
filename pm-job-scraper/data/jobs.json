@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-07-31T15:16:39+00:00",
+  "count": 35,
+  "generated_at": "2026-08-01T07:27:22+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -196,18 +196,6 @@
     },
     {
       "company": "NICE",
-      "first_seen": "2026-07-12",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4911345101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-07-12",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
-    },
-    {
-      "company": "NICE",
       "first_seen": "2026-07-19",
       "is_new": false,
       "job_id": "greenhouse:nice:4911286101",
@@ -219,16 +207,16 @@
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
     },
     {
-      "company": "Nvidia Israel",
-      "first_seen": "2026-06-09",
+      "company": "NICE",
+      "first_seen": "2026-07-12",
       "is_new": false,
-      "job_id": "workday:nvidia:/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418",
-      "location": "Israel, Yokneam",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Senior Product Manager - NVLink",
+      "job_id": "greenhouse:nice:4911345101",
+      "location": "Israel - Raanana",
+      "posted_at": "2026-07-12",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, AI",
       "track": "hightech",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager---NVLink_JR2011418"
+      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
     },
     {
       "company": "ONE ZERO",
@@ -236,7 +224,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:A8.76E",
       "location": "Tel-Aviv",
-      "posted_at": "2026-07-31",
+      "posted_at": "2026-08-01",
       "source": "comeet",
       "title": "Marketing Automation Specialist",
       "track": "enterprise",
@@ -349,30 +337,6 @@
       "title": "Senior Director, Product Management, Security",
       "track": "hightech",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Senior-Director--Product-Management_JR353113"
-    },
-    {
-      "company": "SciPlay",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "workday:lnw:/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655",
-      "location": "ISRAEL-Tel Aviv-2A Jabotinsky",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager_R321655"
-    },
-    {
-      "company": "SciPlay",
-      "first_seen": "2026-06-23",
-      "is_new": false,
-      "job_id": "workday:lnw:/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/VP-Product_R322307-1",
-      "location": "ISRAEL-Tel Aviv-2A Jabotinsky",
-      "posted_at": null,
-      "source": "workday",
-      "title": "VP Product",
-      "track": "hightech",
-      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/VP-Product_R322307-1"
     },
     {
       "company": "Similarweb",
