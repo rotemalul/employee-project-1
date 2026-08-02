@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-08-01T14:26:16+00:00",
+  "count": 37,
+  "generated_at": "2026-08-02T07:32:24+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -13,18 +13,6 @@
       "title": "Senior Product Manager - Analytics",
       "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
-    },
-    {
-      "company": "AppsFlyer",
-      "first_seen": "2026-07-16",
-      "is_new": false,
-      "job_id": "greenhouse:appsflyer:8636377002",
-      "location": "Herzliya",
-      "posted_at": "2026-07-16",
-      "source": "greenhouse",
-      "title": "Senior Product Manager - Attribution",
-      "track": "hightech",
-      "url": "https://careers.appsflyer.com/jobs/position/8636377002?gh_jid=8636377002"
     },
     {
       "company": "DriveNets",
@@ -80,7 +68,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-30",
+      "posted_at": "2026-08-02",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -140,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-07-31",
+      "posted_at": "2026-08-02",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -236,7 +224,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:A8.76E",
       "location": "Tel-Aviv",
-      "posted_at": "2026-08-01",
+      "posted_at": "2026-08-02",
       "source": "comeet",
       "title": "Marketing Automation Specialist",
       "track": "enterprise",
