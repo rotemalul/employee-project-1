@@ -997,7 +997,7 @@
       "description": "תוכנת ארגון לחוויית לקוח ומרכזי שירות",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "NICE",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-02T07:32:24+00:00",
+  "generated_at": "2026-08-02T14:27:45+00:00",
   "scanned_count": 93
 }

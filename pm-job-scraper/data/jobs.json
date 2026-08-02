@@ -1,6 +1,6 @@
 {
-  "count": 37,
-  "generated_at": "2026-08-02T07:32:24+00:00",
+  "count": 36,
+  "generated_at": "2026-08-02T14:27:45+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:6861996",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-07-27",
+      "posted_at": "2026-08-02",
       "source": "greenhouse",
       "title": "Director of Product Management - Artifactory",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-07-30",
+      "posted_at": "2026-08-02",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -181,18 +181,6 @@
       "title": "AI AML Product Manager",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4894768101?gh_jid=4894768101"
-    },
-    {
-      "company": "NICE",
-      "first_seen": "2026-07-12",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4911345101",
-      "location": "Israel - Raanana",
-      "posted_at": "2026-07-12",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101"
     },
     {
       "company": "NICE",
