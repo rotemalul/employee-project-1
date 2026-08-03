@@ -777,7 +777,7 @@
       "description": "פיתוח והפעלה של משחקי מובייל חברתיים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 0,
       "name": "Playtika",
       "track": "hightech"
     },
@@ -810,7 +810,7 @@
       "description": "משחקי קזינו חברתיים למובייל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "SciPlay",
       "track": "hightech"
     },
@@ -1305,7 +1305,7 @@
       "description": "הבנק הדיגיטלי הראשון בישראל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "ONE ZERO",
       "track": "enterprise"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-03T08:27:07+00:00",
+  "generated_at": "2026-08-03T15:42:21+00:00",
   "scanned_count": 93
 }
