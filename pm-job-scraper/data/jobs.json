@@ -1,6 +1,6 @@
 {
   "count": 33,
-  "generated_at": "2026-08-04T07:36:32+00:00",
+  "generated_at": "2026-08-04T15:24:42+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -17,7 +17,7 @@
     {
       "company": "Coralogix",
       "first_seen": "2026-08-04",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
       "posted_at": "2026-08-04",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:6861996",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-08-02",
+      "posted_at": "2026-08-04",
       "source": "greenhouse",
       "title": "Director of Product Management - Artifactory",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:7657193",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-07-05",
+      "posted_at": "2026-08-04",
       "source": "greenhouse",
       "title": "Senior Product Manager - JFrog Security ",
       "track": "hightech",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-08-02",
+      "posted_at": "2026-08-04",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -399,5 +399,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
