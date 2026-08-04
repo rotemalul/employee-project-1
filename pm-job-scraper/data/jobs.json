@@ -1,6 +1,6 @@
 {
-  "count": 32,
-  "generated_at": "2026-08-03T15:42:21+00:00",
+  "count": 33,
+  "generated_at": "2026-08-04T07:36:32+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -13,6 +13,18 @@
       "title": "Senior Product Manager - Analytics",
       "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
+    },
+    {
+      "company": "Coralogix",
+      "first_seen": "2026-08-04",
+      "is_new": true,
+      "job_id": "comeet:604241801E141E1460430200604604:85.F67",
+      "location": "Ramat Gan, Israel",
+      "posted_at": "2026-08-04",
+      "source": "comeet",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/coralogix/06.004/senior-product-manager/85.F67"
     },
     {
       "company": "DriveNets",
@@ -128,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-03",
+      "posted_at": "2026-08-04",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -387,5 +399,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
