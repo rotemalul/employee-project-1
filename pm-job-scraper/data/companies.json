@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -1107,7 +1107,7 @@
       "description": "מרכזי פיתוח (יקנעם, תל אביב) — לשעבר Mellanox",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Nvidia Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-04T15:24:42+00:00",
+  "generated_at": "2026-08-05T07:38:07+00:00",
   "scanned_count": 93
 }
