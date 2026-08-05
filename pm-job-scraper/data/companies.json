@@ -359,7 +359,7 @@
       "description": "מסחר חוצה-גבולות לחנויות eCommerce",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Global-e",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-05T07:38:07+00:00",
+  "generated_at": "2026-08-05T15:12:51+00:00",
   "scanned_count": 93
 }
