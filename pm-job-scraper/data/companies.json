@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -1360,12 +1360,12 @@
       "description": "אפליקציית תשלום על חניה ושירותי רכב",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Pango",
       "track": "enterprise"
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-05T15:12:51+00:00",
+  "generated_at": "2026-08-06T07:38:55+00:00",
   "scanned_count": 93
 }

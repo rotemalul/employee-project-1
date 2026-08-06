@@ -1,6 +1,6 @@
 {
-  "count": 34,
-  "generated_at": "2026-08-05T15:12:51+00:00",
+  "count": 32,
+  "generated_at": "2026-08-06T07:38:55+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -20,7 +20,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-05",
+      "posted_at": "2026-08-06",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:14.E6D",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-08-05",
+      "posted_at": "2026-08-06",
       "source": "comeet",
       "title": "Product Manager, Platform",
       "track": "hightech",
@@ -89,10 +89,10 @@
     {
       "company": "Global-e",
       "first_seen": "2026-08-05",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-05",
+      "posted_at": "2026-08-06",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -231,18 +231,6 @@
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
     },
     {
-      "company": "Pango",
-      "first_seen": "2026-06-14",
-      "is_new": false,
-      "job_id": "comeet:952413E0254895295253E295237EC53E2:18.264",
-      "location": "Petah Tikva, Israel",
-      "posted_at": "2026-02-11",
-      "source": "comeet",
-      "title": "Product Manager",
-      "track": "enterprise",
-      "url": "https://www.comeet.com/jobs/pango/59.002/product-manager/18.264"
-    },
-    {
       "company": "Payoneer",
       "first_seen": "2026-07-12",
       "is_new": false,
@@ -265,18 +253,6 @@
       "title": "Senior Product Manager  ",
       "track": "hightech",
       "url": "https://www.payoneer.com/careers/position/3999096/?gh_jid=3999096"
-    },
-    {
-      "company": "Payoneer",
-      "first_seen": "2026-06-28",
-      "is_new": false,
-      "job_id": "greenhouse:payoneer:7880940",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "posted_at": "2026-08-05",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, Wallet Product",
-      "track": "hightech",
-      "url": "https://www.payoneer.com/careers/position/7880940/?gh_jid=7880940"
     },
     {
       "company": "Port",
@@ -411,5 +387,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
