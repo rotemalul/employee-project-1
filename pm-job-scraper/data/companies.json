@@ -271,7 +271,7 @@
       "description": "מדידת ביצועים ואטריביושן לאפליקציות מובייל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "AppsFlyer",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-09T05:46:07+00:00",
+  "generated_at": "2026-08-09T13:46:08+00:00",
   "scanned_count": 93
 }
