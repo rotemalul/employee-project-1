@@ -1,6 +1,6 @@
 {
-  "count": 31,
-  "generated_at": "2026-08-10T14:20:14+00:00",
+  "count": 30,
+  "generated_at": "2026-08-11T05:54:00+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -32,23 +32,11 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-09",
+      "posted_at": "2026-08-10",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/coralogix/06.004/senior-product-manager/85.F67"
-    },
-    {
-      "company": "DriveNets",
-      "first_seen": "2026-07-17",
-      "is_new": false,
-      "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:EC.B66",
-      "location": "Raanana, Israel",
-      "posted_at": "2026-08-10",
-      "source": "comeet",
-      "title": "Senior Product Manager - ML Platform",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-product-manager---ml-platform/EC.B66"
     },
     {
       "company": "Finubit",
@@ -80,7 +68,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-10",
+      "posted_at": "2026-08-11",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
