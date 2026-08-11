@@ -359,7 +359,7 @@
       "description": "מסחר חוצה-גבולות לחנויות eCommerce",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Global-e",
       "track": "hightech"
     },
@@ -920,7 +920,7 @@
       "description": "ממירים ופתרונות אנרגיה סולארית",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "SolarEdge",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-11T05:54:00+00:00",
+  "generated_at": "2026-08-11T14:19:38+00:00",
   "scanned_count": 93
 }

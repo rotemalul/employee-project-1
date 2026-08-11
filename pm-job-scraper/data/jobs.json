@@ -1,6 +1,6 @@
 {
   "count": 30,
-  "generated_at": "2026-08-11T05:54:00+00:00",
+  "generated_at": "2026-08-11T14:19:38+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-10",
+      "posted_at": "2026-08-11",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -56,11 +56,23 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-10",
+      "posted_at": "2026-08-11",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/fiverr/60.002/senior-product-manager/AB.B60"
+    },
+    {
+      "company": "Global-e",
+      "first_seen": "2026-08-11",
+      "is_new": true,
+      "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
+      "location": "Israel, Petah Tikva",
+      "posted_at": "2026-08-11",
+      "source": "comeet",
+      "title": "Product Manager- CRM System",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/global-e/62.002/product-manager--crm-system/BD.F6B"
     },
     {
       "company": "Global-e",
@@ -140,7 +152,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-10",
+      "posted_at": "2026-08-11",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -176,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:982428E9820428E390C55924C101C861C86:53.D69",
       "location": "Israel",
-      "posted_at": "2026-06-24",
+      "posted_at": "2026-08-11",
       "source": "comeet",
       "title": "Technical Product Manager",
       "track": "hightech",
@@ -291,18 +303,6 @@
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
     },
     {
-      "company": "SolarEdge",
-      "first_seen": "2026-06-09",
-      "is_new": false,
-      "job_id": "comeet:17A5E8762BD08DC46E46E46E046E:6B.761",
-      "location": "Maskit E - Herzliya",
-      "posted_at": "2026-08-10",
-      "source": "comeet",
-      "title": "AI & Platform Product Manager",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/SolarEdge/71.00A/ai--platform-product-manager/6B.761"
-    },
-    {
       "company": "Trigo",
       "first_seen": "2026-06-17",
       "is_new": false,
@@ -363,5 +363,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
