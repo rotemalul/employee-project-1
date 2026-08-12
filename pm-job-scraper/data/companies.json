@@ -117,7 +117,7 @@
       "description": "תשלומים B2B לעסקים קטנים ובינוניים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Melio",
       "track": "hightech"
     },
@@ -1140,7 +1140,7 @@
       "description": "מרכז פיתוח בתל אביב",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Salesforce Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-11T14:19:38+00:00",
+  "generated_at": "2026-08-12T06:13:18+00:00",
   "scanned_count": 93
 }

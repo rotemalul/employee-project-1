@@ -1,6 +1,6 @@
 {
-  "count": 30,
-  "generated_at": "2026-08-11T14:19:38+00:00",
+  "count": 28,
+  "generated_at": "2026-08-12T06:13:18+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-11",
+      "posted_at": "2026-08-12",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -65,10 +65,10 @@
     {
       "company": "Global-e",
       "first_seen": "2026-08-11",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-11",
+      "posted_at": "2026-08-12",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-11",
+      "posted_at": "2026-08-12",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -157,18 +157,6 @@
       "title": "Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/komodor/96.005/product-manager/48.963"
-    },
-    {
-      "company": "Melio",
-      "first_seen": "2026-07-15",
-      "is_new": false,
-      "job_id": "greenhouse:melio:7802171003",
-      "location": "Tel Aviv",
-      "posted_at": "2026-07-14",
-      "source": "greenhouse",
-      "title": "Senior Product Manager",
-      "track": "hightech",
-      "url": "https://job-boards.greenhouse.io/melio/jobs/7802171003"
     },
     {
       "company": "Navan",
@@ -267,18 +255,6 @@
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-product-manager/99.667"
     },
     {
-      "company": "Salesforce Israel",
-      "first_seen": "2026-07-26",
-      "is_new": false,
-      "job_id": "workday:salesforce:/job/Israel---Tel-Aviv/Senior-Director--Product-Management_JR353113",
-      "location": "Israel - Tel Aviv",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Senior Director, Product Management, Security",
-      "track": "hightech",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Senior-Director--Product-Management_JR353113"
-    },
-    {
       "company": "SciPlay",
       "first_seen": "2026-06-23",
       "is_new": false,
@@ -308,7 +284,7 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-08-09",
+      "posted_at": "2026-08-12",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -363,5 +339,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
