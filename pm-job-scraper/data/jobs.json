@@ -1,6 +1,6 @@
 {
   "count": 28,
-  "generated_at": "2026-08-12T06:13:18+00:00",
+  "generated_at": "2026-08-12T14:19:50+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:6861996",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-08-04",
+      "posted_at": "2026-08-12",
       "source": "greenhouse",
       "title": "Director of Product Management - Artifactory",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:8104833",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-08-04",
+      "posted_at": "2026-08-12",
       "source": "greenhouse",
       "title": "IS Product Manager",
       "track": "hightech",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "greenhouse:jfrog:7657193",
       "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-08-04",
+      "posted_at": "2026-08-12",
       "source": "greenhouse",
       "title": "Senior Product Manager - JFrog Security ",
       "track": "hightech",
@@ -236,11 +236,11 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-08-10",
+      "posted_at": "2026-08-12",
       "source": "comeet",
-      "title": "Product Manager - AI Platform",
+      "title": "Product Manager",
       "track": "hightech",
-      "url": "https://www.comeet.com/jobs/port/59.004/product-manager---ai-platform/F9.B67"
+      "url": "https://www.comeet.com/jobs/port/59.004/product-manager/F9.B67"
     },
     {
       "company": "Riverside",
