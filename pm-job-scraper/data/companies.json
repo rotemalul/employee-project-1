@@ -535,7 +535,7 @@
       "description": "פלטפורמת תצפיתיות, לוגים ומוניטורינג",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Coralogix",
       "track": "hightech"
     },
@@ -667,7 +667,7 @@
       "description": "ניתוח דימות רפואי (רדיולוגיה) מבוסס AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Aidoc",
       "track": "hightech"
     },
@@ -909,7 +909,7 @@
       "description": "מחשוב סביבתי ו-IoT באמצעות תגיות חכמות",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Wiliot",
       "track": "hightech"
     },
@@ -1140,7 +1140,7 @@
       "description": "מרכז פיתוח בתל אביב",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Salesforce Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-13T06:15:00+00:00",
+  "generated_at": "2026-08-13T14:21:56+00:00",
   "scanned_count": 93
 }
