@@ -1,6 +1,6 @@
 {
   "count": 32,
-  "generated_at": "2026-08-15T13:27:34+00:00",
+  "generated_at": "2026-08-16T05:25:15+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -56,7 +56,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-14",
+      "posted_at": "2026-08-15",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-15",
+      "posted_at": "2026-08-16",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -260,7 +260,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-08-12",
+      "posted_at": "2026-08-15",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -368,7 +368,7 @@
       "is_new": false,
       "job_id": "comeet:6F329B2DE6379829B229B2037983E8B3E8B:14.079",
       "location": "Israel - Tel Aviv",
-      "posted_at": "2026-08-14",
+      "posted_at": "2026-08-15",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
