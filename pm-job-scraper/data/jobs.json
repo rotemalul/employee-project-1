@@ -1,6 +1,6 @@
 {
-  "count": 31,
-  "generated_at": "2026-08-17T13:36:46+00:00",
+  "count": 32,
+  "generated_at": "2026-08-18T05:25:33+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -8,7 +8,7 @@
       "is_new": false,
       "job_id": "greenhouse:aidocmedical:4951044101",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "posted_at": "2026-08-13",
+      "posted_at": "2026-08-17",
       "source": "greenhouse",
       "title": " Director of Product Design",
       "track": "hightech",
@@ -56,11 +56,23 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-17",
+      "posted_at": "2026-08-18",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/coralogix/06.004/senior-product-manager/85.F67"
+    },
+    {
+      "company": "DriveNets",
+      "first_seen": "2026-08-18",
+      "is_new": true,
+      "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:F4.07C",
+      "location": "Israel",
+      "posted_at": "2026-08-18",
+      "source": "comeet",
+      "title": "Senior Product Manager - Switch Hardware AI Networking",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-product-manager---switch-hardware-ai-networking/F4.07C"
     },
     {
       "company": "Finubit",
@@ -176,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-16",
+      "posted_at": "2026-08-17",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -188,7 +200,7 @@
       "is_new": false,
       "job_id": "greenhouse:tripactions:7522825",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-07-21",
+      "posted_at": "2026-08-17",
       "source": "greenhouse",
       "title": " Senior Product Manager",
       "track": "hightech",
@@ -356,7 +368,7 @@
       "is_new": false,
       "job_id": "comeet:6F329B2DE6379829B229B2037983E8B3E8B:14.079",
       "location": "Israel - Tel Aviv",
-      "posted_at": "2026-08-15",
+      "posted_at": "2026-08-17",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -375,5 +387,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
