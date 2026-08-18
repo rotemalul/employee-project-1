@@ -392,7 +392,7 @@
       "description": "חנויות אוטונומיות מבוססות ראייה ממוחשבת",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Trigo",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-18T05:25:33+00:00",
+  "generated_at": "2026-08-18T13:39:41+00:00",
   "scanned_count": 93
 }
