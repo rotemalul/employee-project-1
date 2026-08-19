@@ -1,6 +1,6 @@
 {
   "count": 33,
-  "generated_at": "2026-08-18T13:39:41+00:00",
+  "generated_at": "2026-08-19T05:26:59+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -56,7 +56,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-18",
+      "posted_at": "2026-08-19",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-17",
+      "posted_at": "2026-08-18",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -188,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-18",
+      "posted_at": "2026-08-19",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -272,7 +272,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-08-18",
+      "posted_at": "2026-08-19",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -284,7 +284,7 @@
       "is_new": false,
       "job_id": "comeet:66926766692CDF00669CD22CDF133B:99.667",
       "location": "Israel",
-      "posted_at": "2026-08-12",
+      "posted_at": "2026-08-19",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -341,7 +341,7 @@
     {
       "company": "Trigo",
       "first_seen": "2026-08-18",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:C6.073",
       "location": "Israel",
       "posted_at": "2026-08-18",
@@ -399,5 +399,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
