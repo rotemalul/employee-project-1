@@ -1,6 +1,6 @@
 {
-  "count": 33,
-  "generated_at": "2026-08-19T05:26:59+00:00",
+  "count": 35,
+  "generated_at": "2026-08-19T13:41:36+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -13,6 +13,18 @@
       "title": " Director of Product Design",
       "track": "hightech",
       "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4951044101"
+    },
+    {
+      "company": "Aidoc",
+      "first_seen": "2026-07-09",
+      "is_new": false,
+      "job_id": "greenhouse:aidocmedical:4923591101",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "posted_at": "2026-08-19",
+      "source": "greenhouse",
+      "title": "Product manager - Neurology AI",
+      "track": "hightech",
+      "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4923591101"
     },
     {
       "company": "AppsFlyer",
@@ -104,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-18",
+      "posted_at": "2026-08-19",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -116,11 +128,23 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-18",
+      "posted_at": "2026-08-19",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/global-e/62.002/senior-product-manager/99.F69"
+    },
+    {
+      "company": "Global-e",
+      "first_seen": "2026-08-19",
+      "is_new": true,
+      "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
+      "location": "Israel, Petah Tikva",
+      "posted_at": "2026-08-19",
+      "source": "comeet",
+      "title": "Senior Product Manager- Duties & Tax",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/global-e/62.002/senior-product-manager--duties--tax/BC.077"
     },
     {
       "company": "Gong",
@@ -267,6 +291,18 @@
       "url": "https://www.payoneer.com/careers/position/3999096/?gh_jid=3999096"
     },
     {
+      "company": "Payoneer",
+      "first_seen": "2026-06-28",
+      "is_new": false,
+      "job_id": "greenhouse:payoneer:7880940",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "posted_at": "2026-08-19",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, Wallet Product",
+      "track": "hightech",
+      "url": "https://www.payoneer.com/careers/position/7880940/?gh_jid=7880940"
+    },
+    {
       "company": "Port",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -363,24 +399,12 @@
       "url": "https://www.comeet.com/jobs/vastdata/43.001/product-owner--engineer/10.430"
     },
     {
-      "company": "WalkMe",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "lever:walkme:3f89ed0b-d3a8-49c1-9a2a-68662497f16e",
-      "location": "Tel Aviv",
-      "posted_at": "2025-11-05",
-      "source": "lever",
-      "title": "Product Manager  - Product-Led Growth (PLG) | WalkMe Learning Arc",
-      "track": "hightech",
-      "url": "https://jobs.lever.co/walkme/3f89ed0b-d3a8-49c1-9a2a-68662497f16e"
-    },
-    {
       "company": "Wiliot",
       "first_seen": "2026-08-13",
       "is_new": false,
       "job_id": "comeet:6F329B2DE6379829B229B2037983E8B3E8B:14.079",
       "location": "Israel - Tel Aviv",
-      "posted_at": "2026-08-17",
+      "posted_at": "2026-08-19",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -399,5 +423,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
