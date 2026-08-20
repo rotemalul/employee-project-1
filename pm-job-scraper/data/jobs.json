@@ -1,6 +1,6 @@
 {
   "count": 35,
-  "generated_at": "2026-08-19T13:41:36+00:00",
+  "generated_at": "2026-08-20T05:27:37+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-15",
+      "posted_at": "2026-08-20",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-08-20",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -137,10 +137,10 @@
     {
       "company": "Global-e",
       "first_seen": "2026-08-19",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-08-20",
       "source": "comeet",
       "title": "Senior Product Manager- Duties & Tax",
       "track": "hightech",
@@ -224,7 +224,7 @@
       "is_new": false,
       "job_id": "greenhouse:tripactions:7522825",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-08-17",
+      "posted_at": "2026-08-19",
       "source": "greenhouse",
       "title": " Senior Product Manager",
       "track": "hightech",
@@ -423,5 +423,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
