@@ -1,6 +1,6 @@
 {
-  "count": 33,
-  "generated_at": "2026-08-23T05:25:58+00:00",
+  "count": 35,
+  "generated_at": "2026-08-23T13:29:21+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -28,15 +28,15 @@
     },
     {
       "company": "Coralogix",
-      "first_seen": "2026-08-13",
-      "is_new": false,
-      "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
+      "first_seen": "2026-08-23",
+      "is_new": true,
+      "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-20",
+      "posted_at": "2026-08-23",
       "source": "comeet",
       "title": "AI Senior Product Manager",
       "track": "hightech",
-      "url": "https://www.comeet.com/jobs/coralogix/06.004/ai-senior-product-manager/9D.F6D"
+      "url": "https://www.comeet.com/jobs/coralogix/06.004/ai-senior-product-manager/AE.079"
     },
     {
       "company": "Coralogix",
@@ -44,18 +44,30 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-22",
+      "posted_at": "2026-08-23",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/coralogix/06.004/senior-product-manager/85.F67"
     },
     {
+      "company": "Coralogix",
+      "first_seen": "2026-08-13",
+      "is_new": false,
+      "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
+      "location": "Ramat Gan, Israel",
+      "posted_at": "2026-08-23",
+      "source": "comeet",
+      "title": "Senior Product Manager - Cybersecurity & AI",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/coralogix/06.004/senior-product-manager---cybersecurity--ai/9D.F6D"
+    },
+    {
       "company": "DriveNets",
       "first_seen": "2026-08-18",
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:F4.07C",
-      "location": "Israel",
+      "location": "Raanana, Israel",
       "posted_at": "2026-08-23",
       "source": "comeet",
       "title": "Senior Product Manager - Switch Hardware AI Networking",
@@ -104,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-22",
+      "posted_at": "2026-08-23",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -116,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-22",
+      "posted_at": "2026-08-23",
       "source": "comeet",
       "title": "Senior Product Manager- Duties & Tax",
       "track": "hightech",
@@ -279,6 +291,18 @@
       "url": "https://www.payoneer.com/careers/position/7880940/?gh_jid=7880940"
     },
     {
+      "company": "Playtika",
+      "first_seen": "2026-08-23",
+      "is_new": true,
+      "job_id": "greenhouse:playtikaltd:4230162101",
+      "location": "Herzliya",
+      "posted_at": "2026-08-23",
+      "source": "greenhouse",
+      "title": "Product Manager",
+      "track": "hightech",
+      "url": "https://www.playtika.com/position/?gh_jid=4230162101"
+    },
+    {
       "company": "Port",
       "first_seen": "2026-06-04",
       "is_new": false,
@@ -344,11 +368,11 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-08-20",
+      "posted_at": "2026-08-23",
       "source": "comeet",
-      "title": "Product Manager",
+      "title": "Senior Product Manager",
       "track": "hightech",
-      "url": "https://www.comeet.com/jobs/trigo/A6.005/product-manager/0B.E46"
+      "url": "https://www.comeet.com/jobs/trigo/A6.005/senior-product-manager/0B.E46"
     },
     {
       "company": "Trigo",
@@ -399,5 +423,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 2
 }

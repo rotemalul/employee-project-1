@@ -535,7 +535,7 @@
       "description": "פלטפורמת תצפיתיות, לוגים ומוניטורינג",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "Coralogix",
       "track": "hightech"
     },
@@ -777,7 +777,7 @@
       "description": "פיתוח והפעלה של משחקי מובייל חברתיים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Playtika",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-23T05:25:58+00:00",
+  "generated_at": "2026-08-23T13:29:21+00:00",
   "scanned_count": 93
 }
