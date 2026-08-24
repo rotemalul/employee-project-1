@@ -1,6 +1,6 @@
 {
-  "count": 35,
-  "generated_at": "2026-08-23T13:29:21+00:00",
+  "count": 34,
+  "generated_at": "2026-08-24T05:36:45+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -15,21 +15,9 @@
       "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4951044101"
     },
     {
-      "company": "Aidoc",
-      "first_seen": "2026-07-09",
-      "is_new": false,
-      "job_id": "greenhouse:aidocmedical:4923591101",
-      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-      "posted_at": "2026-08-19",
-      "source": "greenhouse",
-      "title": "Product manager - Neurology AI",
-      "track": "hightech",
-      "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4923591101"
-    },
-    {
       "company": "Coralogix",
       "first_seen": "2026-08-23",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
       "posted_at": "2026-08-23",
@@ -44,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-23",
+      "posted_at": "2026-08-24",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -56,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-23",
+      "posted_at": "2026-08-24",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -92,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-21",
+      "posted_at": "2026-08-23",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -104,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-23",
+      "posted_at": "2026-08-24",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -200,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-08-23",
+      "posted_at": "2026-08-24",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -293,7 +281,7 @@
     {
       "company": "Playtika",
       "first_seen": "2026-08-23",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:playtikaltd:4230162101",
       "location": "Herzliya",
       "posted_at": "2026-08-23",
@@ -423,5 +411,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 2
+  "new_count": 0
 }
