@@ -1116,7 +1116,7 @@
       "careers_url": "https://jobs.intel.com/en/search-jobs/Israel",
       "category": "multinational",
       "description": "פיתוח ושבבים (חיפה, פתח תקווה, ירושלים)",
-      "error": true,
+      "error": false,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Intel Israel",
@@ -1248,7 +1248,7 @@
       "careers_url": "https://www.broadcom.com/company/careers",
       "category": "multinational",
       "description": "מרכז פיתוח בהרצליה",
-      "error": true,
+      "error": false,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Broadcom / VMware Israel",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-24T13:47:30+00:00",
+  "generated_at": "2026-08-25T05:28:46+00:00",
   "scanned_count": 93
 }
