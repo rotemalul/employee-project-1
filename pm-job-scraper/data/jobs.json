@@ -1,6 +1,6 @@
 {
-  "count": 35,
-  "generated_at": "2026-08-26T05:30:30+00:00",
+  "count": 34,
+  "generated_at": "2026-08-26T13:51:39+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-08-26",
       "source": "comeet",
       "title": "AI Senior Product Manager",
       "track": "hightech",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-08-26",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -56,7 +56,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-08-26",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-08-26",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -133,18 +133,6 @@
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/global-e/62.002/senior-product-manager---finance/BC.077"
-    },
-    {
-      "company": "Gong",
-      "first_seen": "2026-06-30",
-      "is_new": false,
-      "job_id": "greenhouse:gongio:4690054006",
-      "location": "Tel Aviv",
-      "posted_at": "2026-07-06",
-      "source": "greenhouse",
-      "title": "Senior Product Manager -  Agentic Assistant",
-      "track": "hightech",
-      "url": "https://job-boards.greenhouse.io/gongio/jobs/4690054006"
     },
     {
       "company": "JFrog",
@@ -308,7 +296,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-08-26",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
