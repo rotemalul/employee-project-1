@@ -271,7 +271,7 @@
       "description": "מדידת ביצועים ואטריביושן לאפליקציות מובייל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "AppsFlyer",
       "track": "hightech"
     },
@@ -997,7 +997,7 @@
       "description": "תוכנת ארגון לחוויית לקוח ומרכזי שירות",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "NICE",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-26T13:51:39+00:00",
+  "generated_at": "2026-08-27T16:06:52+00:00",
   "scanned_count": 93
 }
