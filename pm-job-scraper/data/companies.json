@@ -1140,7 +1140,7 @@
       "description": "מרכז פיתוח בתל אביב",
       "error": false,
       "hq": "multinational",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Salesforce Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-27T22:46:04+00:00",
+  "generated_at": "2026-08-28T17:08:38+00:00",
   "scanned_count": 93
 }
