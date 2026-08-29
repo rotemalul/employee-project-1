@@ -13,6 +13,33 @@
         "workday": 12
       },
       "companies": 124,
+      "duration_sec": 165,
+      "error_companies": [
+        "PayBox",
+        "REE Automotive",
+        "SQream",
+        "Unity (ironSource)"
+      ],
+      "errors": 4,
+      "finished_at": "2026-08-29T16:59:05+00:00",
+      "jobs": 33,
+      "new": 0,
+      "scanned": 93,
+      "status": "partial"
+    },
+    {
+      "ats": {
+        "ashby": 2,
+        "comeet": 45,
+        "greenhouse": 26,
+        "lever": 2,
+        "recruitee": 1,
+        "smartrecruiters": 3,
+        "unknown": 31,
+        "workable": 2,
+        "workday": 12
+      },
+      "companies": 124,
       "duration_sec": 290,
       "error_companies": [
         "PayBox",
@@ -1054,34 +1081,7 @@
       "new": 0,
       "scanned": 93,
       "status": "partial"
-    },
-    {
-      "ats": {
-        "ashby": 2,
-        "comeet": 45,
-        "greenhouse": 26,
-        "lever": 2,
-        "recruitee": 1,
-        "smartrecruiters": 3,
-        "unknown": 31,
-        "workable": 2,
-        "workday": 12
-      },
-      "companies": 124,
-      "duration_sec": 152,
-      "error_companies": [
-        "PayBox",
-        "REE Automotive",
-        "SQream",
-        "Unity (ironSource)"
-      ],
-      "errors": 4,
-      "finished_at": "2026-08-09T13:46:08+00:00",
-      "jobs": 29,
-      "new": 0,
-      "scanned": 93,
-      "status": "partial"
     }
   ],
-  "updated_at": "2026-08-29T11:30:36+00:00"
+  "updated_at": "2026-08-29T16:59:05+00:00"
 }
