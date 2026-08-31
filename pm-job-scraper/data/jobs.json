@@ -1,6 +1,6 @@
 {
-  "count": 33,
-  "generated_at": "2026-08-31T11:20:31+00:00",
+  "count": 34,
+  "generated_at": "2026-08-31T19:22:55+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-30",
+      "posted_at": "2026-08-31",
       "source": "comeet",
       "title": "AI Senior Product Manager",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-08-30",
+      "posted_at": "2026-08-31",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -217,6 +217,18 @@
       "title": " Senior Product Manager",
       "track": "hightech",
       "url": "https://navan.com/careers/openings?gh_jid=7522825"
+    },
+    {
+      "company": "Navan",
+      "first_seen": "2026-08-31",
+      "is_new": true,
+      "job_id": "greenhouse:tripactions:8160539",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-08-31",
+      "source": "greenhouse",
+      "title": "Product Manager - Book with AI",
+      "track": "hightech",
+      "url": "https://navan.com/careers/openings?gh_jid=8160539"
     },
     {
       "company": "NeuReality",
@@ -399,5 +411,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }

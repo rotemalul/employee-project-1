@@ -1041,7 +1041,7 @@
       "description": "ניהול נסיעות והוצאות עסקיות (מרכז פיתוח בישראל)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Navan",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-08-31T11:20:31+00:00",
+  "generated_at": "2026-08-31T19:22:55+00:00",
   "scanned_count": 93
 }
