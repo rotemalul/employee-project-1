@@ -1,6 +1,6 @@
 {
-  "count": 34,
-  "generated_at": "2026-09-01T09:45:57+00:00",
+  "count": 33,
+  "generated_at": "2026-09-01T17:08:28+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-08-31",
+      "posted_at": "2026-09-01",
       "source": "comeet",
       "title": "AI Senior Product Manager",
       "track": "hightech",
@@ -231,18 +231,6 @@
       "url": "https://navan.com/careers/openings?gh_jid=8160539"
     },
     {
-      "company": "NeuReality",
-      "first_seen": "2026-06-24",
-      "is_new": false,
-      "job_id": "comeet:982428E9820428E390C55924C101C861C86:53.D69",
-      "location": "Israel",
-      "posted_at": "2026-08-11",
-      "source": "comeet",
-      "title": "Technical Product Manager",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/neurealityai/89.002/technical-product-manager/53.D69"
-    },
-    {
       "company": "NICE",
       "first_seen": "2026-07-19",
       "is_new": false,
@@ -260,7 +248,7 @@
       "is_new": false,
       "job_id": "greenhouse:payoneer:7925955",
       "location": "Herzliya, Tel Aviv District, Israel",
-      "posted_at": "2026-08-17",
+      "posted_at": "2026-09-01",
       "source": "greenhouse",
       "title": "Principal Product Manager, Core AI",
       "track": "hightech",
@@ -272,7 +260,7 @@
       "is_new": false,
       "job_id": "greenhouse:payoneer:3999096",
       "location": "Herzliya, Tel Aviv District, Israel",
-      "posted_at": "2026-08-17",
+      "posted_at": "2026-09-01",
       "source": "greenhouse",
       "title": "Senior Product Manager  ",
       "track": "hightech",
@@ -284,7 +272,7 @@
       "is_new": false,
       "job_id": "greenhouse:payoneer:7880940",
       "location": "Herzliya, Tel Aviv District, Israel",
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-09-01",
       "source": "greenhouse",
       "title": "Senior Product Manager, Wallet Product",
       "track": "hightech",
@@ -392,7 +380,7 @@
       "is_new": false,
       "job_id": "comeet:6F329B2DE6379829B229B2037983E8B3E8B:14.079",
       "location": "Israel - Tel Aviv",
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-09-01",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",

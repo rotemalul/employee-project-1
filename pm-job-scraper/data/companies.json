@@ -975,7 +975,7 @@
       "description": "ארכיטקטורת חומרה ל-inference של AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "NeuReality",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-09-01T09:45:57+00:00",
+  "generated_at": "2026-09-01T17:08:28+00:00",
   "scanned_count": 93
 }
