@@ -1,6 +1,6 @@
 {
   "count": 34,
-  "generated_at": "2026-09-02T09:17:31+00:00",
+  "generated_at": "2026-09-02T17:00:00+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-01",
+      "posted_at": "2026-09-02",
       "source": "comeet",
       "title": "AI Senior Product Manager",
       "track": "hightech",
@@ -257,7 +257,7 @@
     {
       "company": "Payoneer",
       "first_seen": "2026-09-02",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:payoneer:8156113",
       "location": "Herzliya, Tel Aviv District, Israel",
       "posted_at": "2026-09-02",
@@ -308,7 +308,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-08-31",
+      "posted_at": "2026-09-02",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -411,5 +411,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
