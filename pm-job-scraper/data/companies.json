@@ -29,7 +29,7 @@
       "description": "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "WalkMe",
       "track": "hightech"
     },
@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 4,
+      "jobs_count": 5,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -667,7 +667,7 @@
       "description": "ניתוח דימות רפואי (רדיולוגיה) מבוסס AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Aidoc",
       "track": "hightech"
     },
@@ -777,7 +777,7 @@
       "description": "פיתוח והפעלה של משחקי מובייל חברתיים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Playtika",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-09-06T09:08:03+00:00",
+  "generated_at": "2026-09-06T15:58:33+00:00",
   "scanned_count": 93
 }
