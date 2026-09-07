@@ -1,6 +1,6 @@
 {
   "count": 34,
-  "generated_at": "2026-09-06T15:58:33+00:00",
+  "generated_at": "2026-09-07T09:55:18+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-02",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "AI Senior Product Manager",
       "track": "hightech",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-06",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-06",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-06",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-06",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -149,7 +149,7 @@
     {
       "company": "JFrog",
       "first_seen": "2026-09-06",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:jfrog:8169233",
       "location": "Tel Aviv/ Netanya, Israel",
       "posted_at": "2026-09-06",
@@ -188,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-06",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -233,7 +233,7 @@
     {
       "company": "Payoneer",
       "first_seen": "2026-09-06",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:payoneer:8177440",
       "location": "Herzliya, Tel Aviv District, Israel",
       "posted_at": "2026-09-06",
@@ -356,7 +356,7 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:C6.073",
       "location": "Israel",
-      "posted_at": "2026-09-06",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Technical Product Manager",
       "track": "hightech",
@@ -411,5 +411,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 2
+  "new_count": 0
 }
