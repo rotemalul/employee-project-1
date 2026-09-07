@@ -1,19 +1,7 @@
 {
-  "count": 34,
-  "generated_at": "2026-09-07T09:55:18+00:00",
+  "count": 33,
+  "generated_at": "2026-09-07T18:04:09+00:00",
   "jobs": [
-    {
-      "company": "AppsFlyer",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:appsflyer:8458281002",
-      "location": "Herzliya",
-      "posted_at": "2026-08-25",
-      "source": "greenhouse",
-      "title": "Senior Product Manager - Analytics",
-      "track": "hightech",
-      "url": "https://careers.appsflyer.com/jobs/position/8458281002?gh_jid=8458281002"
-    },
     {
       "company": "AppsFlyer",
       "first_seen": "2026-07-16",
@@ -44,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-03",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -56,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-06",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -176,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-09-03",
+      "posted_at": "2026-09-07",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
