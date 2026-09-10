@@ -1,6 +1,6 @@
 {
-  "count": 34,
-  "generated_at": "2026-09-10T09:23:38+00:00",
+  "count": 35,
+  "generated_at": "2026-09-10T16:53:29+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -73,6 +73,18 @@
       "title": "Automation Developer",
       "track": "enterprise",
       "url": "https://www.comeet.com/jobs/finubit/A9.002/automation-developer/DE.558"
+    },
+    {
+      "company": "Fiverr",
+      "first_seen": "2026-09-10",
+      "is_new": true,
+      "job_id": "comeet:62188018812631018862C4188:66.270",
+      "location": "Tel Aviv",
+      "posted_at": "2026-09-10",
+      "source": "comeet",
+      "title": "Director of Product Design",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/fiverr/60.002/director-of-product-design/66.270"
     },
     {
       "company": "Fiverr",
@@ -164,7 +176,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-09-09",
+      "posted_at": "2026-09-10",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -411,5 +423,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
