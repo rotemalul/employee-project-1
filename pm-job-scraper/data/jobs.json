@@ -1,6 +1,6 @@
 {
   "count": 35,
-  "generated_at": "2026-09-10T16:53:29+00:00",
+  "generated_at": "2026-09-11T09:21:38+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -77,7 +77,7 @@
     {
       "company": "Fiverr",
       "first_seen": "2026-09-10",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:66.270",
       "location": "Tel Aviv",
       "posted_at": "2026-09-10",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-07",
+      "posted_at": "2026-09-11",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-11",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -423,5 +423,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
