@@ -13,6 +13,35 @@
         "workday": 12
       },
       "companies": 124,
+      "duration_sec": 288,
+      "error_companies": [
+        "Dell Technologies Israel",
+        "Hailo",
+        "PayBox",
+        "REE Automotive",
+        "SQream",
+        "Unity (ironSource)"
+      ],
+      "errors": 6,
+      "finished_at": "2026-09-14T10:18:10+00:00",
+      "jobs": 34,
+      "new": 0,
+      "scanned": 93,
+      "status": "partial"
+    },
+    {
+      "ats": {
+        "ashby": 2,
+        "comeet": 45,
+        "greenhouse": 26,
+        "lever": 2,
+        "recruitee": 1,
+        "smartrecruiters": 3,
+        "unknown": 31,
+        "workable": 2,
+        "workday": 12
+      },
+      "companies": 124,
       "duration_sec": 148,
       "error_companies": [
         "Dell Technologies Israel",
@@ -1076,34 +1105,7 @@
       "new": 0,
       "scanned": 93,
       "status": "partial"
-    },
-    {
-      "ats": {
-        "ashby": 2,
-        "comeet": 45,
-        "greenhouse": 26,
-        "lever": 2,
-        "recruitee": 1,
-        "smartrecruiters": 3,
-        "unknown": 31,
-        "workable": 2,
-        "workday": 12
-      },
-      "companies": 124,
-      "duration_sec": 272,
-      "error_companies": [
-        "PayBox",
-        "REE Automotive",
-        "SQream",
-        "Unity (ironSource)"
-      ],
-      "errors": 4,
-      "finished_at": "2026-08-25T05:28:46+00:00",
-      "jobs": 34,
-      "new": 0,
-      "scanned": 93,
-      "status": "partial"
     }
   ],
-  "updated_at": "2026-09-13T16:48:54+00:00"
+  "updated_at": "2026-09-14T10:18:10+00:00"
 }
