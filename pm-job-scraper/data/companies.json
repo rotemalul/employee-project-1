@@ -128,7 +128,7 @@
       "description": "אוטומציה של תשלומים לספקים וניהול פיננסי",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Tipalti",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-09-14T10:18:10+00:00",
+  "generated_at": "2026-09-14T18:21:22+00:00",
   "scanned_count": 93
 }

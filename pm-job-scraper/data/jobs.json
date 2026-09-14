@@ -1,6 +1,6 @@
 {
-  "count": 34,
-  "generated_at": "2026-09-14T10:18:10+00:00",
+  "count": 35,
+  "generated_at": "2026-09-14T18:21:22+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -339,6 +339,18 @@
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
     },
     {
+      "company": "Tipalti",
+      "first_seen": "2026-09-14",
+      "is_new": true,
+      "job_id": "greenhouse:tipaltisolutions:6186950004",
+      "location": "Tel Aviv District, Israel",
+      "posted_at": "2026-09-14",
+      "source": "greenhouse",
+      "title": "Director of Product Management",
+      "track": "hightech",
+      "url": "https://tipalti.com/jobs/?gh_jid=6186950004"
+    },
+    {
       "company": "Trigo",
       "first_seen": "2026-06-17",
       "is_new": false,
@@ -411,5 +423,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
