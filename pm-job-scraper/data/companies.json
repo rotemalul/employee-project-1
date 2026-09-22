@@ -29,7 +29,7 @@
       "description": "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "WalkMe",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-09-21T18:28:00+00:00",
+  "generated_at": "2026-09-22T09:38:14+00:00",
   "scanned_count": 93
 }

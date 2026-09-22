@@ -1,6 +1,6 @@
 {
-  "count": 36,
-  "generated_at": "2026-09-21T18:28:00+00:00",
+  "count": 35,
+  "generated_at": "2026-09-22T09:38:14+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-15",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BD.F6B",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Product Manager- CRM System",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -320,7 +320,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -397,18 +397,6 @@
       "title": "Product Owner & Engineer",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/vastdata/43.001/product-owner--engineer/10.430"
-    },
-    {
-      "company": "WalkMe",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "lever:walkme:01195a47-88c5-4091-a1dd-193ada2c6592",
-      "location": "Tel Aviv",
-      "posted_at": "2026-05-20",
-      "source": "lever",
-      "title": "Technical Product Manager",
-      "track": "hightech",
-      "url": "https://jobs.lever.co/walkme/01195a47-88c5-4091-a1dd-193ada2c6592"
     },
     {
       "company": "Wiliot",
