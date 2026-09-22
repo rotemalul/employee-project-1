@@ -1,6 +1,6 @@
 {
-  "count": 35,
-  "generated_at": "2026-09-22T09:38:14+00:00",
+  "count": 36,
+  "generated_at": "2026-09-22T17:31:48+00:00",
   "jobs": [
     {
       "company": "AppsFlyer",
@@ -20,7 +20,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Senior AI Product Manager",
       "track": "hightech",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-17",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:66.270",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-21",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Director of Product Design",
       "track": "hightech",
@@ -188,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-17",
+      "posted_at": "2026-09-22",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -241,6 +241,18 @@
       "title": "Senior Product Manager, AI",
       "track": "hightech",
       "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
+    },
+    {
+      "company": "ONE ZERO",
+      "first_seen": "2026-09-22",
+      "is_new": true,
+      "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
+      "location": "Tel-Aviv",
+      "posted_at": "2026-09-22",
+      "source": "comeet",
+      "title": "Product Manager",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/onezerobank/36.00A/product-manager/1F.27D"
     },
     {
       "company": "Payoneer",
@@ -423,5 +435,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
