@@ -1360,12 +1360,12 @@
       "description": "אפליקציית תשלום על חניה ושירותי רכב",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Pango",
       "track": "enterprise"
     }
   ],
   "count": 124,
-  "generated_at": "2026-09-27T10:22:10+00:00",
+  "generated_at": "2026-09-27T17:25:34+00:00",
   "scanned_count": 93
 }
