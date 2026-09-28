@@ -1149,7 +1149,7 @@
       "careers_url": "https://careers.pypl.com/home/",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב ובבאר שבע",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "PayPal Israel",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-09-28T11:25:34+00:00",
+  "generated_at": "2026-09-28T19:59:32+00:00",
   "scanned_count": 93
 }
