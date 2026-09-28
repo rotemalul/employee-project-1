@@ -1,6 +1,6 @@
 {
   "count": 34,
-  "generated_at": "2026-09-27T17:25:34+00:00",
+  "generated_at": "2026-09-28T11:25:34+00:00",
   "jobs": [
     {
       "company": "Coralogix",
@@ -8,7 +8,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-27",
+      "posted_at": "2026-09-28",
       "source": "comeet",
       "title": "Senior AI Product Manager",
       "track": "hightech",
@@ -20,7 +20,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-27",
+      "posted_at": "2026-09-28",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-27",
+      "posted_at": "2026-09-28",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -68,7 +68,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:66.270",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-25",
+      "posted_at": "2026-09-28",
       "source": "comeet",
       "title": "Director of Product Design",
       "track": "hightech",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-27",
+      "posted_at": "2026-09-28",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -224,7 +224,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-09-27",
+      "posted_at": "2026-09-28",
       "source": "comeet",
       "title": "Product Manager",
       "track": "enterprise",
@@ -233,7 +233,7 @@
     {
       "company": "Pango",
       "first_seen": "2026-09-27",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:E1.373",
       "location": "Petah Tikva, Israel",
       "posted_at": "2026-09-27",
@@ -411,5 +411,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
