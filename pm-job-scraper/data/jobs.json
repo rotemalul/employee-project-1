@@ -1,6 +1,6 @@
 {
-  "count": 34,
-  "generated_at": "2026-09-28T19:59:32+00:00",
+  "count": 32,
+  "generated_at": "2026-09-29T11:04:34+00:00",
   "jobs": [
     {
       "company": "Coralogix",
@@ -8,7 +8,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Senior AI Product Manager",
       "track": "hightech",
@@ -20,7 +20,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -152,7 +152,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-25",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -224,7 +224,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-09-28",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Product Manager",
       "track": "enterprise",
@@ -244,15 +244,15 @@
     },
     {
       "company": "Payoneer",
-      "first_seen": "2026-07-12",
-      "is_new": false,
-      "job_id": "greenhouse:payoneer:7925955",
+      "first_seen": "2026-09-29",
+      "is_new": true,
+      "job_id": "greenhouse:payoneer:8211169",
       "location": "Herzliya, Tel Aviv District, Israel",
-      "posted_at": "2026-09-09",
+      "posted_at": "2026-09-29",
       "source": "greenhouse",
       "title": "Principal Product Manager, Core AI",
       "track": "hightech",
-      "url": "https://www.payoneer.com/careers/position/7925955/?gh_jid=7925955"
+      "url": "https://www.payoneer.com/careers/position/8211169/?gh_jid=8211169"
     },
     {
       "company": "Payoneer",
@@ -339,18 +339,6 @@
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
     },
     {
-      "company": "Tipalti",
-      "first_seen": "2026-09-14",
-      "is_new": false,
-      "job_id": "greenhouse:tipaltisolutions:6186950004",
-      "location": "Tel Aviv District, Israel",
-      "posted_at": "2026-09-27",
-      "source": "greenhouse",
-      "title": "Director of Product Management",
-      "track": "hightech",
-      "url": "https://tipalti.com/jobs/?gh_jid=6186950004"
-    },
-    {
       "company": "Trigo",
       "first_seen": "2026-06-17",
       "is_new": false,
@@ -361,18 +349,6 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/trigo/A6.005/senior-product-manager/0B.E46"
-    },
-    {
-      "company": "Trigo",
-      "first_seen": "2026-08-18",
-      "is_new": false,
-      "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:C6.073",
-      "location": "Israel",
-      "posted_at": "2026-09-17",
-      "source": "comeet",
-      "title": "Technical Product Manager",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/trigo/A6.005/technical-product-manager/C6.073"
     },
     {
       "company": "VAST Data",
@@ -411,5 +387,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
