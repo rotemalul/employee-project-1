@@ -1,7 +1,19 @@
 {
-  "count": 32,
-  "generated_at": "2026-09-29T11:04:34+00:00",
+  "count": 33,
+  "generated_at": "2026-09-29T18:27:36+00:00",
   "jobs": [
+    {
+      "company": "Autodesk Israel",
+      "first_seen": "2026-09-29",
+      "is_new": true,
+      "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101337-1",
+      "location": "Tel Aviv, ISR",
+      "posted_at": null,
+      "source": "workday",
+      "title": "Product Manager (Contractor for 6 months)",
+      "track": "hightech",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101337-1"
+    },
     {
       "company": "Coralogix",
       "first_seen": "2026-08-23",
@@ -236,7 +248,7 @@
       "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:E1.373",
       "location": "Petah Tikva, Israel",
-      "posted_at": "2026-09-27",
+      "posted_at": "2026-09-29",
       "source": "comeet",
       "title": "Product Manager- Billing Platform",
       "track": "enterprise",
@@ -245,7 +257,7 @@
     {
       "company": "Payoneer",
       "first_seen": "2026-09-29",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:payoneer:8211169",
       "location": "Herzliya, Tel Aviv District, Israel",
       "posted_at": "2026-09-29",
