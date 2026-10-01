@@ -1,6 +1,6 @@
 {
-  "count": 34,
-  "generated_at": "2026-10-01T11:21:14+00:00",
+  "count": 32,
+  "generated_at": "2026-10-01T18:42:22+00:00",
   "jobs": [
     {
       "company": "Autodesk Israel",
@@ -61,18 +61,6 @@
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/coralogix/06.004/senior-product-manager---cybersecurity--ai/9D.F6D"
-    },
-    {
-      "company": "DriveNets",
-      "first_seen": "2026-08-18",
-      "is_new": false,
-      "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:F4.07C",
-      "location": "Raanana, Israel",
-      "posted_at": "2026-09-16",
-      "source": "comeet",
-      "title": "Senior Product Manager - Switch Hardware AI Networking",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-product-manager---switch-hardware-ai-networking/F4.07C"
     },
     {
       "company": "Finubit",
@@ -349,18 +337,6 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-product-manager/99.667"
-    },
-    {
-      "company": "Similarweb",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:similarweb:7508300",
-      "location": "Tel Aviv, Israel",
-      "posted_at": "2026-04-29",
-      "source": "greenhouse",
-      "title": "Senior Data Product Manager- Retail Intelligence",
-      "track": "hightech",
-      "url": "https://job-boards.greenhouse.io/similarweb/jobs/7508300"
     },
     {
       "company": "Trigo",

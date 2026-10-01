@@ -282,7 +282,7 @@
       "description": "אינטליגנציה דיגיטלית וניתוח תנועת אתרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Similarweb",
       "track": "hightech"
     },
@@ -942,7 +942,7 @@
       "description": "תוכנת רשת cloud-native לספקי תקשורת",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "DriveNets",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-01T11:21:14+00:00",
+  "generated_at": "2026-10-01T18:42:22+00:00",
   "scanned_count": 93
 }
