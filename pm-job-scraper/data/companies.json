@@ -1327,7 +1327,7 @@
       "description": "זרוע פינטק/דיגיטל מבית בנק לאומי",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Finubit",
       "track": "enterprise"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-03T16:58:05+00:00",
+  "generated_at": "2026-10-04T10:53:13+00:00",
   "scanned_count": 93
 }
