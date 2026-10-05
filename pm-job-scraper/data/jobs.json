@@ -1,6 +1,6 @@
 {
   "count": 32,
-  "generated_at": "2026-10-04T17:16:44+00:00",
+  "generated_at": "2026-10-05T12:02:38+00:00",
   "jobs": [
     {
       "company": "Autodesk Israel",
@@ -32,7 +32,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "source": "comeet",
       "title": "Senior AI Product Manager",
       "track": "hightech",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -56,7 +56,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-09-27",
+      "posted_at": "2026-10-05",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -224,7 +224,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "source": "comeet",
       "title": "Product Manager",
       "track": "enterprise",
@@ -292,18 +292,6 @@
     },
     {
       "company": "Playtika",
-      "first_seen": "2026-10-04",
-      "is_new": true,
-      "job_id": "greenhouse:playtikaltd:4988423101",
-      "location": "Herzliya",
-      "posted_at": "2026-10-04",
-      "source": "greenhouse",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://www.playtika.com/position/?gh_jid=4988423101"
-    },
-    {
-      "company": "Playtika",
       "first_seen": "2026-08-23",
       "is_new": false,
       "job_id": "greenhouse:playtikaltd:4230162101",
@@ -315,12 +303,24 @@
       "url": "https://www.playtika.com/position/?gh_jid=4230162101"
     },
     {
+      "company": "Playtika",
+      "first_seen": "2026-10-04",
+      "is_new": false,
+      "job_id": "greenhouse:playtikaltd:4988423101",
+      "location": "Herzliya",
+      "posted_at": "2026-10-05",
+      "source": "greenhouse",
+      "title": "Product Manager - Maternity leave replacement ",
+      "track": "hightech",
+      "url": "https://www.playtika.com/position/?gh_jid=4988423101"
+    },
+    {
       "company": "Port",
       "first_seen": "2026-06-04",
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -344,7 +344,7 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-10-04",
+      "posted_at": "2026-10-05",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -387,5 +387,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
