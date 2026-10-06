@@ -1,6 +1,6 @@
 {
-  "count": 35,
-  "generated_at": "2026-10-06T11:41:13+00:00",
+  "count": 36,
+  "generated_at": "2026-10-06T18:46:32+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:AE.079",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "source": "comeet",
       "title": "Senior AI Product Manager",
       "track": "hightech",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -351,9 +351,21 @@
       "url": "https://www.comeet.com/jobs/riverside-fm/66.009/senior-product-manager/99.667"
     },
     {
-      "company": "Taboola",
+      "company": "Similarweb",
       "first_seen": "2026-10-06",
       "is_new": true,
+      "job_id": "greenhouse:similarweb:8258464",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-10-06",
+      "source": "greenhouse",
+      "title": "Director of Product Management -Sales Intelligence",
+      "track": "hightech",
+      "url": "https://job-boards.greenhouse.io/similarweb/jobs/8258464"
+    },
+    {
+      "company": "Taboola",
+      "first_seen": "2026-10-06",
+      "is_new": false,
       "job_id": "greenhouse:taboola:8236852",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-10-05",
@@ -377,7 +389,7 @@
     {
       "company": "Trullion",
       "first_seen": "2026-10-06",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:7002A00E003F002A007002A0002A002A00:78.37C",
       "location": "Tel Aviv",
       "posted_at": "2026-10-06",
@@ -404,7 +416,7 @@
       "is_new": false,
       "job_id": "comeet:6F329B2DE6379829B229B2037983E8B3E8B:14.079",
       "location": "Israel - Tel Aviv",
-      "posted_at": "2026-10-01",
+      "posted_at": "2026-10-06",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -423,5 +435,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 2
+  "new_count": 1
 }

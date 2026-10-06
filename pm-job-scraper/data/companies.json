@@ -282,7 +282,7 @@
       "description": "אינטליגנציה דיגיטלית וניתוח תנועת אתרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Similarweb",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-06T11:41:13+00:00",
+  "generated_at": "2026-10-06T18:46:32+00:00",
   "scanned_count": 93
 }
