@@ -238,7 +238,7 @@
       "description": "אוטומציה חשבונאית מבוססת AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Trullion",
       "track": "hightech"
     },
@@ -249,7 +249,7 @@
       "description": "פלטפורמת המלצות תוכן ופרסום (discovery)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Taboola",
       "track": "hightech"
     },
@@ -667,7 +667,7 @@
       "description": "ניתוח דימות רפואי (רדיולוגיה) מבוסס AI",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Aidoc",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-05T12:02:38+00:00",
+  "generated_at": "2026-10-06T11:41:13+00:00",
   "scanned_count": 93
 }
