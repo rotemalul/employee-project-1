@@ -1,6 +1,6 @@
 {
-  "count": 36,
-  "generated_at": "2026-10-07T11:30:10+00:00",
+  "count": 37,
+  "generated_at": "2026-10-07T19:12:58+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -13,6 +13,18 @@
       "title": " Director of Product Design",
       "track": "hightech",
       "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/4951044101"
+    },
+    {
+      "company": "AppsFlyer",
+      "first_seen": "2026-10-07",
+      "is_new": true,
+      "job_id": "greenhouse:appsflyer:8874566002",
+      "location": "Herzliya",
+      "posted_at": "2026-10-07",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://careers.appsflyer.com/jobs/position/8874566002?gh_jid=8874566002"
     },
     {
       "company": "Autodesk Israel",
@@ -104,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-10-07",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -176,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-10-07",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -392,7 +404,7 @@
       "is_new": false,
       "job_id": "comeet:7002A00E003F002A007002A0002A002A00:78.37C",
       "location": "Tel Aviv",
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-10-07",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -435,5 +447,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
