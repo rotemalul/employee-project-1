@@ -1,6 +1,6 @@
 {
   "count": 38,
-  "generated_at": "2026-10-08T11:46:20+00:00",
+  "generated_at": "2026-10-08T19:08:37+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -68,7 +68,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-08",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -80,7 +80,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-07",
+      "posted_at": "2026-10-08",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -89,7 +89,7 @@
     {
       "company": "DriveNets",
       "first_seen": "2026-10-08",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:9A.37C",
       "location": "Raanana, Israel",
       "posted_at": "2026-10-07",
@@ -140,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-07",
+      "posted_at": "2026-10-08",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -459,5 +459,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
