@@ -1,6 +1,6 @@
 {
   "count": 39,
-  "generated_at": "2026-10-11T11:11:36+00:00",
+  "generated_at": "2026-10-11T17:54:42+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-07",
+      "posted_at": "2026-10-11",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -200,7 +200,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-10-10",
+      "posted_at": "2026-10-11",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -293,7 +293,7 @@
     {
       "company": "Payoneer",
       "first_seen": "2026-10-11",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:payoneer:7361831",
       "location": "Herzliya, Tel Aviv District, Israel",
       "posted_at": "2026-10-11",
@@ -368,7 +368,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-10-08",
+      "posted_at": "2026-10-11",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -416,11 +416,11 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-10-09",
+      "posted_at": "2026-10-11",
       "source": "comeet",
-      "title": "Senior Product Manager",
+      "title": "Technical Product Manager",
       "track": "hightech",
-      "url": "https://www.comeet.com/jobs/trigo/A6.005/senior-product-manager/0B.E46"
+      "url": "https://www.comeet.com/jobs/trigo/A6.005/technical-product-manager/0B.E46"
     },
     {
       "company": "Trullion",
@@ -452,7 +452,7 @@
       "is_new": false,
       "job_id": "comeet:6F329B2DE6379829B229B2037983E8B3E8B:14.079",
       "location": "Israel - Tel Aviv",
-      "posted_at": "2026-10-08",
+      "posted_at": "2026-10-11",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -471,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
