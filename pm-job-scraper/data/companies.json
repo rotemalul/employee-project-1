@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 4,
+      "jobs_count": 5,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-10T17:37:13+00:00",
+  "generated_at": "2026-10-11T11:11:36+00:00",
   "scanned_count": 93
 }
