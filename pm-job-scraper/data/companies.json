@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 5,
+      "jobs_count": 3,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -282,7 +282,7 @@
       "description": "אינטליגנציה דיגיטלית וניתוח תנועת אתרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "Similarweb",
       "track": "hightech"
     },
@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-11T17:54:42+00:00",
+  "generated_at": "2026-10-12T21:33:15+00:00",
   "scanned_count": 93
 }
