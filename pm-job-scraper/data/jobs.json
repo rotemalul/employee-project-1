@@ -1,6 +1,6 @@
 {
-  "count": 37,
-  "generated_at": "2026-10-14T09:55:20+00:00",
+  "count": 39,
+  "generated_at": "2026-10-14T17:47:16+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -248,7 +248,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "source": "comeet",
       "title": "Product Manager",
       "track": "enterprise",
@@ -332,7 +332,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -373,6 +373,30 @@
       "title": "Director of Product Management -Sales Intelligence",
       "track": "hightech",
       "url": "https://job-boards.greenhouse.io/similarweb/jobs/8258464"
+    },
+    {
+      "company": "Similarweb",
+      "first_seen": "2026-10-14",
+      "is_new": true,
+      "job_id": "greenhouse:similarweb:8281070",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-10-14",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, AI-Native Platform",
+      "track": "hightech",
+      "url": "https://job-boards.greenhouse.io/similarweb/jobs/8281070"
+    },
+    {
+      "company": "Taboola",
+      "first_seen": "2026-10-14",
+      "is_new": true,
+      "job_id": "greenhouse:taboola:8273430",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-10-14",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://www.taboola.com/careers/job/8273430?gh_jid=8273430"
     },
     {
       "company": "Taboola",
@@ -447,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 2
 }
