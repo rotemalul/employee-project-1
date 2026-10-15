@@ -535,7 +535,7 @@
       "description": "פלטפורמת תצפיתיות, לוגים ומוניטורינג",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "Coralogix",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-15T09:35:28+00:00",
+  "generated_at": "2026-10-15T17:36:01+00:00",
   "scanned_count": 93
 }

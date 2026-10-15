@@ -1,6 +1,6 @@
 {
-  "count": 39,
-  "generated_at": "2026-10-15T09:35:28+00:00",
+  "count": 38,
+  "generated_at": "2026-10-15T17:36:01+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -49,18 +49,6 @@
       "title": "Product Manager (Contractor for 6 months)",
       "track": "hightech",
       "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101390-1"
-    },
-    {
-      "company": "Coralogix",
-      "first_seen": "2026-08-23",
-      "is_new": false,
-      "job_id": "comeet:604241801E141E1460430200604604:AE.079",
-      "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-15",
-      "source": "comeet",
-      "title": "Senior AI Product Manager",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/coralogix/06.004/senior-ai-product-manager/AE.079"
     },
     {
       "company": "Coralogix",
@@ -332,7 +320,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-15",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -416,7 +404,7 @@
       "is_new": false,
       "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
       "location": "Israel",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-15",
       "source": "comeet",
       "title": "Technical Product Manager",
       "track": "hightech",
