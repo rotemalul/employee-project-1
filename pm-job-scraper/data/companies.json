@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 4,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -1149,7 +1149,7 @@
       "careers_url": "https://careers.pypl.com/home/",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב ובבאר שבע",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "PayPal Israel",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-17T16:06:56+00:00",
+  "generated_at": "2026-10-18T09:18:51+00:00",
   "scanned_count": 93
 }
