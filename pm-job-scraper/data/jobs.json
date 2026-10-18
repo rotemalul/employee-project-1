@@ -1,6 +1,6 @@
 {
-  "count": 39,
-  "generated_at": "2026-10-18T09:18:51+00:00",
+  "count": 38,
+  "generated_at": "2026-10-18T16:20:38+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -128,7 +128,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-17",
+      "posted_at": "2026-10-18",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -257,7 +257,7 @@
     {
       "company": "Payoneer",
       "first_seen": "2026-10-18",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:payoneer:8284597",
       "location": "Herzliya, Tel Aviv District, Israel",
       "posted_at": "2026-10-18",
@@ -301,18 +301,6 @@
       "title": "Senior Product Manager  ",
       "track": "hightech",
       "url": "https://www.payoneer.com/careers/position/3999096/?gh_jid=3999096"
-    },
-    {
-      "company": "Playtika",
-      "first_seen": "2026-08-23",
-      "is_new": false,
-      "job_id": "greenhouse:playtikaltd:4230162101",
-      "location": "Herzliya",
-      "posted_at": "2026-09-15",
-      "source": "greenhouse",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://www.playtika.com/position/?gh_jid=4230162101"
     },
     {
       "company": "Playtika",
@@ -471,5 +459,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
