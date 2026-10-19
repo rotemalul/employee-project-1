@@ -1,6 +1,6 @@
 {
   "count": 39,
-  "generated_at": "2026-10-19T10:28:52+00:00",
+  "generated_at": "2026-10-19T18:58:48+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -68,7 +68,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -248,7 +248,7 @@
       "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:E1.373",
       "location": "Petah Tikva, Israel",
-      "posted_at": "2026-10-18",
+      "posted_at": "2026-10-19",
       "source": "comeet",
       "title": "Product Manager- Billing Platform",
       "track": "enterprise",
@@ -380,7 +380,7 @@
       "is_new": false,
       "job_id": "greenhouse:taboola:8273430",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-10-14",
+      "posted_at": "2026-10-19",
       "source": "greenhouse",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -389,7 +389,7 @@
     {
       "company": "Taboola",
       "first_seen": "2026-10-19",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:taboola:8278521",
       "location": "Tel Aviv, Israel",
       "posted_at": "2026-10-19",
@@ -404,7 +404,7 @@
       "is_new": false,
       "job_id": "greenhouse:taboola:8236852",
       "location": "Tel Aviv, Israel",
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-19",
       "source": "greenhouse",
       "title": "Senior Product Manager - Platform Experience & AI",
       "track": "hightech",
@@ -471,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
