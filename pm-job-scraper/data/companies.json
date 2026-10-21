@@ -348,7 +348,7 @@
       "description": "שוק מקוון לשירותי פרילנס",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Fiverr",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-21T09:49:20+00:00",
+  "generated_at": "2026-10-21T17:51:28+00:00",
   "scanned_count": 93
 }
