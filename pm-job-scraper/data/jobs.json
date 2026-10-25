@@ -1,6 +1,6 @@
 {
-  "count": 38,
-  "generated_at": "2026-10-25T09:34:14+00:00",
+  "count": 39,
+  "generated_at": "2026-10-25T16:58:09+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-24",
+      "posted_at": "2026-10-25",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-22",
+      "posted_at": "2026-10-25",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -265,6 +265,18 @@
       "title": "Principal Product Manager - AI Agent Platform",
       "track": "hightech",
       "url": "https://www.payoneer.com/careers/position/8211169/?gh_jid=8211169"
+    },
+    {
+      "company": "Payoneer",
+      "first_seen": "2026-10-25",
+      "is_new": true,
+      "job_id": "greenhouse:payoneer:8258564",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "posted_at": "2026-10-25",
+      "source": "greenhouse",
+      "title": "Senior Data Product Manager",
+      "track": "hightech",
+      "url": "https://www.payoneer.com/careers/position/8258564/?gh_jid=8258564"
     },
     {
       "company": "Payoneer",
@@ -459,5 +471,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
