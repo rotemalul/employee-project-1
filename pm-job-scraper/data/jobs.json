@@ -1,6 +1,6 @@
 {
-  "count": 39,
-  "generated_at": "2026-10-26T10:55:11+00:00",
+  "count": 40,
+  "generated_at": "2026-10-26T19:01:44+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -56,7 +56,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-25",
+      "posted_at": "2026-10-26",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -188,7 +188,7 @@
       "is_new": false,
       "job_id": "greenhouse:tripactions:7522825",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-10-26",
       "source": "greenhouse",
       "title": " Senior Product Manager",
       "track": "hightech",
@@ -200,11 +200,23 @@
       "is_new": false,
       "job_id": "greenhouse:tripactions:8160539",
       "location": "Tel-Aviv, Israel",
-      "posted_at": "2026-08-31",
+      "posted_at": "2026-10-26",
       "source": "greenhouse",
       "title": "Product Manager - Book with AI",
       "track": "hightech",
       "url": "https://navan.com/careers/openings?gh_jid=8160539"
+    },
+    {
+      "company": "Navan",
+      "first_seen": "2026-10-26",
+      "is_new": true,
+      "job_id": "greenhouse:tripactions:8314104",
+      "location": "Tel-Aviv, Israel",
+      "posted_at": "2026-10-26",
+      "source": "greenhouse",
+      "title": "Senior Product Manager, Flights",
+      "track": "hightech",
+      "url": "https://navan.com/careers/openings?gh_jid=8314104"
     },
     {
       "company": "NICE",
@@ -376,18 +388,6 @@
     },
     {
       "company": "Taboola",
-      "first_seen": "2026-10-14",
-      "is_new": false,
-      "job_id": "greenhouse:taboola:8273430",
-      "location": "Tel Aviv, Israel",
-      "posted_at": "2026-10-19",
-      "source": "greenhouse",
-      "title": "Senior Product Manager",
-      "track": "hightech",
-      "url": "https://www.taboola.com/careers/job/8273430?gh_jid=8273430"
-    },
-    {
-      "company": "Taboola",
       "first_seen": "2026-10-19",
       "is_new": false,
       "job_id": "greenhouse:taboola:8278521",
@@ -397,6 +397,18 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.taboola.com/careers/job/8278521?gh_jid=8278521"
+    },
+    {
+      "company": "Taboola",
+      "first_seen": "2026-10-14",
+      "is_new": false,
+      "job_id": "greenhouse:taboola:8273430",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-10-26",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://www.taboola.com/careers/job/8273430?gh_jid=8273430"
     },
     {
       "company": "Taboola",
@@ -428,7 +440,7 @@
       "is_new": false,
       "job_id": "comeet:7002A00E003F002A007002A0002A002A00:78.37C",
       "location": "Tel Aviv",
-      "posted_at": "2026-10-25",
+      "posted_at": "2026-10-26",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -471,5 +483,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
