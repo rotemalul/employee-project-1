@@ -1,6 +1,6 @@
 {
   "count": 40,
-  "generated_at": "2026-10-27T10:12:16+00:00",
+  "generated_at": "2026-10-27T18:32:50+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -152,7 +152,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-10-21",
+      "posted_at": "2026-10-27",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -388,18 +388,6 @@
     },
     {
       "company": "Taboola",
-      "first_seen": "2026-10-19",
-      "is_new": false,
-      "job_id": "greenhouse:taboola:8278521",
-      "location": "Tel Aviv, Israel",
-      "posted_at": "2026-10-19",
-      "source": "greenhouse",
-      "title": "Senior Product Manager",
-      "track": "hightech",
-      "url": "https://www.taboola.com/careers/job/8278521?gh_jid=8278521"
-    },
-    {
-      "company": "Taboola",
       "first_seen": "2026-10-14",
       "is_new": false,
       "job_id": "greenhouse:taboola:8273430",
@@ -409,6 +397,18 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.taboola.com/careers/job/8273430?gh_jid=8273430"
+    },
+    {
+      "company": "Taboola",
+      "first_seen": "2026-10-19",
+      "is_new": false,
+      "job_id": "greenhouse:taboola:8278521",
+      "location": "Tel Aviv, Israel",
+      "posted_at": "2026-10-19",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://www.taboola.com/careers/job/8278521?gh_jid=8278521"
     },
     {
       "company": "Taboola",
