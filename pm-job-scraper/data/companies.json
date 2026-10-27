@@ -1116,7 +1116,7 @@
       "careers_url": "https://jobs.intel.com/en/search-jobs/Israel",
       "category": "multinational",
       "description": "פיתוח ושבבים (חיפה, פתח תקווה, ירושלים)",
-      "error": true,
+      "error": false,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Intel Israel",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-26T19:01:44+00:00",
+  "generated_at": "2026-10-27T10:12:16+00:00",
   "scanned_count": 93
 }

@@ -1,6 +1,6 @@
 {
   "count": 40,
-  "generated_at": "2026-10-26T19:01:44+00:00",
+  "generated_at": "2026-10-27T10:12:16+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -56,7 +56,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:9D.F6D",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "source": "comeet",
       "title": "Senior Product Manager - Cybersecurity & AI",
       "track": "hightech",
@@ -209,7 +209,7 @@
     {
       "company": "Navan",
       "first_seen": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:tripactions:8314104",
       "location": "Tel-Aviv, Israel",
       "posted_at": "2026-10-26",
@@ -236,7 +236,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-10-26",
+      "posted_at": "2026-10-27",
       "source": "comeet",
       "title": "Product Manager",
       "track": "enterprise",
@@ -483,5 +483,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
