@@ -1,6 +1,6 @@
 {
-  "count": 39,
-  "generated_at": "2026-10-29T11:16:16+00:00",
+  "count": 41,
+  "generated_at": "2026-10-29T18:47:52+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -123,6 +123,18 @@
       "url": "https://www.comeet.com/jobs/global-e/62.002/senior-product-manager---finance/BC.077"
     },
     {
+      "company": "Global-e",
+      "first_seen": "2026-10-29",
+      "is_new": true,
+      "job_id": "comeet:262988131015727264C41572E4C10AE10AE:69.474",
+      "location": "Israel, Petah Tikva",
+      "posted_at": "2026-10-29",
+      "source": "comeet",
+      "title": "Senior Product Manager - Post-Purchase",
+      "track": "hightech",
+      "url": "https://www.comeet.com/jobs/global-e/62.002/senior-product-manager---post-purchase/69.474"
+    },
+    {
       "company": "JFrog",
       "first_seen": "2026-08-05",
       "is_new": false,
@@ -145,6 +157,18 @@
       "title": "Principal Product Manager -  Business Applications",
       "track": "hightech",
       "url": "https://join.jfrog.com/job/?job=8169233&gh_jid=8169233"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-10-29",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:8312198",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-10-29",
+      "source": "greenhouse",
+      "title": "Product Manager ",
+      "track": "hightech",
+      "url": "https://join.jfrog.com/job/?job=8312198&gh_jid=8312198"
     },
     {
       "company": "Kaltura",
@@ -471,5 +495,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 0
+  "new_count": 2
 }
