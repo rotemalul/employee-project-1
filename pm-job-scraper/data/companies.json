@@ -117,7 +117,7 @@
       "description": "תשלומים B2B לעסקים קטנים ובינוניים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Melio",
       "track": "hightech"
     },
@@ -324,7 +324,7 @@
       "careers_url": "https://www.innovid.com/careers/",
       "category": "adtech",
       "description": "פלטפורמת פרסום ומדידה לטלוויזיה מחוברת (CTV)",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Innovid",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-28T18:38:48+00:00",
+  "generated_at": "2026-10-29T11:16:16+00:00",
   "scanned_count": 93
 }
