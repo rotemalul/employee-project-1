@@ -324,7 +324,7 @@
       "careers_url": "https://www.innovid.com/careers/",
       "category": "adtech",
       "description": "פלטפורמת פרסום ומדידה לטלוויזיה מחוברת (CTV)",
-      "error": true,
+      "error": false,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Innovid",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-10-30T18:23:41+00:00",
+  "generated_at": "2026-10-31T10:44:19+00:00",
   "scanned_count": 93
 }
