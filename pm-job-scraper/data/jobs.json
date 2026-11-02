@@ -1,6 +1,6 @@
 {
-  "count": 40,
-  "generated_at": "2026-11-02T13:03:44+00:00",
+  "count": 38,
+  "generated_at": "2026-11-02T22:06:01+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-10-30",
+      "posted_at": "2026-11-02",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -207,16 +207,16 @@
       "url": "https://navan.com/careers/openings?gh_jid=8314104"
     },
     {
-      "company": "NICE",
-      "first_seen": "2026-07-19",
-      "is_new": false,
-      "job_id": "greenhouse:nice:4911286101",
-      "location": "Israel - Raanana",
+      "company": "ONE ZERO",
+      "first_seen": "2026-11-02",
+      "is_new": true,
+      "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:2B.47D",
+      "location": "Tel-Aviv",
       "posted_at": "2026-11-02",
-      "source": "greenhouse",
-      "title": "Senior Product Manager, AI",
-      "track": "hightech",
-      "url": "https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101"
+      "source": "comeet",
+      "title": "Marketing Automation & GTM Specialist",
+      "track": "enterprise",
+      "url": "https://www.comeet.com/jobs/onezerobank/36.00A/marketing-automation--gtm-specialist/2B.47D"
     },
     {
       "company": "ONE ZERO",
@@ -245,7 +245,7 @@
     {
       "company": "Pango",
       "first_seen": "2026-11-02",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:CA.47A",
       "location": "Petah Tikva, Israel",
       "posted_at": "2026-11-02",
@@ -421,30 +421,6 @@
       "title": "Senior Product Manager - Platform Experience & AI",
       "track": "hightech",
       "url": "https://www.taboola.com/careers/job/8236852?gh_jid=8236852"
-    },
-    {
-      "company": "Trigo",
-      "first_seen": "2026-06-17",
-      "is_new": false,
-      "job_id": "comeet:6A527DED4A6A52E8321396A503528D4A:0B.E46",
-      "location": "Israel",
-      "posted_at": "2026-10-15",
-      "source": "comeet",
-      "title": "Technical Product Manager",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/trigo/A6.005/technical-product-manager/0B.E46"
-    },
-    {
-      "company": "Trullion",
-      "first_seen": "2026-10-06",
-      "is_new": false,
-      "job_id": "comeet:7002A00E003F002A007002A0002A002A00:78.37C",
-      "location": "Tel Aviv",
-      "posted_at": "2026-11-02",
-      "source": "comeet",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://www.comeet.com/jobs/trullion/07.000/product-manager/78.37C"
     },
     {
       "company": "VAST Data",
