@@ -29,7 +29,7 @@
       "description": "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "WalkMe",
       "track": "hightech"
     },
@@ -324,7 +324,7 @@
       "careers_url": "https://www.innovid.com/careers/",
       "category": "adtech",
       "description": "פלטפורמת פרסום ומדידה לטלוויזיה מחוברת (CTV)",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Innovid",
@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -1149,7 +1149,7 @@
       "careers_url": "https://careers.pypl.com/home/",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב ובבאר שבע",
-      "error": true,
+      "error": false,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "PayPal Israel",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-04T12:45:10+00:00",
+  "generated_at": "2026-11-04T20:16:04+00:00",
   "scanned_count": 93
 }
