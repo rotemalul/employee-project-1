@@ -403,7 +403,7 @@
       "description": "תשלומים, טלמטריה ו-IoT לקמעונאות ומכונות",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Nayax",
       "track": "hightech"
     },
@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 3,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-04T20:16:04+00:00",
+  "generated_at": "2026-11-05T12:55:47+00:00",
   "scanned_count": 93
 }
