@@ -1,6 +1,6 @@
 {
-  "count": 43,
-  "generated_at": "2026-11-05T12:55:47+00:00",
+  "count": 44,
+  "generated_at": "2026-11-05T20:28:25+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-11-03",
+      "posted_at": "2026-11-05",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -133,6 +133,18 @@
       "title": "Senior Product Manager - Post-Purchase",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/global-e/62.002/senior-product-manager---post-purchase/69.474"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-11-05",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:8349023",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-11-05",
+      "source": "greenhouse",
+      "title": "HR Tech Product Manager",
+      "track": "hightech",
+      "url": "https://join.jfrog.com/job/?job=8349023&gh_jid=8349023"
     },
     {
       "company": "JFrog",
@@ -221,7 +233,7 @@
     {
       "company": "Nayax",
       "first_seen": "2026-11-05",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:319F7D319C641BE11BE131963231915AF:AC.478",
       "location": "Israel",
       "posted_at": "2026-11-05",
