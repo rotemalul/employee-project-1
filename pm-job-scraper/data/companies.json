@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 4,
+      "jobs_count": 3,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-07T11:28:50+00:00",
+  "generated_at": "2026-11-07T17:57:34+00:00",
   "scanned_count": 93
 }

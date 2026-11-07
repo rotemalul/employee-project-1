@@ -1,6 +1,6 @@
 {
-  "count": 44,
-  "generated_at": "2026-11-07T11:28:50+00:00",
+  "count": 43,
+  "generated_at": "2026-11-07T17:57:34+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -171,18 +171,6 @@
       "url": "https://join.jfrog.com/job/?job=8169233&gh_jid=8169233"
     },
     {
-      "company": "JFrog",
-      "first_seen": "2026-10-29",
-      "is_new": false,
-      "job_id": "greenhouse:jfrog:8312198",
-      "location": "Tel Aviv/ Netanya, Israel",
-      "posted_at": "2026-11-05",
-      "source": "greenhouse",
-      "title": "Product Manager, Artifactory Packages",
-      "track": "hightech",
-      "url": "https://join.jfrog.com/job/?job=8312198&gh_jid=8312198"
-    },
-    {
       "company": "Kaltura",
       "first_seen": "2026-06-24",
       "is_new": false,
@@ -272,7 +260,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-11-05",
+      "posted_at": "2026-11-07",
       "source": "comeet",
       "title": "Product Manager",
       "track": "enterprise",
@@ -392,7 +380,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-11-05",
+      "posted_at": "2026-11-07",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
