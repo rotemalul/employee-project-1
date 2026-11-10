@@ -1,6 +1,6 @@
 {
-  "count": 46,
-  "generated_at": "2026-11-10T13:12:52+00:00",
+  "count": 47,
+  "generated_at": "2026-11-10T20:11:31+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-11-10",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -65,7 +65,7 @@
     {
       "company": "DriveNets",
       "first_seen": "2026-11-10",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:AF.470",
       "location": "Tel Aviv- Toha",
       "posted_at": "2026-11-10",
@@ -89,7 +89,7 @@
     {
       "company": "DriveNets",
       "first_seen": "2026-11-10",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:6E.477",
       "location": "Tel Aviv- Toha",
       "posted_at": "2026-11-10",
@@ -188,7 +188,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-11-09",
+      "posted_at": "2026-11-10",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -200,7 +200,7 @@
       "is_new": false,
       "job_id": "comeet:695277ED2A020E9277E69534A81A54277E:48.963",
       "location": "Tel Aviv",
-      "posted_at": "2026-11-09",
+      "posted_at": "2026-11-10",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -248,7 +248,7 @@
       "is_new": false,
       "job_id": "comeet:319F7D319C641BE11BE131963231915AF:AC.478",
       "location": "Israel",
-      "posted_at": "2026-11-08",
+      "posted_at": "2026-11-10",
       "source": "comeet",
       "title": "Product Manager – Unattended Retail",
       "track": "hightech",
@@ -296,7 +296,7 @@
       "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:DA.47B",
       "location": "Petah Tikva, Israel",
-      "posted_at": "2026-11-09",
+      "posted_at": "2026-11-10",
       "source": "comeet",
       "title": "Marketing Automation Team Lead",
       "track": "enterprise",
@@ -320,11 +320,23 @@
       "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:CA.47A",
       "location": "Petah Tikva, Israel",
-      "posted_at": "2026-11-07",
+      "posted_at": "2026-11-10",
       "source": "comeet",
       "title": "Technical Program Manager",
       "track": "enterprise",
       "url": "https://www.comeet.com/jobs/pango/59.002/technical-program-manager/CA.47A"
+    },
+    {
+      "company": "Payoneer",
+      "first_seen": "2026-11-10",
+      "is_new": true,
+      "job_id": "greenhouse:payoneer:8355118",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "posted_at": "2026-11-10",
+      "source": "greenhouse",
+      "title": "Director of Product Manegement - MIS",
+      "track": "hightech",
+      "url": "https://www.payoneer.com/careers/position/8355118/?gh_jid=8355118"
     },
     {
       "company": "Payoneer",
@@ -555,5 +567,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 2
+  "new_count": 1
 }
