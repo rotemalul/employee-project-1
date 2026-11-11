@@ -1,6 +1,6 @@
 {
   "count": 49,
-  "generated_at": "2026-11-11T12:22:29+00:00",
+  "generated_at": "2026-11-11T20:00:00+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -44,7 +44,7 @@
       "is_new": false,
       "job_id": "comeet:604241801E141E1460430200604604:85.F67",
       "location": "Ramat Gan, Israel",
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-11",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -77,7 +77,7 @@
     {
       "company": "DriveNets",
       "first_seen": "2026-11-11",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:40.572",
       "location": "Tel Aviv- Toha",
       "posted_at": "2026-11-10",
@@ -89,7 +89,7 @@
     {
       "company": "DriveNets",
       "first_seen": "2026-11-11",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:90.57A",
       "location": "Tel Aviv- Tozeret Haaretz",
       "posted_at": "2026-11-11",
@@ -591,5 +591,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 2
+  "new_count": 0
 }
