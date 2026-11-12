@@ -1,6 +1,6 @@
 {
   "count": 49,
-  "generated_at": "2026-11-12T13:33:25+00:00",
+  "generated_at": "2026-11-12T20:39:22+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -29,7 +29,7 @@
     {
       "company": "AppsFlyer",
       "first_seen": "2026-11-12",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:appsflyer:8938973002",
       "location": "Herzliya",
       "posted_at": "2026-11-12",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-12",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -591,5 +591,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
