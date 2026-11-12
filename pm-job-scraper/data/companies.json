@@ -271,7 +271,7 @@
       "description": "מדידת ביצועים ואטריביושן לאפליקציות מובייל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "AppsFlyer",
       "track": "hightech"
     },
@@ -557,7 +557,7 @@
       "description": "ניהול ופתרון תקלות ב-Kubernetes",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Komodor",
       "track": "hightech"
     },
@@ -610,7 +610,7 @@
       "careers_url": "https://www.tabnine.com/careers",
       "category": "devtools",
       "description": "השלמת קוד ועוזר פיתוח מבוסס AI",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "Tabnine",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-11T20:00:00+00:00",
+  "generated_at": "2026-11-12T13:33:25+00:00",
   "scanned_count": 93
 }
