@@ -1204,7 +1204,7 @@
       "careers_url": "https://www.redhat.com/en/jobs",
       "category": "multinational",
       "description": "מרכז פיתוח (רעננה) — קוד פתוח וענן",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Red Hat Israel",
@@ -1270,7 +1270,7 @@
       "careers_url": "https://search-careers.gm.com/en/jobs/",
       "category": "multinational",
       "description": "מרכז טכנולוגי בהרצליה (רכב חכם)",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "General Motors Israel",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-13T12:47:19+00:00",
+  "generated_at": "2026-11-13T20:18:45+00:00",
   "scanned_count": 93
 }
