@@ -1,6 +1,6 @@
 {
   "count": 49,
-  "generated_at": "2026-11-15T12:26:33+00:00",
+  "generated_at": "2026-11-15T19:15:04+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -17,7 +17,7 @@
     {
       "company": "Aidoc",
       "first_seen": "2026-11-15",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:aidocmedical:5034843101",
       "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
       "posted_at": "2026-11-15",
@@ -92,7 +92,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:AF.470",
       "location": "Tel Aviv- Toha",
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-15",
       "source": "comeet",
       "title": "Product Manager, AI Factories Orchestration, Agent Harness",
       "track": "hightech",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:40.572",
       "location": "Tel Aviv- Toha",
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-15",
       "source": "comeet",
       "title": "Product Manager, AI Factories Spatial Planning Tool",
       "track": "hightech",
@@ -140,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:6E.477",
       "location": "Tel Aviv- Toha",
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-15",
       "source": "comeet",
       "title": "Senior Product Manager, AI Factories Provisioning and Orchestration",
       "track": "hightech",
@@ -428,7 +428,7 @@
       "is_new": false,
       "job_id": "greenhouse:playtikaltd:5018983101",
       "location": "Israel",
-      "posted_at": "2026-11-04",
+      "posted_at": "2026-11-15",
       "source": "greenhouse",
       "title": "Product Manager",
       "track": "hightech",
@@ -591,5 +591,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
