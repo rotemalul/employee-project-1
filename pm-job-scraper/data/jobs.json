@@ -1,6 +1,6 @@
 {
-  "count": 47,
-  "generated_at": "2026-11-16T13:17:21+00:00",
+  "count": 48,
+  "generated_at": "2026-11-16T22:42:26+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -164,7 +164,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-11-14",
+      "posted_at": "2026-11-16",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -176,7 +176,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:69.474",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-11-15",
+      "posted_at": "2026-11-16",
       "source": "comeet",
       "title": "Senior Product Manager - Post-Purchase",
       "track": "hightech",
@@ -320,7 +320,7 @@
       "is_new": false,
       "job_id": "comeet:952413E0254895295253E295237EC53E2:CA.47A",
       "location": "Petah Tikva, Israel",
-      "posted_at": "2026-11-10",
+      "posted_at": "2026-11-16",
       "source": "comeet",
       "title": "Technical Program Manager",
       "track": "enterprise",
@@ -373,6 +373,18 @@
       "title": "Senior Data Product Manager",
       "track": "hightech",
       "url": "https://www.payoneer.com/careers/position/8258564/?gh_jid=8258564"
+    },
+    {
+      "company": "Payoneer",
+      "first_seen": "2026-11-16",
+      "is_new": true,
+      "job_id": "greenhouse:payoneer:8382958",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "posted_at": "2026-11-16",
+      "source": "greenhouse",
+      "title": "Senior Product Manager (Security) - Temporary",
+      "track": "hightech",
+      "url": "https://www.payoneer.com/careers/position/8382958/?gh_jid=8382958"
     },
     {
       "company": "Payoneer",
@@ -545,7 +557,7 @@
     {
       "company": "Wiliot",
       "first_seen": "2026-11-16",
-      "is_new": true,
+      "is_new": false,
       "job_id": "comeet:6F329B2DE6379829B229B2037983E8B3E8B:25.575",
       "location": "Israel - Tel Aviv",
       "posted_at": "2026-11-16",
