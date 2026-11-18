@@ -29,7 +29,7 @@
       "description": "פלטפורמת Digital Adoption להדרכת משתמשים בתוך תוכנה",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 2,
       "name": "WalkMe",
       "track": "hightech"
     },
@@ -1226,7 +1226,7 @@
       "careers_url": "https://www.qualcomm.com/company/careers",
       "category": "multinational",
       "description": "מרכזי פיתוח שבבים בישראל",
-      "error": true,
+      "error": false,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Qualcomm Israel",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-17T21:28:39+00:00",
+  "generated_at": "2026-11-18T13:40:34+00:00",
   "scanned_count": 93
 }
