@@ -1,6 +1,6 @@
 {
   "count": 49,
-  "generated_at": "2026-11-18T13:40:34+00:00",
+  "generated_at": "2026-11-18T21:02:50+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -104,7 +104,7 @@
       "is_new": false,
       "job_id": "comeet:2769D81626762C4E762762C4EC4E1626:90.57A",
       "location": "Tel Aviv- Tozeret Haaretz",
-      "posted_at": "2026-11-15",
+      "posted_at": "2026-11-18",
       "source": "comeet",
       "title": "Product Manager, Network Domain",
       "track": "hightech",
@@ -440,7 +440,7 @@
       "is_new": false,
       "job_id": "comeet:954414C02550414C4AA01BFC12A81BFC2550:F9.B67",
       "location": "Tel Aviv - Israel",
-      "posted_at": "2026-11-17",
+      "posted_at": "2026-11-18",
       "source": "comeet",
       "title": "Product Manager",
       "track": "hightech",
@@ -545,7 +545,7 @@
     {
       "company": "WalkMe",
       "first_seen": "2026-11-18",
-      "is_new": true,
+      "is_new": false,
       "job_id": "lever:walkme:1cb0a985-858d-4b2c-8eed-832b0e22e315",
       "location": "Tel Aviv",
       "posted_at": "2026-11-18",
@@ -591,5 +591,5 @@
       "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }
