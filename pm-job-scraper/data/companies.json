@@ -808,7 +808,7 @@
       "careers_url": "https://www.sciplay.com/careers/",
       "category": "gaming",
       "description": "משחקי קזינו חברתיים למובייל",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "SciPlay",
@@ -1204,7 +1204,7 @@
       "careers_url": "https://www.redhat.com/en/jobs",
       "category": "multinational",
       "description": "מרכז פיתוח (רעננה) — קוד פתוח וענן",
-      "error": false,
+      "error": true,
       "hq": "multinational",
       "jobs_count": 0,
       "name": "Red Hat Israel",
@@ -1215,9 +1215,9 @@
       "careers_url": "https://www.autodesk.com/careers/overview",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב",
-      "error": true,
+      "error": false,
       "hq": "multinational",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "Autodesk Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-19T21:08:01+00:00",
+  "generated_at": "2026-11-20T13:46:40+00:00",
   "scanned_count": 93
 }
