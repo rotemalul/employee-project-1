@@ -1,6 +1,6 @@
 {
-  "count": 50,
-  "generated_at": "2026-11-20T13:46:40+00:00",
+  "count": 49,
+  "generated_at": "2026-11-20T20:53:11+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -49,18 +49,6 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8874566002?gh_jid=8874566002"
-    },
-    {
-      "company": "Autodesk Israel",
-      "first_seen": "2026-09-30",
-      "is_new": false,
-      "job_id": "workday:autodesk:/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101390-1",
-      "location": "Tel Aviv, ISR",
-      "posted_at": null,
-      "source": "workday",
-      "title": "Product Manager (Contractor for 6 months)",
-      "track": "hightech",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Product-Manager--Contractor-for-6-months-_26WD101390-1"
     },
     {
       "company": "Coralogix",
@@ -152,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:62188018812631018862C4188:AB.B60",
       "location": "Tel Aviv",
-      "posted_at": "2026-11-18",
+      "posted_at": "2026-11-20",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",

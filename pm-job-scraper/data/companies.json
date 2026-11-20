@@ -1215,9 +1215,9 @@
       "careers_url": "https://www.autodesk.com/careers/overview",
       "category": "multinational",
       "description": "מרכז פיתוח בתל אביב",
-      "error": false,
+      "error": true,
       "hq": "multinational",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Autodesk Israel",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-20T13:46:40+00:00",
+  "generated_at": "2026-11-20T20:53:11+00:00",
   "scanned_count": 93
 }
