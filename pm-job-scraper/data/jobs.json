@@ -1,6 +1,6 @@
 {
-  "count": 47,
-  "generated_at": "2026-11-22T12:58:50+00:00",
+  "count": 46,
+  "generated_at": "2026-11-22T20:05:35+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -16,18 +16,6 @@
     },
     {
       "company": "AppsFlyer",
-      "first_seen": "2026-11-12",
-      "is_new": false,
-      "job_id": "greenhouse:appsflyer:8938973002",
-      "location": "Herzliya",
-      "posted_at": "2026-11-12",
-      "source": "greenhouse",
-      "title": "Senior Product Manager",
-      "track": "hightech",
-      "url": "https://careers.appsflyer.com/jobs/position/8938973002?gh_jid=8938973002"
-    },
-    {
-      "company": "AppsFlyer",
       "first_seen": "2026-10-07",
       "is_new": false,
       "job_id": "greenhouse:appsflyer:8874566002",
@@ -37,6 +25,18 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://careers.appsflyer.com/jobs/position/8874566002?gh_jid=8874566002"
+    },
+    {
+      "company": "AppsFlyer",
+      "first_seen": "2026-11-12",
+      "is_new": false,
+      "job_id": "greenhouse:appsflyer:8938973002",
+      "location": "Herzliya",
+      "posted_at": "2026-11-12",
+      "source": "greenhouse",
+      "title": "Senior Product Manager",
+      "track": "hightech",
+      "url": "https://careers.appsflyer.com/jobs/position/8938973002?gh_jid=8938973002"
     },
     {
       "company": "Coralogix",
@@ -212,7 +212,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-11-19",
+      "posted_at": "2026-11-22",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -364,18 +364,6 @@
     },
     {
       "company": "Payoneer",
-      "first_seen": "2026-11-16",
-      "is_new": false,
-      "job_id": "greenhouse:payoneer:8382958",
-      "location": "Herzliya, Tel Aviv District, Israel",
-      "posted_at": "2026-11-19",
-      "source": "greenhouse",
-      "title": "Senior Product Manager (Security) - Temporary",
-      "track": "hightech",
-      "url": "https://www.payoneer.com/careers/position/8382958/?gh_jid=8382958"
-    },
-    {
-      "company": "Payoneer",
       "first_seen": "2026-10-11",
       "is_new": false,
       "job_id": "greenhouse:payoneer:7361831",
@@ -385,6 +373,18 @@
       "title": "Senior Product Manager - Mobile App",
       "track": "hightech",
       "url": "https://www.payoneer.com/careers/position/7361831/?gh_jid=7361831"
+    },
+    {
+      "company": "Payoneer",
+      "first_seen": "2026-11-16",
+      "is_new": false,
+      "job_id": "greenhouse:payoneer:8382958",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "posted_at": "2026-11-22",
+      "source": "greenhouse",
+      "title": "Senior Product Manager - Security (replacement)",
+      "track": "hightech",
+      "url": "https://www.payoneer.com/careers/position/8382958/?gh_jid=8382958"
     },
     {
       "company": "Payoneer",
@@ -517,18 +517,6 @@
       "title": "Product Owner & Engineer",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/vastdata/43.001/product-owner--engineer/10.430"
-    },
-    {
-      "company": "WalkMe",
-      "first_seen": "2026-11-18",
-      "is_new": false,
-      "job_id": "lever:walkme:1cb0a985-858d-4b2c-8eed-832b0e22e315",
-      "location": "Tel Aviv",
-      "posted_at": "2026-11-18",
-      "source": "lever",
-      "title": "Product Manager",
-      "track": "hightech",
-      "url": "https://jobs.lever.co/walkme/1cb0a985-858d-4b2c-8eed-832b0e22e315"
     },
     {
       "company": "WalkMe",
