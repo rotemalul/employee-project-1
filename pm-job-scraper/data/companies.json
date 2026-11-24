@@ -106,7 +106,7 @@
       "description": "פתרונות תשלומים חוצי-גבולות לעסקים ופרילנסרים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 6,
+      "jobs_count": 5,
       "name": "Payoneer",
       "track": "hightech"
     },
@@ -568,7 +568,7 @@
       "description": "פורטל מפתחים פנים-ארגוני (Internal Developer Portal)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Port",
       "track": "hightech"
     },
@@ -997,7 +997,7 @@
       "description": "תוכנת ארגון לחוויית לקוח ומרכזי שירות",
       "error": false,
       "hq": "israel",
-      "jobs_count": 0,
+      "jobs_count": 1,
       "name": "NICE",
       "track": "hightech"
     },
@@ -1041,7 +1041,7 @@
       "description": "ניהול נסיעות והוצאות עסקיות (מרכז פיתוח בישראל)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 2,
       "name": "Navan",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-24T00:32:02+00:00",
+  "generated_at": "2026-11-24T15:28:19+00:00",
   "scanned_count": 93
 }
