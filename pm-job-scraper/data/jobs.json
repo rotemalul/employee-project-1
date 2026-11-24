@@ -1,6 +1,6 @@
 {
   "count": 43,
-  "generated_at": "2026-11-24T15:28:19+00:00",
+  "generated_at": "2026-11-24T22:52:43+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -257,7 +257,7 @@
     {
       "company": "NICE",
       "first_seen": "2026-11-24",
-      "is_new": true,
+      "is_new": false,
       "job_id": "greenhouse:nice:5043955101",
       "location": "Israel - Raanana",
       "posted_at": "2026-11-24",
@@ -519,5 +519,5 @@
       "url": "https://www.comeet.com/jobs/wiliot/F6.003/senior-product-manager/25.575"
     }
   ],
-  "new_count": 1
+  "new_count": 0
 }

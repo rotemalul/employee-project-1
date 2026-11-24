@@ -808,7 +808,7 @@
       "careers_url": "https://www.sciplay.com/careers/",
       "category": "gaming",
       "description": "משחקי קזינו חברתיים למובייל",
-      "error": true,
+      "error": false,
       "hq": "israel",
       "jobs_count": 0,
       "name": "SciPlay",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-24T15:28:19+00:00",
+  "generated_at": "2026-11-24T22:52:43+00:00",
   "scanned_count": 93
 }
