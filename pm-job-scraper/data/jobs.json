@@ -1,6 +1,6 @@
 {
-  "count": 46,
-  "generated_at": "2026-11-23T15:35:50+00:00",
+  "count": 45,
+  "generated_at": "2026-11-24T00:32:02+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -140,7 +140,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-11-22",
+      "posted_at": "2026-11-24",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -152,7 +152,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:BC.077",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-11-22",
+      "posted_at": "2026-11-23",
       "source": "comeet",
       "title": "Senior Product Manager - Finance",
       "track": "hightech",
@@ -541,18 +541,6 @@
       "title": "Senior Product Manager",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/wiliot/F6.003/senior-product-manager/25.575"
-    },
-    {
-      "company": "Yotpo",
-      "first_seen": "2026-06-04",
-      "is_new": false,
-      "job_id": "greenhouse:yotpo:7633905",
-      "location": "Tel Aviv",
-      "posted_at": "2026-07-19",
-      "source": "greenhouse",
-      "title": "Senior Product Manager ",
-      "track": "hightech",
-      "url": "https://www.yotpo.com/careers/gid-7633905?gh_jid=7633905"
     }
   ],
   "new_count": 0

@@ -293,7 +293,7 @@
       "description": "פלטפורמת שיווק לחנויות eCommerce",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Yotpo",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-23T15:35:50+00:00",
+  "generated_at": "2026-11-24T00:32:02+00:00",
   "scanned_count": 93
 }
