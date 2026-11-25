@@ -271,7 +271,7 @@
       "description": "מדידת ביצועים ואטריביושן לאפליקציות מובייל",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "AppsFlyer",
       "track": "hightech"
     },
@@ -348,7 +348,7 @@
       "description": "שוק מקוון לשירותי פרילנס",
       "error": false,
       "hq": "israel",
-      "jobs_count": 1,
+      "jobs_count": 0,
       "name": "Fiverr",
       "track": "hightech"
     },
@@ -808,7 +808,7 @@
       "careers_url": "https://www.sciplay.com/careers/",
       "category": "gaming",
       "description": "משחקי קזינו חברתיים למובייל",
-      "error": false,
+      "error": true,
       "hq": "israel",
       "jobs_count": 0,
       "name": "SciPlay",
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-24T22:52:43+00:00",
+  "generated_at": "2026-11-25T15:13:29+00:00",
   "scanned_count": 93
 }
