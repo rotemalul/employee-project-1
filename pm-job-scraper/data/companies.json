@@ -502,7 +502,7 @@
       "description": "פלטפורמת DevOps לניהול והפצת תוכנה (Artifactory)",
       "error": false,
       "hq": "israel",
-      "jobs_count": 3,
+      "jobs_count": 4,
       "name": "JFrog",
       "track": "hightech"
     },
@@ -777,7 +777,7 @@
       "description": "פיתוח והפעלה של משחקי מובייל חברתיים",
       "error": false,
       "hq": "israel",
-      "jobs_count": 2,
+      "jobs_count": 1,
       "name": "Playtika",
       "track": "hightech"
     },
@@ -1366,6 +1366,6 @@
     }
   ],
   "count": 124,
-  "generated_at": "2026-11-25T22:05:43+00:00",
+  "generated_at": "2026-11-26T14:38:47+00:00",
   "scanned_count": 93
 }

@@ -1,6 +1,6 @@
 {
   "count": 40,
-  "generated_at": "2026-11-25T22:05:43+00:00",
+  "generated_at": "2026-11-26T14:38:47+00:00",
   "jobs": [
     {
       "company": "Aidoc",
@@ -116,7 +116,7 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:99.F69",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-11-25",
+      "posted_at": "2026-11-26",
       "source": "comeet",
       "title": "Senior Product Manager",
       "track": "hightech",
@@ -140,11 +140,23 @@
       "is_new": false,
       "job_id": "comeet:262988131015727264C41572E4C10AE10AE:69.474",
       "location": "Israel, Petah Tikva",
-      "posted_at": "2026-11-25",
+      "posted_at": "2026-11-26",
       "source": "comeet",
       "title": "Senior Product Manager - Post-Purchase",
       "track": "hightech",
       "url": "https://www.comeet.com/jobs/global-e/62.002/senior-product-manager---post-purchase/69.474"
+    },
+    {
+      "company": "JFrog",
+      "first_seen": "2026-11-26",
+      "is_new": true,
+      "job_id": "greenhouse:jfrog:8419108",
+      "location": "Tel Aviv/ Netanya, Israel",
+      "posted_at": "2026-11-26",
+      "source": "greenhouse",
+      "title": "Director of Product Marketing, Governance",
+      "track": "hightech",
+      "url": "https://join.jfrog.com/job/?job=8419108&gh_jid=8419108"
     },
     {
       "company": "JFrog",
@@ -188,7 +200,7 @@
       "is_new": false,
       "job_id": "comeet:2EDEA12ED017688C7147B1A555DA2ED:63.D6B",
       "location": "Israel",
-      "posted_at": "2026-11-24",
+      "posted_at": "2026-11-26",
       "source": "comeet",
       "title": "Product Manager, Product-Led Growth",
       "track": "hightech",
@@ -212,7 +224,7 @@
       "is_new": false,
       "job_id": "comeet:319F7D319C641BE11BE131963231915AF:AC.478",
       "location": "Israel",
-      "posted_at": "2026-11-25",
+      "posted_at": "2026-11-26",
       "source": "comeet",
       "title": "Product Manager – Unattended Retail",
       "track": "hightech",
@@ -236,7 +248,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:2B.47D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-11-25",
+      "posted_at": "2026-11-26",
       "source": "comeet",
       "title": "Marketing Automation & GTM Specialist",
       "track": "enterprise",
@@ -248,7 +260,7 @@
       "is_new": false,
       "job_id": "comeet:63A255C63A63A18E831D063A31D063A1F22:1F.27D",
       "location": "Tel-Aviv",
-      "posted_at": "2026-11-25",
+      "posted_at": "2026-11-26",
       "source": "comeet",
       "title": "Product Manager",
       "track": "enterprise",
@@ -363,18 +375,6 @@
       "url": "https://www.playtika.com/position/?gh_jid=5018983101"
     },
     {
-      "company": "Playtika",
-      "first_seen": "2026-10-04",
-      "is_new": false,
-      "job_id": "greenhouse:playtikaltd:4988423101",
-      "location": "Herzliya",
-      "posted_at": "2026-10-05",
-      "source": "greenhouse",
-      "title": "Product Manager - Maternity leave replacement ",
-      "track": "hightech",
-      "url": "https://www.playtika.com/position/?gh_jid=4988423101"
-    },
-    {
       "company": "Riverside",
       "first_seen": "2026-07-08",
       "is_new": false,
@@ -483,5 +483,5 @@
       "url": "https://www.comeet.com/jobs/wiliot/F6.003/senior-product-manager/25.575"
     }
   ],
-  "new_count": 0
+  "new_count": 1
 }
